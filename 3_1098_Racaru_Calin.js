@@ -46,7 +46,7 @@ Promise.all(promises)
     //   console.log('Dataset Information:', datasetInfo);
     //   console.log('Dataset Data:', datasetData);
     const dataFormatted = [];
-
+console.log('dataResult:', dataResult);
     dataResult.forEach(result => {
   const datasetInfo = result.dataset;
   const year = result.year;
@@ -56,16 +56,16 @@ Promise.all(promises)
   const indicator = datasetInfo.split('?')[0];
 
   // Iterate through countries
-  countries.forEach(country => {
-    const valoare = parseFloat(datasetData.value[country]);
-    console.log('datasettttttttt',datasetData);
-console.log('valoare:', valoare);
-    // Create an object for each data point
+  countries.forEach((country,index) => {
+    console.log('country:!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!', country);
+    const valoare = parseFloat(datasetData.value[index]);
+const valoareNonNull = valoare !== null ? parseFloat(valoare) : 0;
     const dataPoint = {
       tara: country,
       an: year.toString(),
       indicator: indicator,
       valoare: valoare,
+      
     };
 
     // Add the data point to the formatted data array
