@@ -11,8 +11,13 @@
         <strong class="alert-message" id="message">
             The data has been donloaded successfully!
         </strong>
-
+            <script>
+                var message = document.getElementById("message");
+                message.style.display = "block";
+                setTimeout(function(){ message.style.display = "none"; }, 3000);
+            </script>
      </div>
+     
 
      </div>
 </body>
