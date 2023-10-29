@@ -1,0 +1,9236 @@
+233_1098_Racaru_Calin.js:81 [
+  {
+    "tara": "BE",
+    "an": "2010",
+    "indicator": "demo_mlexpec",
+    "valoare": 73.5
+  },
+  {
+    "tara": "BG",
+    "an": "2010",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.9
+  },
+  {
+    "tara": "CZ",
+    "an": "2010",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.6
+  },
+  {
+    "tara": "DK",
+    "an": "2010",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.8
+  },
+  {
+    "tara": "DE",
+    "an": "2010",
+    "indicator": "demo_mlexpec",
+    "valoare": 75.3
+  },
+  {
+    "tara": "EE",
+    "an": "2010",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.1
+  },
+  {
+    "tara": "IE",
+    "an": "2010",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.9
+  },
+  {
+    "tara": "EL",
+    "an": "2010",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.6
+  },
+  {
+    "tara": "ES",
+    "an": "2010",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.1
+  },
+  {
+    "tara": "FR",
+    "an": "2010",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.1
+  },
+  {
+    "tara": "HR",
+    "an": "2010",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.5
+  },
+  {
+    "tara": "IT",
+    "an": "2010",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.8
+  },
+  {
+    "tara": "CY",
+    "an": "2010",
+    "indicator": "demo_mlexpec",
+    "valoare": 72.5
+  },
+  {
+    "tara": "LV",
+    "an": "2010",
+    "indicator": "demo_mlexpec",
+    "valoare": 72.6
+  },
+  {
+    "tara": "LT",
+    "an": "2010",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.1
+  },
+  {
+    "tara": "LU",
+    "an": "2010",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.1
+  },
+  {
+    "tara": "HU",
+    "an": "2010",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.9
+  },
+  {
+    "tara": "MT",
+    "an": "2010",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.3
+  },
+  {
+    "tara": "NL",
+    "an": "2010",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.1
+  },
+  {
+    "tara": "AT",
+    "an": "2010",
+    "indicator": "demo_mlexpec",
+    "valoare": 75.8
+  },
+  {
+    "tara": "PL",
+    "an": "2010",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.3
+  },
+  {
+    "tara": "PT",
+    "an": "2010",
+    "indicator": "demo_mlexpec",
+    "valoare": 73.5
+  },
+  {
+    "tara": "RO",
+    "an": "2010",
+    "indicator": "demo_mlexpec",
+    "valoare": 79
+  },
+  {
+    "tara": "SI",
+    "an": "2010",
+    "indicator": "demo_mlexpec",
+    "valoare": 75
+  },
+  {
+    "tara": "SK",
+    "an": "2010",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.4
+  },
+  {
+    "tara": "FI",
+    "an": "2010",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.9
+  },
+  {
+    "tara": "SE",
+    "an": "2010",
+    "indicator": "demo_mlexpec",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2009",
+    "indicator": "demo_mlexpec",
+    "valoare": 73.4
+  },
+  {
+    "tara": "BG",
+    "an": "2009",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.6
+  },
+  {
+    "tara": "CZ",
+    "an": "2009",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.3
+  },
+  {
+    "tara": "DK",
+    "an": "2009",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.6
+  },
+  {
+    "tara": "DE",
+    "an": "2009",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.6
+  },
+  {
+    "tara": "EE",
+    "an": "2009",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.5
+  },
+  {
+    "tara": "IE",
+    "an": "2009",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.6
+  },
+  {
+    "tara": "EL",
+    "an": "2009",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.2
+  },
+  {
+    "tara": "ES",
+    "an": "2009",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.9
+  },
+  {
+    "tara": "FR",
+    "an": "2009",
+    "indicator": "demo_mlexpec",
+    "valoare": 75.7
+  },
+  {
+    "tara": "HR",
+    "an": "2009",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.1
+  },
+  {
+    "tara": "IT",
+    "an": "2009",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.2
+  },
+  {
+    "tara": "CY",
+    "an": "2009",
+    "indicator": "demo_mlexpec",
+    "valoare": 72.3
+  },
+  {
+    "tara": "LV",
+    "an": "2009",
+    "indicator": "demo_mlexpec",
+    "valoare": 72.4
+  },
+  {
+    "tara": "LT",
+    "an": "2009",
+    "indicator": "demo_mlexpec",
+    "valoare": 80
+  },
+  {
+    "tara": "LU",
+    "an": "2009",
+    "indicator": "demo_mlexpec",
+    "valoare": 73.8
+  },
+  {
+    "tara": "HU",
+    "an": "2009",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.8
+  },
+  {
+    "tara": "MT",
+    "an": "2009",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.2
+  },
+  {
+    "tara": "NL",
+    "an": "2009",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.8
+  },
+  {
+    "tara": "AT",
+    "an": "2009",
+    "indicator": "demo_mlexpec",
+    "valoare": 75.3
+  },
+  {
+    "tara": "PL",
+    "an": "2009",
+    "indicator": "demo_mlexpec",
+    "valoare": 79
+  },
+  {
+    "tara": "PT",
+    "an": "2009",
+    "indicator": "demo_mlexpec",
+    "valoare": 73.5
+  },
+  {
+    "tara": "RO",
+    "an": "2009",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.5
+  },
+  {
+    "tara": "SI",
+    "an": "2009",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.8
+  },
+  {
+    "tara": "SK",
+    "an": "2009",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.3
+  },
+  {
+    "tara": "FI",
+    "an": "2009",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.7
+  },
+  {
+    "tara": "SE",
+    "an": "2009",
+    "indicator": "demo_mlexpec",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2012",
+    "indicator": "demo_mlexpec",
+    "valoare": 74
+  },
+  {
+    "tara": "BG",
+    "an": "2012",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.4
+  },
+  {
+    "tara": "CZ",
+    "an": "2012",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.4
+  },
+  {
+    "tara": "DK",
+    "an": "2012",
+    "indicator": "demo_mlexpec",
+    "valoare": 80
+  },
+  {
+    "tara": "DE",
+    "an": "2012",
+    "indicator": "demo_mlexpec",
+    "valoare": 76
+  },
+  {
+    "tara": "EE",
+    "an": "2012",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.2
+  },
+  {
+    "tara": "IE",
+    "an": "2012",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.9
+  },
+  {
+    "tara": "EL",
+    "an": "2012",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.8
+  },
+  {
+    "tara": "ES",
+    "an": "2012",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.4
+  },
+  {
+    "tara": "FR",
+    "an": "2012",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.6
+  },
+  {
+    "tara": "HR",
+    "an": "2012",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.6
+  },
+  {
+    "tara": "IT",
+    "an": "2012",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.4
+  },
+  {
+    "tara": "CY",
+    "an": "2012",
+    "indicator": "demo_mlexpec",
+    "valoare": 73.6
+  },
+  {
+    "tara": "LV",
+    "an": "2012",
+    "indicator": "demo_mlexpec",
+    "valoare": 73.4
+  },
+  {
+    "tara": "LT",
+    "an": "2012",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.7
+  },
+  {
+    "tara": "LU",
+    "an": "2012",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.6
+  },
+  {
+    "tara": "HU",
+    "an": "2012",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.3
+  },
+  {
+    "tara": "MT",
+    "an": "2012",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.5
+  },
+  {
+    "tara": "NL",
+    "an": "2012",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.3
+  },
+  {
+    "tara": "AT",
+    "an": "2012",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.2
+  },
+  {
+    "tara": "PL",
+    "an": "2012",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.8
+  },
+  {
+    "tara": "PT",
+    "an": "2012",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.2
+  },
+  {
+    "tara": "RO",
+    "an": "2012",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.4
+  },
+  {
+    "tara": "SI",
+    "an": "2012",
+    "indicator": "demo_mlexpec",
+    "valoare": 75.7
+  },
+  {
+    "tara": "SK",
+    "an": "2012",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.9
+  },
+  {
+    "tara": "FI",
+    "an": "2012",
+    "indicator": "demo_mlexpec",
+    "valoare": 81
+  },
+  {
+    "tara": "SE",
+    "an": "2012",
+    "indicator": "demo_mlexpec",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2011",
+    "indicator": "demo_mlexpec",
+    "valoare": 73.9
+  },
+  {
+    "tara": "BG",
+    "an": "2011",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.2
+  },
+  {
+    "tara": "CZ",
+    "an": "2011",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.1
+  },
+  {
+    "tara": "DK",
+    "an": "2011",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.9
+  },
+  {
+    "tara": "DE",
+    "an": "2011",
+    "indicator": "demo_mlexpec",
+    "valoare": 75.8
+  },
+  {
+    "tara": "EE",
+    "an": "2011",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.1
+  },
+  {
+    "tara": "IE",
+    "an": "2011",
+    "indicator": "demo_mlexpec",
+    "valoare": 80
+  },
+  {
+    "tara": "EL",
+    "an": "2011",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.8
+  },
+  {
+    "tara": "ES",
+    "an": "2011",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.6
+  },
+  {
+    "tara": "FR",
+    "an": "2011",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.5
+  },
+  {
+    "tara": "HR",
+    "an": "2011",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.6
+  },
+  {
+    "tara": "IT",
+    "an": "2011",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.5
+  },
+  {
+    "tara": "CY",
+    "an": "2011",
+    "indicator": "demo_mlexpec",
+    "valoare": 73.4
+  },
+  {
+    "tara": "LV",
+    "an": "2011",
+    "indicator": "demo_mlexpec",
+    "valoare": 73.1
+  },
+  {
+    "tara": "LT",
+    "an": "2011",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.4
+  },
+  {
+    "tara": "LU",
+    "an": "2011",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.5
+  },
+  {
+    "tara": "HU",
+    "an": "2011",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.4
+  },
+  {
+    "tara": "MT",
+    "an": "2011",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.6
+  },
+  {
+    "tara": "NL",
+    "an": "2011",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.4
+  },
+  {
+    "tara": "AT",
+    "an": "2011",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.2
+  },
+  {
+    "tara": "PL",
+    "an": "2011",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.9
+  },
+  {
+    "tara": "PT",
+    "an": "2011",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.2
+  },
+  {
+    "tara": "RO",
+    "an": "2011",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.4
+  },
+  {
+    "tara": "SI",
+    "an": "2011",
+    "indicator": "demo_mlexpec",
+    "valoare": 75.5
+  },
+  {
+    "tara": "SK",
+    "an": "2011",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.8
+  },
+  {
+    "tara": "FI",
+    "an": "2011",
+    "indicator": "demo_mlexpec",
+    "valoare": 81
+  },
+  {
+    "tara": "SE",
+    "an": "2011",
+    "indicator": "demo_mlexpec",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2013",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.5
+  },
+  {
+    "tara": "BG",
+    "an": "2013",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.5
+  },
+  {
+    "tara": "CZ",
+    "an": "2013",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.6
+  },
+  {
+    "tara": "DK",
+    "an": "2013",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.9
+  },
+  {
+    "tara": "DE",
+    "an": "2013",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.7
+  },
+  {
+    "tara": "EE",
+    "an": "2013",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.3
+  },
+  {
+    "tara": "IE",
+    "an": "2013",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.7
+  },
+  {
+    "tara": "EL",
+    "an": "2013",
+    "indicator": "demo_mlexpec",
+    "valoare": 82.4
+  },
+  {
+    "tara": "ES",
+    "an": "2013",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.7
+  },
+  {
+    "tara": "FR",
+    "an": "2013",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.1
+  },
+  {
+    "tara": "HR",
+    "an": "2013",
+    "indicator": "demo_mlexpec",
+    "valoare": 82.1
+  },
+  {
+    "tara": "IT",
+    "an": "2013",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.7
+  },
+  {
+    "tara": "CY",
+    "an": "2013",
+    "indicator": "demo_mlexpec",
+    "valoare": 73.7
+  },
+  {
+    "tara": "LV",
+    "an": "2013",
+    "indicator": "demo_mlexpec",
+    "valoare": 73.4
+  },
+  {
+    "tara": "LT",
+    "an": "2013",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.2
+  },
+  {
+    "tara": "LU",
+    "an": "2013",
+    "indicator": "demo_mlexpec",
+    "valoare": 75.2
+  },
+  {
+    "tara": "HU",
+    "an": "2013",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.4
+  },
+  {
+    "tara": "MT",
+    "an": "2013",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.7
+  },
+  {
+    "tara": "NL",
+    "an": "2013",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.5
+  },
+  {
+    "tara": "AT",
+    "an": "2013",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.5
+  },
+  {
+    "tara": "PL",
+    "an": "2013",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.1
+  },
+  {
+    "tara": "PT",
+    "an": "2013",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.8
+  },
+  {
+    "tara": "RO",
+    "an": "2013",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.7
+  },
+  {
+    "tara": "SI",
+    "an": "2013",
+    "indicator": "demo_mlexpec",
+    "valoare": 76
+  },
+  {
+    "tara": "SK",
+    "an": "2013",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.3
+  },
+  {
+    "tara": "FI",
+    "an": "2013",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.2
+  },
+  {
+    "tara": "SE",
+    "an": "2013",
+    "indicator": "demo_mlexpec",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2016",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.4
+  },
+  {
+    "tara": "BG",
+    "an": "2016",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.4
+  },
+  {
+    "tara": "CZ",
+    "an": "2016",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.2
+  },
+  {
+    "tara": "DK",
+    "an": "2016",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.3
+  },
+  {
+    "tara": "DE",
+    "an": "2016",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.2
+  },
+  {
+    "tara": "EE",
+    "an": "2016",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.9
+  },
+  {
+    "tara": "IE",
+    "an": "2016",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.8
+  },
+  {
+    "tara": "EL",
+    "an": "2016",
+    "indicator": "demo_mlexpec",
+    "valoare": 82.7
+  },
+  {
+    "tara": "ES",
+    "an": "2016",
+    "indicator": "demo_mlexpec",
+    "valoare": 82
+  },
+  {
+    "tara": "FR",
+    "an": "2016",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.5
+  },
+  {
+    "tara": "HR",
+    "an": "2016",
+    "indicator": "demo_mlexpec",
+    "valoare": 82.6
+  },
+  {
+    "tara": "IT",
+    "an": "2016",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.9
+  },
+  {
+    "tara": "CY",
+    "an": "2016",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.1
+  },
+  {
+    "tara": "LV",
+    "an": "2016",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.3
+  },
+  {
+    "tara": "LT",
+    "an": "2016",
+    "indicator": "demo_mlexpec",
+    "valoare": 82
+  },
+  {
+    "tara": "LU",
+    "an": "2016",
+    "indicator": "demo_mlexpec",
+    "valoare": 75.5
+  },
+  {
+    "tara": "HU",
+    "an": "2016",
+    "indicator": "demo_mlexpec",
+    "valoare": 82.2
+  },
+  {
+    "tara": "MT",
+    "an": "2016",
+    "indicator": "demo_mlexpec",
+    "valoare": 81
+  },
+  {
+    "tara": "NL",
+    "an": "2016",
+    "indicator": "demo_mlexpec",
+    "valoare": 81
+  },
+  {
+    "tara": "AT",
+    "an": "2016",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.3
+  },
+  {
+    "tara": "PL",
+    "an": "2016",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.6
+  },
+  {
+    "tara": "PT",
+    "an": "2016",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.8
+  },
+  {
+    "tara": "RO",
+    "an": "2016",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.4
+  },
+  {
+    "tara": "SI",
+    "an": "2016",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.7
+  },
+  {
+    "tara": "SK",
+    "an": "2016",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.6
+  },
+  {
+    "tara": "FI",
+    "an": "2016",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.6
+  },
+  {
+    "tara": "SE",
+    "an": "2016",
+    "indicator": "demo_mlexpec",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2014",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.1
+  },
+  {
+    "tara": "BG",
+    "an": "2014",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.1
+  },
+  {
+    "tara": "CZ",
+    "an": "2014",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.1
+  },
+  {
+    "tara": "DK",
+    "an": "2014",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.4
+  },
+  {
+    "tara": "DE",
+    "an": "2014",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.6
+  },
+  {
+    "tara": "EE",
+    "an": "2014",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.7
+  },
+  {
+    "tara": "IE",
+    "an": "2014",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.8
+  },
+  {
+    "tara": "EL",
+    "an": "2014",
+    "indicator": "demo_mlexpec",
+    "valoare": 82.5
+  },
+  {
+    "tara": "ES",
+    "an": "2014",
+    "indicator": "demo_mlexpec",
+    "valoare": 82.2
+  },
+  {
+    "tara": "FR",
+    "an": "2014",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.3
+  },
+  {
+    "tara": "HR",
+    "an": "2014",
+    "indicator": "demo_mlexpec",
+    "valoare": 82.5
+  },
+  {
+    "tara": "IT",
+    "an": "2014",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.5
+  },
+  {
+    "tara": "CY",
+    "an": "2014",
+    "indicator": "demo_mlexpec",
+    "valoare": 73.7
+  },
+  {
+    "tara": "LV",
+    "an": "2014",
+    "indicator": "demo_mlexpec",
+    "valoare": 74
+  },
+  {
+    "tara": "LT",
+    "an": "2014",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.5
+  },
+  {
+    "tara": "LU",
+    "an": "2014",
+    "indicator": "demo_mlexpec",
+    "valoare": 75.3
+  },
+  {
+    "tara": "HU",
+    "an": "2014",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.5
+  },
+  {
+    "tara": "MT",
+    "an": "2014",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.1
+  },
+  {
+    "tara": "NL",
+    "an": "2014",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.9
+  },
+  {
+    "tara": "AT",
+    "an": "2014",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.1
+  },
+  {
+    "tara": "PL",
+    "an": "2014",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.6
+  },
+  {
+    "tara": "PT",
+    "an": "2014",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.6
+  },
+  {
+    "tara": "RO",
+    "an": "2014",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.4
+  },
+  {
+    "tara": "SI",
+    "an": "2014",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.4
+  },
+  {
+    "tara": "SK",
+    "an": "2014",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.5
+  },
+  {
+    "tara": "FI",
+    "an": "2014",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.5
+  },
+  {
+    "tara": "SE",
+    "an": "2014",
+    "indicator": "demo_mlexpec",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2015",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.1
+  },
+  {
+    "tara": "BG",
+    "an": "2015",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.9
+  },
+  {
+    "tara": "CZ",
+    "an": "2015",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.1
+  },
+  {
+    "tara": "DK",
+    "an": "2015",
+    "indicator": "demo_mlexpec",
+    "valoare": 80
+  },
+  {
+    "tara": "DE",
+    "an": "2015",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.2
+  },
+  {
+    "tara": "EE",
+    "an": "2015",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.8
+  },
+  {
+    "tara": "IE",
+    "an": "2015",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.4
+  },
+  {
+    "tara": "EL",
+    "an": "2015",
+    "indicator": "demo_mlexpec",
+    "valoare": 82.2
+  },
+  {
+    "tara": "ES",
+    "an": "2015",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.8
+  },
+  {
+    "tara": "FR",
+    "an": "2015",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.8
+  },
+  {
+    "tara": "HR",
+    "an": "2015",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.9
+  },
+  {
+    "tara": "IT",
+    "an": "2015",
+    "indicator": "demo_mlexpec",
+    "valoare": 81
+  },
+  {
+    "tara": "CY",
+    "an": "2015",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.1
+  },
+  {
+    "tara": "LV",
+    "an": "2015",
+    "indicator": "demo_mlexpec",
+    "valoare": 73.9
+  },
+  {
+    "tara": "LT",
+    "an": "2015",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.6
+  },
+  {
+    "tara": "LU",
+    "an": "2015",
+    "indicator": "demo_mlexpec",
+    "valoare": 75
+  },
+  {
+    "tara": "HU",
+    "an": "2015",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.5
+  },
+  {
+    "tara": "MT",
+    "an": "2015",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.9
+  },
+  {
+    "tara": "NL",
+    "an": "2015",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.6
+  },
+  {
+    "tara": "AT",
+    "an": "2015",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.9
+  },
+  {
+    "tara": "PL",
+    "an": "2015",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.5
+  },
+  {
+    "tara": "PT",
+    "an": "2015",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.5
+  },
+  {
+    "tara": "RO",
+    "an": "2015",
+    "indicator": "demo_mlexpec",
+    "valoare": 80
+  },
+  {
+    "tara": "SI",
+    "an": "2015",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.1
+  },
+  {
+    "tara": "SK",
+    "an": "2015",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.7
+  },
+  {
+    "tara": "FI",
+    "an": "2015",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.4
+  },
+  {
+    "tara": "SE",
+    "an": "2015",
+    "indicator": "demo_mlexpec",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2017",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.3
+  },
+  {
+    "tara": "BG",
+    "an": "2017",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.3
+  },
+  {
+    "tara": "CZ",
+    "an": "2017",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.5
+  },
+  {
+    "tara": "DK",
+    "an": "2017",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.3
+  },
+  {
+    "tara": "DE",
+    "an": "2017",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.6
+  },
+  {
+    "tara": "EE",
+    "an": "2017",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.5
+  },
+  {
+    "tara": "IE",
+    "an": "2017",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.6
+  },
+  {
+    "tara": "EL",
+    "an": "2017",
+    "indicator": "demo_mlexpec",
+    "valoare": 82.6
+  },
+  {
+    "tara": "ES",
+    "an": "2017",
+    "indicator": "demo_mlexpec",
+    "valoare": 82.1
+  },
+  {
+    "tara": "FR",
+    "an": "2017",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.3
+  },
+  {
+    "tara": "HR",
+    "an": "2017",
+    "indicator": "demo_mlexpec",
+    "valoare": 82.3
+  },
+  {
+    "tara": "IT",
+    "an": "2017",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.3
+  },
+  {
+    "tara": "CY",
+    "an": "2017",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.2
+  },
+  {
+    "tara": "LV",
+    "an": "2017",
+    "indicator": "demo_mlexpec",
+    "valoare": 75
+  },
+  {
+    "tara": "LT",
+    "an": "2017",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.4
+  },
+  {
+    "tara": "LU",
+    "an": "2017",
+    "indicator": "demo_mlexpec",
+    "valoare": 75.3
+  },
+  {
+    "tara": "HU",
+    "an": "2017",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.9
+  },
+  {
+    "tara": "MT",
+    "an": "2017",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.1
+  },
+  {
+    "tara": "NL",
+    "an": "2017",
+    "indicator": "demo_mlexpec",
+    "valoare": 81
+  },
+  {
+    "tara": "AT",
+    "an": "2017",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.2
+  },
+  {
+    "tara": "PL",
+    "an": "2017",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.8
+  },
+  {
+    "tara": "PT",
+    "an": "2017",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.7
+  },
+  {
+    "tara": "RO",
+    "an": "2017",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.4
+  },
+  {
+    "tara": "SI",
+    "an": "2017",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.7
+  },
+  {
+    "tara": "SK",
+    "an": "2017",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.9
+  },
+  {
+    "tara": "FI",
+    "an": "2017",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.7
+  },
+  {
+    "tara": "SE",
+    "an": "2017",
+    "indicator": "demo_mlexpec",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2018",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.4
+  },
+  {
+    "tara": "BG",
+    "an": "2018",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.3
+  },
+  {
+    "tara": "CZ",
+    "an": "2018",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.3
+  },
+  {
+    "tara": "DK",
+    "an": "2018",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.2
+  },
+  {
+    "tara": "DE",
+    "an": "2018",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.7
+  },
+  {
+    "tara": "EE",
+    "an": "2018",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.5
+  },
+  {
+    "tara": "IE",
+    "an": "2018",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.1
+  },
+  {
+    "tara": "EL",
+    "an": "2018",
+    "indicator": "demo_mlexpec",
+    "valoare": 82.7
+  },
+  {
+    "tara": "ES",
+    "an": "2018",
+    "indicator": "demo_mlexpec",
+    "valoare": 82.2
+  },
+  {
+    "tara": "FR",
+    "an": "2018",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.6
+  },
+  {
+    "tara": "HR",
+    "an": "2018",
+    "indicator": "demo_mlexpec",
+    "valoare": 82.7
+  },
+  {
+    "tara": "IT",
+    "an": "2018",
+    "indicator": "demo_mlexpec",
+    "valoare": 82.1
+  },
+  {
+    "tara": "CY",
+    "an": "2018",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.3
+  },
+  {
+    "tara": "LV",
+    "an": "2018",
+    "indicator": "demo_mlexpec",
+    "valoare": 75.3
+  },
+  {
+    "tara": "LT",
+    "an": "2018",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.7
+  },
+  {
+    "tara": "LU",
+    "an": "2018",
+    "indicator": "demo_mlexpec",
+    "valoare": 75.5
+  },
+  {
+    "tara": "HU",
+    "an": "2018",
+    "indicator": "demo_mlexpec",
+    "valoare": 82
+  },
+  {
+    "tara": "MT",
+    "an": "2018",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.2
+  },
+  {
+    "tara": "NL",
+    "an": "2018",
+    "indicator": "demo_mlexpec",
+    "valoare": 81
+  },
+  {
+    "tara": "AT",
+    "an": "2018",
+    "indicator": "demo_mlexpec",
+    "valoare": 77
+  },
+  {
+    "tara": "PL",
+    "an": "2018",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.8
+  },
+  {
+    "tara": "PT",
+    "an": "2018",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.8
+  },
+  {
+    "tara": "RO",
+    "an": "2018",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.6
+  },
+  {
+    "tara": "SI",
+    "an": "2018",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.8
+  },
+  {
+    "tara": "SK",
+    "an": "2018",
+    "indicator": "demo_mlexpec",
+    "valoare": 81
+  },
+  {
+    "tara": "FI",
+    "an": "2018",
+    "indicator": "demo_mlexpec",
+    "valoare": 81.7
+  },
+  {
+    "tara": "SE",
+    "an": "2018",
+    "indicator": "demo_mlexpec",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2001",
+    "indicator": "demo_pjan",
+    "valoare": 8149468
+  },
+  {
+    "tara": "BG",
+    "an": "2001",
+    "indicator": "demo_pjan",
+    "valoare": 10232027
+  },
+  {
+    "tara": "CZ",
+    "an": "2001",
+    "indicator": "demo_pjan",
+    "valoare": 5349212
+  },
+  {
+    "tara": "DK",
+    "an": "2001",
+    "indicator": "demo_pjan",
+    "valoare": 82259540
+  },
+  {
+    "tara": "DE",
+    "an": "2001",
+    "indicator": "demo_pjan",
+    "valoare": 1392720
+  },
+  {
+    "tara": "EE",
+    "an": "2001",
+    "indicator": "demo_pjan",
+    "valoare": 3832783
+  },
+  {
+    "tara": "IE",
+    "an": "2001",
+    "indicator": "demo_pjan",
+    "valoare": 10835989
+  },
+  {
+    "tara": "EL",
+    "an": "2001",
+    "indicator": "demo_pjan",
+    "valoare": 40665545
+  },
+  {
+    "tara": "ES",
+    "an": "2001",
+    "indicator": "demo_pjan",
+    "valoare": 60979315
+  },
+  {
+    "tara": "FR",
+    "an": "2001",
+    "indicator": "demo_pjan",
+    "valoare": 4295406
+  },
+  {
+    "tara": "HR",
+    "an": "2001",
+    "indicator": "demo_pjan",
+    "valoare": 56960692
+  },
+  {
+    "tara": "IT",
+    "an": "2001",
+    "indicator": "demo_pjan",
+    "valoare": 697549
+  },
+  {
+    "tara": "CY",
+    "an": "2001",
+    "indicator": "demo_pjan",
+    "valoare": 2353384
+  },
+  {
+    "tara": "LV",
+    "an": "2001",
+    "indicator": "demo_pjan",
+    "valoare": 3486998
+  },
+  {
+    "tara": "LT",
+    "an": "2001",
+    "indicator": "demo_pjan",
+    "valoare": 439000
+  },
+  {
+    "tara": "LU",
+    "an": "2001",
+    "indicator": "demo_pjan",
+    "valoare": 10200298
+  },
+  {
+    "tara": "HU",
+    "an": "2001",
+    "indicator": "demo_pjan",
+    "valoare": 391415
+  },
+  {
+    "tara": "MT",
+    "an": "2001",
+    "indicator": "demo_pjan",
+    "valoare": 15987075
+  },
+  {
+    "tara": "NL",
+    "an": "2001",
+    "indicator": "demo_pjan",
+    "valoare": 8020946
+  },
+  {
+    "tara": "AT",
+    "an": "2001",
+    "indicator": "demo_pjan",
+    "valoare": 38253955
+  },
+  {
+    "tara": "PL",
+    "an": "2001",
+    "indicator": "demo_pjan",
+    "valoare": 10330774
+  },
+  {
+    "tara": "PT",
+    "an": "2001",
+    "indicator": "demo_pjan",
+    "valoare": 22430457
+  },
+  {
+    "tara": "RO",
+    "an": "2001",
+    "indicator": "demo_pjan",
+    "valoare": 1990094
+  },
+  {
+    "tara": "SI",
+    "an": "2001",
+    "indicator": "demo_pjan",
+    "valoare": 5378783
+  },
+  {
+    "tara": "SK",
+    "an": "2001",
+    "indicator": "demo_pjan",
+    "valoare": 5181115
+  },
+  {
+    "tara": "FI",
+    "an": "2001",
+    "indicator": "demo_pjan",
+    "valoare": 8882792
+  },
+  {
+    "tara": "SE",
+    "an": "2001",
+    "indicator": "demo_pjan",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2000",
+    "indicator": "demo_pjan",
+    "valoare": 8190876
+  },
+  {
+    "tara": "BG",
+    "an": "2000",
+    "indicator": "demo_pjan",
+    "valoare": 10278098
+  },
+  {
+    "tara": "CZ",
+    "an": "2000",
+    "indicator": "demo_pjan",
+    "valoare": 5330020
+  },
+  {
+    "tara": "DK",
+    "an": "2000",
+    "indicator": "demo_pjan",
+    "valoare": 82163475
+  },
+  {
+    "tara": "DE",
+    "an": "2000",
+    "indicator": "demo_pjan",
+    "valoare": 1401250
+  },
+  {
+    "tara": "EE",
+    "an": "2000",
+    "indicator": "demo_pjan",
+    "valoare": 3777565
+  },
+  {
+    "tara": "IE",
+    "an": "2000",
+    "indicator": "demo_pjan",
+    "valoare": 10775627
+  },
+  {
+    "tara": "EL",
+    "an": "2000",
+    "indicator": "demo_pjan",
+    "valoare": 40470182
+  },
+  {
+    "tara": "ES",
+    "an": "2000",
+    "indicator": "demo_pjan",
+    "valoare": 60545022
+  },
+  {
+    "tara": "FR",
+    "an": "2000",
+    "indicator": "demo_pjan",
+    "valoare": 4497735
+  },
+  {
+    "tara": "HR",
+    "an": "2000",
+    "indicator": "demo_pjan",
+    "valoare": 56923524
+  },
+  {
+    "tara": "IT",
+    "an": "2000",
+    "indicator": "demo_pjan",
+    "valoare": 690497
+  },
+  {
+    "tara": "CY",
+    "an": "2000",
+    "indicator": "demo_pjan",
+    "valoare": 2381715
+  },
+  {
+    "tara": "LV",
+    "an": "2000",
+    "indicator": "demo_pjan",
+    "valoare": 3512074
+  },
+  {
+    "tara": "LT",
+    "an": "2000",
+    "indicator": "demo_pjan",
+    "valoare": 433600
+  },
+  {
+    "tara": "LU",
+    "an": "2000",
+    "indicator": "demo_pjan",
+    "valoare": 10221644
+  },
+  {
+    "tara": "HU",
+    "an": "2000",
+    "indicator": "demo_pjan",
+    "valoare": 388759
+  },
+  {
+    "tara": "MT",
+    "an": "2000",
+    "indicator": "demo_pjan",
+    "valoare": 15863950
+  },
+  {
+    "tara": "NL",
+    "an": "2000",
+    "indicator": "demo_pjan",
+    "valoare": 8002186
+  },
+  {
+    "tara": "AT",
+    "an": "2000",
+    "indicator": "demo_pjan",
+    "valoare": 38263303
+  },
+  {
+    "tara": "PL",
+    "an": "2000",
+    "indicator": "demo_pjan",
+    "valoare": 10249022
+  },
+  {
+    "tara": "PT",
+    "an": "2000",
+    "indicator": "demo_pjan",
+    "valoare": 22455485
+  },
+  {
+    "tara": "RO",
+    "an": "2000",
+    "indicator": "demo_pjan",
+    "valoare": 1987755
+  },
+  {
+    "tara": "SI",
+    "an": "2000",
+    "indicator": "demo_pjan",
+    "valoare": 5398657
+  },
+  {
+    "tara": "SK",
+    "an": "2000",
+    "indicator": "demo_pjan",
+    "valoare": 5171302
+  },
+  {
+    "tara": "FI",
+    "an": "2000",
+    "indicator": "demo_pjan",
+    "valoare": 8861426
+  },
+  {
+    "tara": "SE",
+    "an": "2000",
+    "indicator": "demo_pjan",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2002",
+    "indicator": "demo_pjan",
+    "valoare": 7868815
+  },
+  {
+    "tara": "BG",
+    "an": "2002",
+    "indicator": "demo_pjan",
+    "valoare": 10201182
+  },
+  {
+    "tara": "CZ",
+    "an": "2002",
+    "indicator": "demo_pjan",
+    "valoare": 5368354
+  },
+  {
+    "tara": "DK",
+    "an": "2002",
+    "indicator": "demo_pjan",
+    "valoare": 82440309
+  },
+  {
+    "tara": "DE",
+    "an": "2002",
+    "indicator": "demo_pjan",
+    "valoare": 1383510
+  },
+  {
+    "tara": "EE",
+    "an": "2002",
+    "indicator": "demo_pjan",
+    "valoare": 3899702
+  },
+  {
+    "tara": "IE",
+    "an": "2002",
+    "indicator": "demo_pjan",
+    "valoare": 10888274
+  },
+  {
+    "tara": "EL",
+    "an": "2002",
+    "indicator": "demo_pjan",
+    "valoare": 41035278
+  },
+  {
+    "tara": "ES",
+    "an": "2002",
+    "indicator": "demo_pjan",
+    "valoare": 61424036
+  },
+  {
+    "tara": "FR",
+    "an": "2002",
+    "indicator": "demo_pjan",
+    "valoare": 4305494
+  },
+  {
+    "tara": "HR",
+    "an": "2002",
+    "indicator": "demo_pjan",
+    "valoare": 56987507
+  },
+  {
+    "tara": "IT",
+    "an": "2002",
+    "indicator": "demo_pjan",
+    "valoare": 705539
+  },
+  {
+    "tara": "CY",
+    "an": "2002",
+    "indicator": "demo_pjan",
+    "valoare": 2320956
+  },
+  {
+    "tara": "LV",
+    "an": "2002",
+    "indicator": "demo_pjan",
+    "valoare": 3454637
+  },
+  {
+    "tara": "LT",
+    "an": "2002",
+    "indicator": "demo_pjan",
+    "valoare": 444050
+  },
+  {
+    "tara": "LU",
+    "an": "2002",
+    "indicator": "demo_pjan",
+    "valoare": 10174853
+  },
+  {
+    "tara": "HU",
+    "an": "2002",
+    "indicator": "demo_pjan",
+    "valoare": 394641
+  },
+  {
+    "tara": "MT",
+    "an": "2002",
+    "indicator": "demo_pjan",
+    "valoare": 16105285
+  },
+  {
+    "tara": "NL",
+    "an": "2002",
+    "indicator": "demo_pjan",
+    "valoare": 8063640
+  },
+  {
+    "tara": "AT",
+    "an": "2002",
+    "indicator": "demo_pjan",
+    "valoare": 38242197
+  },
+  {
+    "tara": "PL",
+    "an": "2002",
+    "indicator": "demo_pjan",
+    "valoare": 10394669
+  },
+  {
+    "tara": "PT",
+    "an": "2002",
+    "indicator": "demo_pjan",
+    "valoare": 21833483
+  },
+  {
+    "tara": "RO",
+    "an": "2002",
+    "indicator": "demo_pjan",
+    "valoare": 1994026
+  },
+  {
+    "tara": "SI",
+    "an": "2002",
+    "indicator": "demo_pjan",
+    "valoare": 5378951
+  },
+  {
+    "tara": "SK",
+    "an": "2002",
+    "indicator": "demo_pjan",
+    "valoare": 5194901
+  },
+  {
+    "tara": "FI",
+    "an": "2002",
+    "indicator": "demo_pjan",
+    "valoare": 8909128
+  },
+  {
+    "tara": "SE",
+    "an": "2002",
+    "indicator": "demo_pjan",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2004",
+    "indicator": "demo_pjan",
+    "valoare": 7745147
+  },
+  {
+    "tara": "BG",
+    "an": "2004",
+    "indicator": "demo_pjan",
+    "valoare": 10195347
+  },
+  {
+    "tara": "CZ",
+    "an": "2004",
+    "indicator": "demo_pjan",
+    "valoare": 5397640
+  },
+  {
+    "tara": "DK",
+    "an": "2004",
+    "indicator": "demo_pjan",
+    "valoare": 82531671
+  },
+  {
+    "tara": "DE",
+    "an": "2004",
+    "indicator": "demo_pjan",
+    "valoare": 1366250
+  },
+  {
+    "tara": "EE",
+    "an": "2004",
+    "indicator": "demo_pjan",
+    "valoare": 4028851
+  },
+  {
+    "tara": "IE",
+    "an": "2004",
+    "indicator": "demo_pjan",
+    "valoare": 10940369
+  },
+  {
+    "tara": "EL",
+    "an": "2004",
+    "indicator": "demo_pjan",
+    "valoare": 42547451
+  },
+  {
+    "tara": "ES",
+    "an": "2004",
+    "indicator": "demo_pjan",
+    "valoare": 62292241
+  },
+  {
+    "tara": "FR",
+    "an": "2004",
+    "indicator": "demo_pjan",
+    "valoare": 4305725
+  },
+  {
+    "tara": "HR",
+    "an": "2004",
+    "indicator": "demo_pjan",
+    "valoare": 57495900
+  },
+  {
+    "tara": "IT",
+    "an": "2004",
+    "indicator": "demo_pjan",
+    "valoare": 722893
+  },
+  {
+    "tara": "CY",
+    "an": "2004",
+    "indicator": "demo_pjan",
+    "valoare": 2276520
+  },
+  {
+    "tara": "LV",
+    "an": "2004",
+    "indicator": "demo_pjan",
+    "valoare": 3398929
+  },
+  {
+    "tara": "LT",
+    "an": "2004",
+    "indicator": "demo_pjan",
+    "valoare": 454960
+  },
+  {
+    "tara": "LU",
+    "an": "2004",
+    "indicator": "demo_pjan",
+    "valoare": 10116742
+  },
+  {
+    "tara": "HU",
+    "an": "2004",
+    "indicator": "demo_pjan",
+    "valoare": 399867
+  },
+  {
+    "tara": "MT",
+    "an": "2004",
+    "indicator": "demo_pjan",
+    "valoare": 16258032
+  },
+  {
+    "tara": "NL",
+    "an": "2004",
+    "indicator": "demo_pjan",
+    "valoare": 8142573
+  },
+  {
+    "tara": "AT",
+    "an": "2004",
+    "indicator": "demo_pjan",
+    "valoare": 38190608
+  },
+  {
+    "tara": "PL",
+    "an": "2004",
+    "indicator": "demo_pjan",
+    "valoare": 10473050
+  },
+  {
+    "tara": "PT",
+    "an": "2004",
+    "indicator": "demo_pjan",
+    "valoare": 21521142
+  },
+  {
+    "tara": "RO",
+    "an": "2004",
+    "indicator": "demo_pjan",
+    "valoare": 1996433
+  },
+  {
+    "tara": "SI",
+    "an": "2004",
+    "indicator": "demo_pjan",
+    "valoare": 5371875
+  },
+  {
+    "tara": "SK",
+    "an": "2004",
+    "indicator": "demo_pjan",
+    "valoare": 5219732
+  },
+  {
+    "tara": "FI",
+    "an": "2004",
+    "indicator": "demo_pjan",
+    "valoare": 8975670
+  },
+  {
+    "tara": "SE",
+    "an": "2004",
+    "indicator": "demo_pjan",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2003",
+    "indicator": "demo_pjan",
+    "valoare": 7805506
+  },
+  {
+    "tara": "BG",
+    "an": "2003",
+    "indicator": "demo_pjan",
+    "valoare": 10192649
+  },
+  {
+    "tara": "CZ",
+    "an": "2003",
+    "indicator": "demo_pjan",
+    "valoare": 5383507
+  },
+  {
+    "tara": "DK",
+    "an": "2003",
+    "indicator": "demo_pjan",
+    "valoare": 82536680
+  },
+  {
+    "tara": "DE",
+    "an": "2003",
+    "indicator": "demo_pjan",
+    "valoare": 1375190
+  },
+  {
+    "tara": "EE",
+    "an": "2003",
+    "indicator": "demo_pjan",
+    "valoare": 3964191
+  },
+  {
+    "tara": "IE",
+    "an": "2003",
+    "indicator": "demo_pjan",
+    "valoare": 10915770
+  },
+  {
+    "tara": "EL",
+    "an": "2003",
+    "indicator": "demo_pjan",
+    "valoare": 41827838
+  },
+  {
+    "tara": "ES",
+    "an": "2003",
+    "indicator": "demo_pjan",
+    "valoare": 61864088
+  },
+  {
+    "tara": "FR",
+    "an": "2003",
+    "indicator": "demo_pjan",
+    "valoare": 4305384
+  },
+  {
+    "tara": "HR",
+    "an": "2003",
+    "indicator": "demo_pjan",
+    "valoare": 57130506
+  },
+  {
+    "tara": "IT",
+    "an": "2003",
+    "indicator": "demo_pjan",
+    "valoare": 713720
+  },
+  {
+    "tara": "CY",
+    "an": "2003",
+    "indicator": "demo_pjan",
+    "valoare": 2299390
+  },
+  {
+    "tara": "LV",
+    "an": "2003",
+    "indicator": "demo_pjan",
+    "valoare": 3431497
+  },
+  {
+    "tara": "LT",
+    "an": "2003",
+    "indicator": "demo_pjan",
+    "valoare": 448300
+  },
+  {
+    "tara": "LU",
+    "an": "2003",
+    "indicator": "demo_pjan",
+    "valoare": 10142362
+  },
+  {
+    "tara": "HU",
+    "an": "2003",
+    "indicator": "demo_pjan",
+    "valoare": 397296
+  },
+  {
+    "tara": "MT",
+    "an": "2003",
+    "indicator": "demo_pjan",
+    "valoare": 16192572
+  },
+  {
+    "tara": "NL",
+    "an": "2003",
+    "indicator": "demo_pjan",
+    "valoare": 8100273
+  },
+  {
+    "tara": "AT",
+    "an": "2003",
+    "indicator": "demo_pjan",
+    "valoare": 38218531
+  },
+  {
+    "tara": "PL",
+    "an": "2003",
+    "indicator": "demo_pjan",
+    "valoare": 10444592
+  },
+  {
+    "tara": "PT",
+    "an": "2003",
+    "indicator": "demo_pjan",
+    "valoare": 21627509
+  },
+  {
+    "tara": "RO",
+    "an": "2003",
+    "indicator": "demo_pjan",
+    "valoare": 1995033
+  },
+  {
+    "tara": "SI",
+    "an": "2003",
+    "indicator": "demo_pjan",
+    "valoare": 5374873
+  },
+  {
+    "tara": "SK",
+    "an": "2003",
+    "indicator": "demo_pjan",
+    "valoare": 5206295
+  },
+  {
+    "tara": "FI",
+    "an": "2003",
+    "indicator": "demo_pjan",
+    "valoare": 8940788
+  },
+  {
+    "tara": "SE",
+    "an": "2003",
+    "indicator": "demo_pjan",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2005",
+    "indicator": "demo_pjan",
+    "valoare": 7688573
+  },
+  {
+    "tara": "BG",
+    "an": "2005",
+    "indicator": "demo_pjan",
+    "valoare": 10198855
+  },
+  {
+    "tara": "CZ",
+    "an": "2005",
+    "indicator": "demo_pjan",
+    "valoare": 5411405
+  },
+  {
+    "tara": "DK",
+    "an": "2005",
+    "indicator": "demo_pjan",
+    "valoare": 82500849
+  },
+  {
+    "tara": "DE",
+    "an": "2005",
+    "indicator": "demo_pjan",
+    "valoare": 1358850
+  },
+  {
+    "tara": "EE",
+    "an": "2005",
+    "indicator": "demo_pjan",
+    "valoare": 4111672
+  },
+  {
+    "tara": "IE",
+    "an": "2005",
+    "indicator": "demo_pjan",
+    "valoare": 10969912
+  },
+  {
+    "tara": "EL",
+    "an": "2005",
+    "indicator": "demo_pjan",
+    "valoare": 43296338
+  },
+  {
+    "tara": "ES",
+    "an": "2005",
+    "indicator": "demo_pjan",
+    "valoare": 62772870
+  },
+  {
+    "tara": "FR",
+    "an": "2005",
+    "indicator": "demo_pjan",
+    "valoare": 4310861
+  },
+  {
+    "tara": "HR",
+    "an": "2005",
+    "indicator": "demo_pjan",
+    "valoare": 57874753
+  },
+  {
+    "tara": "IT",
+    "an": "2005",
+    "indicator": "demo_pjan",
+    "valoare": 733067
+  },
+  {
+    "tara": "CY",
+    "an": "2005",
+    "indicator": "demo_pjan",
+    "valoare": 2249724
+  },
+  {
+    "tara": "LV",
+    "an": "2005",
+    "indicator": "demo_pjan",
+    "valoare": 3355220
+  },
+  {
+    "tara": "LT",
+    "an": "2005",
+    "indicator": "demo_pjan",
+    "valoare": 461230
+  },
+  {
+    "tara": "LU",
+    "an": "2005",
+    "indicator": "demo_pjan",
+    "valoare": 10097549
+  },
+  {
+    "tara": "HU",
+    "an": "2005",
+    "indicator": "demo_pjan",
+    "valoare": 402668
+  },
+  {
+    "tara": "MT",
+    "an": "2005",
+    "indicator": "demo_pjan",
+    "valoare": 16305526
+  },
+  {
+    "tara": "NL",
+    "an": "2005",
+    "indicator": "demo_pjan",
+    "valoare": 8201359
+  },
+  {
+    "tara": "AT",
+    "an": "2005",
+    "indicator": "demo_pjan",
+    "valoare": 38173835
+  },
+  {
+    "tara": "PL",
+    "an": "2005",
+    "indicator": "demo_pjan",
+    "valoare": 10494672
+  },
+  {
+    "tara": "PT",
+    "an": "2005",
+    "indicator": "demo_pjan",
+    "valoare": 21382354
+  },
+  {
+    "tara": "RO",
+    "an": "2005",
+    "indicator": "demo_pjan",
+    "valoare": 1997590
+  },
+  {
+    "tara": "SI",
+    "an": "2005",
+    "indicator": "demo_pjan",
+    "valoare": 5372685
+  },
+  {
+    "tara": "SK",
+    "an": "2005",
+    "indicator": "demo_pjan",
+    "valoare": 5236611
+  },
+  {
+    "tara": "FI",
+    "an": "2005",
+    "indicator": "demo_pjan",
+    "valoare": 9011392
+  },
+  {
+    "tara": "SE",
+    "an": "2005",
+    "indicator": "demo_pjan",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2007",
+    "indicator": "demo_pjan",
+    "valoare": 7572673
+  },
+  {
+    "tara": "BG",
+    "an": "2007",
+    "indicator": "demo_pjan",
+    "valoare": 10254233
+  },
+  {
+    "tara": "CZ",
+    "an": "2007",
+    "indicator": "demo_pjan",
+    "valoare": 5447084
+  },
+  {
+    "tara": "DK",
+    "an": "2007",
+    "indicator": "demo_pjan",
+    "valoare": 82314906
+  },
+  {
+    "tara": "DE",
+    "an": "2007",
+    "indicator": "demo_pjan",
+    "valoare": 1342920
+  },
+  {
+    "tara": "EE",
+    "an": "2007",
+    "indicator": "demo_pjan",
+    "valoare": 4340118
+  },
+  {
+    "tara": "IE",
+    "an": "2007",
+    "indicator": "demo_pjan",
+    "valoare": 11036008
+  },
+  {
+    "tara": "EL",
+    "an": "2007",
+    "indicator": "demo_pjan",
+    "valoare": 44784666
+  },
+  {
+    "tara": "ES",
+    "an": "2007",
+    "indicator": "demo_pjan",
+    "valoare": 63645065
+  },
+  {
+    "tara": "FR",
+    "an": "2007",
+    "indicator": "demo_pjan",
+    "valoare": 4313530
+  },
+  {
+    "tara": "HR",
+    "an": "2007",
+    "indicator": "demo_pjan",
+    "valoare": 58223744
+  },
+  {
+    "tara": "IT",
+    "an": "2007",
+    "indicator": "demo_pjan",
+    "valoare": 757916
+  },
+  {
+    "tara": "CY",
+    "an": "2007",
+    "indicator": "demo_pjan",
+    "valoare": 2208840
+  },
+  {
+    "tara": "LV",
+    "an": "2007",
+    "indicator": "demo_pjan",
+    "valoare": 3249983
+  },
+  {
+    "tara": "LT",
+    "an": "2007",
+    "indicator": "demo_pjan",
+    "valoare": 476187
+  },
+  {
+    "tara": "LU",
+    "an": "2007",
+    "indicator": "demo_pjan",
+    "valoare": 10066158
+  },
+  {
+    "tara": "HU",
+    "an": "2007",
+    "indicator": "demo_pjan",
+    "valoare": 405616
+  },
+  {
+    "tara": "MT",
+    "an": "2007",
+    "indicator": "demo_pjan",
+    "valoare": 16357992
+  },
+  {
+    "tara": "NL",
+    "an": "2007",
+    "indicator": "demo_pjan",
+    "valoare": 8282984
+  },
+  {
+    "tara": "AT",
+    "an": "2007",
+    "indicator": "demo_pjan",
+    "valoare": 38125479
+  },
+  {
+    "tara": "PL",
+    "an": "2007",
+    "indicator": "demo_pjan",
+    "valoare": 10532588
+  },
+  {
+    "tara": "PT",
+    "an": "2007",
+    "indicator": "demo_pjan",
+    "valoare": 21130503
+  },
+  {
+    "tara": "RO",
+    "an": "2007",
+    "indicator": "demo_pjan",
+    "valoare": 2010377
+  },
+  {
+    "tara": "SI",
+    "an": "2007",
+    "indicator": "demo_pjan",
+    "valoare": 5373180
+  },
+  {
+    "tara": "SK",
+    "an": "2007",
+    "indicator": "demo_pjan",
+    "valoare": 5276955
+  },
+  {
+    "tara": "FI",
+    "an": "2007",
+    "indicator": "demo_pjan",
+    "valoare": 9113257
+  },
+  {
+    "tara": "SE",
+    "an": "2007",
+    "indicator": "demo_pjan",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2006",
+    "indicator": "demo_pjan",
+    "valoare": 7629371
+  },
+  {
+    "tara": "BG",
+    "an": "2006",
+    "indicator": "demo_pjan",
+    "valoare": 10223577
+  },
+  {
+    "tara": "CZ",
+    "an": "2006",
+    "indicator": "demo_pjan",
+    "valoare": 5427459
+  },
+  {
+    "tara": "DK",
+    "an": "2006",
+    "indicator": "demo_pjan",
+    "valoare": 82437995
+  },
+  {
+    "tara": "DE",
+    "an": "2006",
+    "indicator": "demo_pjan",
+    "valoare": 1350700
+  },
+  {
+    "tara": "EE",
+    "an": "2006",
+    "indicator": "demo_pjan",
+    "valoare": 4208156
+  },
+  {
+    "tara": "IE",
+    "an": "2006",
+    "indicator": "demo_pjan",
+    "valoare": 11004716
+  },
+  {
+    "tara": "EL",
+    "an": "2006",
+    "indicator": "demo_pjan",
+    "valoare": 44009971
+  },
+  {
+    "tara": "ES",
+    "an": "2006",
+    "indicator": "demo_pjan",
+    "valoare": 63229635
+  },
+  {
+    "tara": "FR",
+    "an": "2006",
+    "indicator": "demo_pjan",
+    "valoare": 4312487
+  },
+  {
+    "tara": "HR",
+    "an": "2006",
+    "indicator": "demo_pjan",
+    "valoare": 58064214
+  },
+  {
+    "tara": "IT",
+    "an": "2006",
+    "indicator": "demo_pjan",
+    "valoare": 744013
+  },
+  {
+    "tara": "CY",
+    "an": "2006",
+    "indicator": "demo_pjan",
+    "valoare": 2227874
+  },
+  {
+    "tara": "LV",
+    "an": "2006",
+    "indicator": "demo_pjan",
+    "valoare": 3289835
+  },
+  {
+    "tara": "LT",
+    "an": "2006",
+    "indicator": "demo_pjan",
+    "valoare": 469086
+  },
+  {
+    "tara": "LU",
+    "an": "2006",
+    "indicator": "demo_pjan",
+    "valoare": 10076581
+  },
+  {
+    "tara": "HU",
+    "an": "2006",
+    "indicator": "demo_pjan",
+    "valoare": 404999
+  },
+  {
+    "tara": "MT",
+    "an": "2006",
+    "indicator": "demo_pjan",
+    "valoare": 16334210
+  },
+  {
+    "tara": "NL",
+    "an": "2006",
+    "indicator": "demo_pjan",
+    "valoare": 8254298
+  },
+  {
+    "tara": "AT",
+    "an": "2006",
+    "indicator": "demo_pjan",
+    "valoare": 38157055
+  },
+  {
+    "tara": "PL",
+    "an": "2006",
+    "indicator": "demo_pjan",
+    "valoare": 10511988
+  },
+  {
+    "tara": "PT",
+    "an": "2006",
+    "indicator": "demo_pjan",
+    "valoare": 21257016
+  },
+  {
+    "tara": "RO",
+    "an": "2006",
+    "indicator": "demo_pjan",
+    "valoare": 2003358
+  },
+  {
+    "tara": "SI",
+    "an": "2006",
+    "indicator": "demo_pjan",
+    "valoare": 5372928
+  },
+  {
+    "tara": "SK",
+    "an": "2006",
+    "indicator": "demo_pjan",
+    "valoare": 5255580
+  },
+  {
+    "tara": "FI",
+    "an": "2006",
+    "indicator": "demo_pjan",
+    "valoare": 9047752
+  },
+  {
+    "tara": "SE",
+    "an": "2006",
+    "indicator": "demo_pjan",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2008",
+    "indicator": "demo_pjan",
+    "valoare": 7518002
+  },
+  {
+    "tara": "BG",
+    "an": "2008",
+    "indicator": "demo_pjan",
+    "valoare": 10343422
+  },
+  {
+    "tara": "CZ",
+    "an": "2008",
+    "indicator": "demo_pjan",
+    "valoare": 5475791
+  },
+  {
+    "tara": "DK",
+    "an": "2008",
+    "indicator": "demo_pjan",
+    "valoare": 82217837
+  },
+  {
+    "tara": "DE",
+    "an": "2008",
+    "indicator": "demo_pjan",
+    "valoare": 1338440
+  },
+  {
+    "tara": "EE",
+    "an": "2008",
+    "indicator": "demo_pjan",
+    "valoare": 4457765
+  },
+  {
+    "tara": "IE",
+    "an": "2008",
+    "indicator": "demo_pjan",
+    "valoare": 11060937
+  },
+  {
+    "tara": "EL",
+    "an": "2008",
+    "indicator": "demo_pjan",
+    "valoare": 45668939
+  },
+  {
+    "tara": "ES",
+    "an": "2008",
+    "indicator": "demo_pjan",
+    "valoare": 64007193
+  },
+  {
+    "tara": "FR",
+    "an": "2008",
+    "indicator": "demo_pjan",
+    "valoare": 4311967
+  },
+  {
+    "tara": "HR",
+    "an": "2008",
+    "indicator": "demo_pjan",
+    "valoare": 58652875
+  },
+  {
+    "tara": "IT",
+    "an": "2008",
+    "indicator": "demo_pjan",
+    "valoare": 776333
+  },
+  {
+    "tara": "CY",
+    "an": "2008",
+    "indicator": "demo_pjan",
+    "valoare": 2191810
+  },
+  {
+    "tara": "LV",
+    "an": "2008",
+    "indicator": "demo_pjan",
+    "valoare": 3212605
+  },
+  {
+    "tara": "LT",
+    "an": "2008",
+    "indicator": "demo_pjan",
+    "valoare": 483799
+  },
+  {
+    "tara": "LU",
+    "an": "2008",
+    "indicator": "demo_pjan",
+    "valoare": 10045401
+  },
+  {
+    "tara": "HU",
+    "an": "2008",
+    "indicator": "demo_pjan",
+    "valoare": 407832
+  },
+  {
+    "tara": "MT",
+    "an": "2008",
+    "indicator": "demo_pjan",
+    "valoare": 16405399
+  },
+  {
+    "tara": "NL",
+    "an": "2008",
+    "indicator": "demo_pjan",
+    "valoare": 8307989
+  },
+  {
+    "tara": "AT",
+    "an": "2008",
+    "indicator": "demo_pjan",
+    "valoare": 38115641
+  },
+  {
+    "tara": "PL",
+    "an": "2008",
+    "indicator": "demo_pjan",
+    "valoare": 10553339
+  },
+  {
+    "tara": "PT",
+    "an": "2008",
+    "indicator": "demo_pjan",
+    "valoare": 20635460
+  },
+  {
+    "tara": "RO",
+    "an": "2008",
+    "indicator": "demo_pjan",
+    "valoare": 2010269
+  },
+  {
+    "tara": "SI",
+    "an": "2008",
+    "indicator": "demo_pjan",
+    "valoare": 5376064
+  },
+  {
+    "tara": "SK",
+    "an": "2008",
+    "indicator": "demo_pjan",
+    "valoare": 5300484
+  },
+  {
+    "tara": "FI",
+    "an": "2008",
+    "indicator": "demo_pjan",
+    "valoare": 9182927
+  },
+  {
+    "tara": "SE",
+    "an": "2008",
+    "indicator": "demo_pjan",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2010",
+    "indicator": "demo_pjan",
+    "valoare": 7421766
+  },
+  {
+    "tara": "BG",
+    "an": "2010",
+    "indicator": "demo_pjan",
+    "valoare": 10462088
+  },
+  {
+    "tara": "CZ",
+    "an": "2010",
+    "indicator": "demo_pjan",
+    "valoare": 5534738
+  },
+  {
+    "tara": "DK",
+    "an": "2010",
+    "indicator": "demo_pjan",
+    "valoare": 81802257
+  },
+  {
+    "tara": "DE",
+    "an": "2010",
+    "indicator": "demo_pjan",
+    "valoare": 1333290
+  },
+  {
+    "tara": "EE",
+    "an": "2010",
+    "indicator": "demo_pjan",
+    "valoare": 4549428
+  },
+  {
+    "tara": "IE",
+    "an": "2010",
+    "indicator": "demo_pjan",
+    "valoare": 11119289
+  },
+  {
+    "tara": "EL",
+    "an": "2010",
+    "indicator": "demo_pjan",
+    "valoare": 46486619
+  },
+  {
+    "tara": "ES",
+    "an": "2010",
+    "indicator": "demo_pjan",
+    "valoare": 64658856
+  },
+  {
+    "tara": "FR",
+    "an": "2010",
+    "indicator": "demo_pjan",
+    "valoare": 4302847
+  },
+  {
+    "tara": "HR",
+    "an": "2010",
+    "indicator": "demo_pjan",
+    "valoare": 59190143
+  },
+  {
+    "tara": "IT",
+    "an": "2010",
+    "indicator": "demo_pjan",
+    "valoare": 819140
+  },
+  {
+    "tara": "CY",
+    "an": "2010",
+    "indicator": "demo_pjan",
+    "valoare": 2120504
+  },
+  {
+    "tara": "LV",
+    "an": "2010",
+    "indicator": "demo_pjan",
+    "valoare": 3141976
+  },
+  {
+    "tara": "LT",
+    "an": "2010",
+    "indicator": "demo_pjan",
+    "valoare": 502066
+  },
+  {
+    "tara": "LU",
+    "an": "2010",
+    "indicator": "demo_pjan",
+    "valoare": 10014324
+  },
+  {
+    "tara": "HU",
+    "an": "2010",
+    "indicator": "demo_pjan",
+    "valoare": 414027
+  },
+  {
+    "tara": "MT",
+    "an": "2010",
+    "indicator": "demo_pjan",
+    "valoare": 16574989
+  },
+  {
+    "tara": "NL",
+    "an": "2010",
+    "indicator": "demo_pjan",
+    "valoare": 8351643
+  },
+  {
+    "tara": "AT",
+    "an": "2010",
+    "indicator": "demo_pjan",
+    "valoare": 38022869
+  },
+  {
+    "tara": "PL",
+    "an": "2010",
+    "indicator": "demo_pjan",
+    "valoare": 10573479
+  },
+  {
+    "tara": "PT",
+    "an": "2010",
+    "indicator": "demo_pjan",
+    "valoare": 20294683
+  },
+  {
+    "tara": "RO",
+    "an": "2010",
+    "indicator": "demo_pjan",
+    "valoare": 2046976
+  },
+  {
+    "tara": "SI",
+    "an": "2010",
+    "indicator": "demo_pjan",
+    "valoare": 5390410
+  },
+  {
+    "tara": "SK",
+    "an": "2010",
+    "indicator": "demo_pjan",
+    "valoare": 5351427
+  },
+  {
+    "tara": "FI",
+    "an": "2010",
+    "indicator": "demo_pjan",
+    "valoare": 9340682
+  },
+  {
+    "tara": "SE",
+    "an": "2010",
+    "indicator": "demo_pjan",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2009",
+    "indicator": "demo_pjan",
+    "valoare": 7467119
+  },
+  {
+    "tara": "BG",
+    "an": "2009",
+    "indicator": "demo_pjan",
+    "valoare": 10425783
+  },
+  {
+    "tara": "CZ",
+    "an": "2009",
+    "indicator": "demo_pjan",
+    "valoare": 5511451
+  },
+  {
+    "tara": "DK",
+    "an": "2009",
+    "indicator": "demo_pjan",
+    "valoare": 82002356
+  },
+  {
+    "tara": "DE",
+    "an": "2009",
+    "indicator": "demo_pjan",
+    "valoare": 1335740
+  },
+  {
+    "tara": "EE",
+    "an": "2009",
+    "indicator": "demo_pjan",
+    "valoare": 4521322
+  },
+  {
+    "tara": "IE",
+    "an": "2009",
+    "indicator": "demo_pjan",
+    "valoare": 11094745
+  },
+  {
+    "tara": "EL",
+    "an": "2009",
+    "indicator": "demo_pjan",
+    "valoare": 46239273
+  },
+  {
+    "tara": "ES",
+    "an": "2009",
+    "indicator": "demo_pjan",
+    "valoare": 64350226
+  },
+  {
+    "tara": "FR",
+    "an": "2009",
+    "indicator": "demo_pjan",
+    "valoare": 4309796
+  },
+  {
+    "tara": "HR",
+    "an": "2009",
+    "indicator": "demo_pjan",
+    "valoare": 59000586
+  },
+  {
+    "tara": "IT",
+    "an": "2009",
+    "indicator": "demo_pjan",
+    "valoare": 796930
+  },
+  {
+    "tara": "CY",
+    "an": "2009",
+    "indicator": "demo_pjan",
+    "valoare": 2162834
+  },
+  {
+    "tara": "LV",
+    "an": "2009",
+    "indicator": "demo_pjan",
+    "valoare": 3183856
+  },
+  {
+    "tara": "LT",
+    "an": "2009",
+    "indicator": "demo_pjan",
+    "valoare": 493500
+  },
+  {
+    "tara": "LU",
+    "an": "2009",
+    "indicator": "demo_pjan",
+    "valoare": 10030975
+  },
+  {
+    "tara": "HU",
+    "an": "2009",
+    "indicator": "demo_pjan",
+    "valoare": 410926
+  },
+  {
+    "tara": "MT",
+    "an": "2009",
+    "indicator": "demo_pjan",
+    "valoare": 16485787
+  },
+  {
+    "tara": "NL",
+    "an": "2009",
+    "indicator": "demo_pjan",
+    "valoare": 8335003
+  },
+  {
+    "tara": "AT",
+    "an": "2009",
+    "indicator": "demo_pjan",
+    "valoare": 38135876
+  },
+  {
+    "tara": "PL",
+    "an": "2009",
+    "indicator": "demo_pjan",
+    "valoare": 10563014
+  },
+  {
+    "tara": "PT",
+    "an": "2009",
+    "indicator": "demo_pjan",
+    "valoare": 20440290
+  },
+  {
+    "tara": "RO",
+    "an": "2009",
+    "indicator": "demo_pjan",
+    "valoare": 2032362
+  },
+  {
+    "tara": "SI",
+    "an": "2009",
+    "indicator": "demo_pjan",
+    "valoare": 5382401
+  },
+  {
+    "tara": "SK",
+    "an": "2009",
+    "indicator": "demo_pjan",
+    "valoare": 5326314
+  },
+  {
+    "tara": "FI",
+    "an": "2009",
+    "indicator": "demo_pjan",
+    "valoare": 9256347
+  },
+  {
+    "tara": "SE",
+    "an": "2009",
+    "indicator": "demo_pjan",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2011",
+    "indicator": "demo_pjan",
+    "valoare": 7369431
+  },
+  {
+    "tara": "BG",
+    "an": "2011",
+    "indicator": "demo_pjan",
+    "valoare": 10486731
+  },
+  {
+    "tara": "CZ",
+    "an": "2011",
+    "indicator": "demo_pjan",
+    "valoare": 5560628
+  },
+  {
+    "tara": "DK",
+    "an": "2011",
+    "indicator": "demo_pjan",
+    "valoare": 80222065
+  },
+  {
+    "tara": "DE",
+    "an": "2011",
+    "indicator": "demo_pjan",
+    "valoare": 1329660
+  },
+  {
+    "tara": "EE",
+    "an": "2011",
+    "indicator": "demo_pjan",
+    "valoare": 4570881
+  },
+  {
+    "tara": "IE",
+    "an": "2011",
+    "indicator": "demo_pjan",
+    "valoare": 11123392
+  },
+  {
+    "tara": "EL",
+    "an": "2011",
+    "indicator": "demo_pjan",
+    "valoare": 46667174
+  },
+  {
+    "tara": "ES",
+    "an": "2011",
+    "indicator": "demo_pjan",
+    "valoare": 64978721
+  },
+  {
+    "tara": "FR",
+    "an": "2011",
+    "indicator": "demo_pjan",
+    "valoare": 4289857
+  },
+  {
+    "tara": "HR",
+    "an": "2011",
+    "indicator": "demo_pjan",
+    "valoare": 59364690
+  },
+  {
+    "tara": "IT",
+    "an": "2011",
+    "indicator": "demo_pjan",
+    "valoare": 839751
+  },
+  {
+    "tara": "CY",
+    "an": "2011",
+    "indicator": "demo_pjan",
+    "valoare": 2074605
+  },
+  {
+    "tara": "LV",
+    "an": "2011",
+    "indicator": "demo_pjan",
+    "valoare": 3052588
+  },
+  {
+    "tara": "LT",
+    "an": "2011",
+    "indicator": "demo_pjan",
+    "valoare": 511840
+  },
+  {
+    "tara": "LU",
+    "an": "2011",
+    "indicator": "demo_pjan",
+    "valoare": 9985722
+  },
+  {
+    "tara": "HU",
+    "an": "2011",
+    "indicator": "demo_pjan",
+    "valoare": 414989
+  },
+  {
+    "tara": "MT",
+    "an": "2011",
+    "indicator": "demo_pjan",
+    "valoare": 16655799
+  },
+  {
+    "tara": "NL",
+    "an": "2011",
+    "indicator": "demo_pjan",
+    "valoare": 8375164
+  },
+  {
+    "tara": "AT",
+    "an": "2011",
+    "indicator": "demo_pjan",
+    "valoare": 38062718
+  },
+  {
+    "tara": "PL",
+    "an": "2011",
+    "indicator": "demo_pjan",
+    "valoare": 10572721
+  },
+  {
+    "tara": "PT",
+    "an": "2011",
+    "indicator": "demo_pjan",
+    "valoare": 20199059
+  },
+  {
+    "tara": "RO",
+    "an": "2011",
+    "indicator": "demo_pjan",
+    "valoare": 2050189
+  },
+  {
+    "tara": "SI",
+    "an": "2011",
+    "indicator": "demo_pjan",
+    "valoare": 5392446
+  },
+  {
+    "tara": "SK",
+    "an": "2011",
+    "indicator": "demo_pjan",
+    "valoare": 5375276
+  },
+  {
+    "tara": "FI",
+    "an": "2011",
+    "indicator": "demo_pjan",
+    "valoare": 9415570
+  },
+  {
+    "tara": "SE",
+    "an": "2011",
+    "indicator": "demo_pjan",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2012",
+    "indicator": "demo_pjan",
+    "valoare": 7327224
+  },
+  {
+    "tara": "BG",
+    "an": "2012",
+    "indicator": "demo_pjan",
+    "valoare": 10505445
+  },
+  {
+    "tara": "CZ",
+    "an": "2012",
+    "indicator": "demo_pjan",
+    "valoare": 5580516
+  },
+  {
+    "tara": "DK",
+    "an": "2012",
+    "indicator": "demo_pjan",
+    "valoare": 80327900
+  },
+  {
+    "tara": "DE",
+    "an": "2012",
+    "indicator": "demo_pjan",
+    "valoare": 1325217
+  },
+  {
+    "tara": "EE",
+    "an": "2012",
+    "indicator": "demo_pjan",
+    "valoare": 4589287
+  },
+  {
+    "tara": "IE",
+    "an": "2012",
+    "indicator": "demo_pjan",
+    "valoare": 11086406
+  },
+  {
+    "tara": "EL",
+    "an": "2012",
+    "indicator": "demo_pjan",
+    "valoare": 46818219
+  },
+  {
+    "tara": "ES",
+    "an": "2012",
+    "indicator": "demo_pjan",
+    "valoare": 65276983
+  },
+  {
+    "tara": "FR",
+    "an": "2012",
+    "indicator": "demo_pjan",
+    "valoare": 4275984
+  },
+  {
+    "tara": "HR",
+    "an": "2012",
+    "indicator": "demo_pjan",
+    "valoare": 59394207
+  },
+  {
+    "tara": "IT",
+    "an": "2012",
+    "indicator": "demo_pjan",
+    "valoare": 862011
+  },
+  {
+    "tara": "CY",
+    "an": "2012",
+    "indicator": "demo_pjan",
+    "valoare": 2044813
+  },
+  {
+    "tara": "LV",
+    "an": "2012",
+    "indicator": "demo_pjan",
+    "valoare": 3003641
+  },
+  {
+    "tara": "LT",
+    "an": "2012",
+    "indicator": "demo_pjan",
+    "valoare": 524853
+  },
+  {
+    "tara": "LU",
+    "an": "2012",
+    "indicator": "demo_pjan",
+    "valoare": 9931925
+  },
+  {
+    "tara": "HU",
+    "an": "2012",
+    "indicator": "demo_pjan",
+    "valoare": 417546
+  },
+  {
+    "tara": "MT",
+    "an": "2012",
+    "indicator": "demo_pjan",
+    "valoare": 16730348
+  },
+  {
+    "tara": "NL",
+    "an": "2012",
+    "indicator": "demo_pjan",
+    "valoare": 8408121
+  },
+  {
+    "tara": "AT",
+    "an": "2012",
+    "indicator": "demo_pjan",
+    "valoare": 38063792
+  },
+  {
+    "tara": "PL",
+    "an": "2012",
+    "indicator": "demo_pjan",
+    "valoare": 10542398
+  },
+  {
+    "tara": "PT",
+    "an": "2012",
+    "indicator": "demo_pjan",
+    "valoare": 20095996
+  },
+  {
+    "tara": "RO",
+    "an": "2012",
+    "indicator": "demo_pjan",
+    "valoare": 2055496
+  },
+  {
+    "tara": "SI",
+    "an": "2012",
+    "indicator": "demo_pjan",
+    "valoare": 5404322
+  },
+  {
+    "tara": "SK",
+    "an": "2012",
+    "indicator": "demo_pjan",
+    "valoare": 5401267
+  },
+  {
+    "tara": "FI",
+    "an": "2012",
+    "indicator": "demo_pjan",
+    "valoare": 9482855
+  },
+  {
+    "tara": "SE",
+    "an": "2012",
+    "indicator": "demo_pjan",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2013",
+    "indicator": "demo_pjan",
+    "valoare": 7284552
+  },
+  {
+    "tara": "BG",
+    "an": "2013",
+    "indicator": "demo_pjan",
+    "valoare": 10516125
+  },
+  {
+    "tara": "CZ",
+    "an": "2013",
+    "indicator": "demo_pjan",
+    "valoare": 5602628
+  },
+  {
+    "tara": "DK",
+    "an": "2013",
+    "indicator": "demo_pjan",
+    "valoare": 80523746
+  },
+  {
+    "tara": "DE",
+    "an": "2013",
+    "indicator": "demo_pjan",
+    "valoare": 1320174
+  },
+  {
+    "tara": "EE",
+    "an": "2013",
+    "indicator": "demo_pjan",
+    "valoare": 4609779
+  },
+  {
+    "tara": "IE",
+    "an": "2013",
+    "indicator": "demo_pjan",
+    "valoare": 11003615
+  },
+  {
+    "tara": "EL",
+    "an": "2013",
+    "indicator": "demo_pjan",
+    "valoare": 46727890
+  },
+  {
+    "tara": "ES",
+    "an": "2013",
+    "indicator": "demo_pjan",
+    "valoare": 65600350
+  },
+  {
+    "tara": "FR",
+    "an": "2013",
+    "indicator": "demo_pjan",
+    "valoare": 4262140
+  },
+  {
+    "tara": "HR",
+    "an": "2013",
+    "indicator": "demo_pjan",
+    "valoare": 59685227
+  },
+  {
+    "tara": "IT",
+    "an": "2013",
+    "indicator": "demo_pjan",
+    "valoare": 865878
+  },
+  {
+    "tara": "CY",
+    "an": "2013",
+    "indicator": "demo_pjan",
+    "valoare": 2023825
+  },
+  {
+    "tara": "LV",
+    "an": "2013",
+    "indicator": "demo_pjan",
+    "valoare": 2971905
+  },
+  {
+    "tara": "LT",
+    "an": "2013",
+    "indicator": "demo_pjan",
+    "valoare": 537039
+  },
+  {
+    "tara": "LU",
+    "an": "2013",
+    "indicator": "demo_pjan",
+    "valoare": 9908798
+  },
+  {
+    "tara": "HU",
+    "an": "2013",
+    "indicator": "demo_pjan",
+    "valoare": 422509
+  },
+  {
+    "tara": "MT",
+    "an": "2013",
+    "indicator": "demo_pjan",
+    "valoare": 16779575
+  },
+  {
+    "tara": "NL",
+    "an": "2013",
+    "indicator": "demo_pjan",
+    "valoare": 8451860
+  },
+  {
+    "tara": "AT",
+    "an": "2013",
+    "indicator": "demo_pjan",
+    "valoare": 38062535
+  },
+  {
+    "tara": "PL",
+    "an": "2013",
+    "indicator": "demo_pjan",
+    "valoare": 10487289
+  },
+  {
+    "tara": "PT",
+    "an": "2013",
+    "indicator": "demo_pjan",
+    "valoare": 20020074
+  },
+  {
+    "tara": "RO",
+    "an": "2013",
+    "indicator": "demo_pjan",
+    "valoare": 2058821
+  },
+  {
+    "tara": "SI",
+    "an": "2013",
+    "indicator": "demo_pjan",
+    "valoare": 5410836
+  },
+  {
+    "tara": "SK",
+    "an": "2013",
+    "indicator": "demo_pjan",
+    "valoare": 5426674
+  },
+  {
+    "tara": "FI",
+    "an": "2013",
+    "indicator": "demo_pjan",
+    "valoare": 9555893
+  },
+  {
+    "tara": "SE",
+    "an": "2013",
+    "indicator": "demo_pjan",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2014",
+    "indicator": "demo_pjan",
+    "valoare": 7245677
+  },
+  {
+    "tara": "BG",
+    "an": "2014",
+    "indicator": "demo_pjan",
+    "valoare": 10512419
+  },
+  {
+    "tara": "CZ",
+    "an": "2014",
+    "indicator": "demo_pjan",
+    "valoare": 5627235
+  },
+  {
+    "tara": "DK",
+    "an": "2014",
+    "indicator": "demo_pjan",
+    "valoare": 80767463
+  },
+  {
+    "tara": "DE",
+    "an": "2014",
+    "indicator": "demo_pjan",
+    "valoare": 1315819
+  },
+  {
+    "tara": "EE",
+    "an": "2014",
+    "indicator": "demo_pjan",
+    "valoare": 4637852
+  },
+  {
+    "tara": "IE",
+    "an": "2014",
+    "indicator": "demo_pjan",
+    "valoare": 10926807
+  },
+  {
+    "tara": "EL",
+    "an": "2014",
+    "indicator": "demo_pjan",
+    "valoare": 46512199
+  },
+  {
+    "tara": "ES",
+    "an": "2014",
+    "indicator": "demo_pjan",
+    "valoare": 66165980
+  },
+  {
+    "tara": "FR",
+    "an": "2014",
+    "indicator": "demo_pjan",
+    "valoare": 4246809
+  },
+  {
+    "tara": "HR",
+    "an": "2014",
+    "indicator": "demo_pjan",
+    "valoare": 60782668
+  },
+  {
+    "tara": "IT",
+    "an": "2014",
+    "indicator": "demo_pjan",
+    "valoare": 858000
+  },
+  {
+    "tara": "CY",
+    "an": "2014",
+    "indicator": "demo_pjan",
+    "valoare": 2001468
+  },
+  {
+    "tara": "LV",
+    "an": "2014",
+    "indicator": "demo_pjan",
+    "valoare": 2943472
+  },
+  {
+    "tara": "LT",
+    "an": "2014",
+    "indicator": "demo_pjan",
+    "valoare": 549680
+  },
+  {
+    "tara": "LU",
+    "an": "2014",
+    "indicator": "demo_pjan",
+    "valoare": 9877365
+  },
+  {
+    "tara": "HU",
+    "an": "2014",
+    "indicator": "demo_pjan",
+    "valoare": 429424
+  },
+  {
+    "tara": "MT",
+    "an": "2014",
+    "indicator": "demo_pjan",
+    "valoare": 16829289
+  },
+  {
+    "tara": "NL",
+    "an": "2014",
+    "indicator": "demo_pjan",
+    "valoare": 8507786
+  },
+  {
+    "tara": "AT",
+    "an": "2014",
+    "indicator": "demo_pjan",
+    "valoare": 38017856
+  },
+  {
+    "tara": "PL",
+    "an": "2014",
+    "indicator": "demo_pjan",
+    "valoare": 10427301
+  },
+  {
+    "tara": "PT",
+    "an": "2014",
+    "indicator": "demo_pjan",
+    "valoare": 19947311
+  },
+  {
+    "tara": "RO",
+    "an": "2014",
+    "indicator": "demo_pjan",
+    "valoare": 2061085
+  },
+  {
+    "tara": "SI",
+    "an": "2014",
+    "indicator": "demo_pjan",
+    "valoare": 5415949
+  },
+  {
+    "tara": "SK",
+    "an": "2014",
+    "indicator": "demo_pjan",
+    "valoare": 5451270
+  },
+  {
+    "tara": "FI",
+    "an": "2014",
+    "indicator": "demo_pjan",
+    "valoare": 9644864
+  },
+  {
+    "tara": "SE",
+    "an": "2014",
+    "indicator": "demo_pjan",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2016",
+    "indicator": "demo_pjan",
+    "valoare": 7153784
+  },
+  {
+    "tara": "BG",
+    "an": "2016",
+    "indicator": "demo_pjan",
+    "valoare": 10553843
+  },
+  {
+    "tara": "CZ",
+    "an": "2016",
+    "indicator": "demo_pjan",
+    "valoare": 5707251
+  },
+  {
+    "tara": "DK",
+    "an": "2016",
+    "indicator": "demo_pjan",
+    "valoare": 82175684
+  },
+  {
+    "tara": "DE",
+    "an": "2016",
+    "indicator": "demo_pjan",
+    "valoare": 1315944
+  },
+  {
+    "tara": "EE",
+    "an": "2016",
+    "indicator": "demo_pjan",
+    "valoare": 4726286
+  },
+  {
+    "tara": "IE",
+    "an": "2016",
+    "indicator": "demo_pjan",
+    "valoare": 10783748
+  },
+  {
+    "tara": "EL",
+    "an": "2016",
+    "indicator": "demo_pjan",
+    "valoare": 46440099
+  },
+  {
+    "tara": "ES",
+    "an": "2016",
+    "indicator": "demo_pjan",
+    "valoare": 66638391
+  },
+  {
+    "tara": "FR",
+    "an": "2016",
+    "indicator": "demo_pjan",
+    "valoare": 4190669
+  },
+  {
+    "tara": "HR",
+    "an": "2016",
+    "indicator": "demo_pjan",
+    "valoare": 60665551
+  },
+  {
+    "tara": "IT",
+    "an": "2016",
+    "indicator": "demo_pjan",
+    "valoare": 848319
+  },
+  {
+    "tara": "CY",
+    "an": "2016",
+    "indicator": "demo_pjan",
+    "valoare": 1968957
+  },
+  {
+    "tara": "LV",
+    "an": "2016",
+    "indicator": "demo_pjan",
+    "valoare": 2888558
+  },
+  {
+    "tara": "LT",
+    "an": "2016",
+    "indicator": "demo_pjan",
+    "valoare": 576249
+  },
+  {
+    "tara": "LU",
+    "an": "2016",
+    "indicator": "demo_pjan",
+    "valoare": 9830485
+  },
+  {
+    "tara": "HU",
+    "an": "2016",
+    "indicator": "demo_pjan",
+    "valoare": 450415
+  },
+  {
+    "tara": "MT",
+    "an": "2016",
+    "indicator": "demo_pjan",
+    "valoare": 16979120
+  },
+  {
+    "tara": "NL",
+    "an": "2016",
+    "indicator": "demo_pjan",
+    "valoare": 8700471
+  },
+  {
+    "tara": "AT",
+    "an": "2016",
+    "indicator": "demo_pjan",
+    "valoare": 37967209
+  },
+  {
+    "tara": "PL",
+    "an": "2016",
+    "indicator": "demo_pjan",
+    "valoare": 10341330
+  },
+  {
+    "tara": "PT",
+    "an": "2016",
+    "indicator": "demo_pjan",
+    "valoare": 19760585
+  },
+  {
+    "tara": "RO",
+    "an": "2016",
+    "indicator": "demo_pjan",
+    "valoare": 2064188
+  },
+  {
+    "tara": "SI",
+    "an": "2016",
+    "indicator": "demo_pjan",
+    "valoare": 5426252
+  },
+  {
+    "tara": "SK",
+    "an": "2016",
+    "indicator": "demo_pjan",
+    "valoare": 5487308
+  },
+  {
+    "tara": "FI",
+    "an": "2016",
+    "indicator": "demo_pjan",
+    "valoare": 9851017
+  },
+  {
+    "tara": "SE",
+    "an": "2016",
+    "indicator": "demo_pjan",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2015",
+    "indicator": "demo_pjan",
+    "valoare": 7202198
+  },
+  {
+    "tara": "BG",
+    "an": "2015",
+    "indicator": "demo_pjan",
+    "valoare": 10538275
+  },
+  {
+    "tara": "CZ",
+    "an": "2015",
+    "indicator": "demo_pjan",
+    "valoare": 5659715
+  },
+  {
+    "tara": "DK",
+    "an": "2015",
+    "indicator": "demo_pjan",
+    "valoare": 81197537
+  },
+  {
+    "tara": "DE",
+    "an": "2015",
+    "indicator": "demo_pjan",
+    "valoare": 1314870
+  },
+  {
+    "tara": "EE",
+    "an": "2015",
+    "indicator": "demo_pjan",
+    "valoare": 4677627
+  },
+  {
+    "tara": "IE",
+    "an": "2015",
+    "indicator": "demo_pjan",
+    "valoare": 10858018
+  },
+  {
+    "tara": "EL",
+    "an": "2015",
+    "indicator": "demo_pjan",
+    "valoare": 46449565
+  },
+  {
+    "tara": "ES",
+    "an": "2015",
+    "indicator": "demo_pjan",
+    "valoare": 66458153
+  },
+  {
+    "tara": "FR",
+    "an": "2015",
+    "indicator": "demo_pjan",
+    "valoare": 4225316
+  },
+  {
+    "tara": "HR",
+    "an": "2015",
+    "indicator": "demo_pjan",
+    "valoare": 60795612
+  },
+  {
+    "tara": "IT",
+    "an": "2015",
+    "indicator": "demo_pjan",
+    "valoare": 847008
+  },
+  {
+    "tara": "CY",
+    "an": "2015",
+    "indicator": "demo_pjan",
+    "valoare": 1986096
+  },
+  {
+    "tara": "LV",
+    "an": "2015",
+    "indicator": "demo_pjan",
+    "valoare": 2921262
+  },
+  {
+    "tara": "LT",
+    "an": "2015",
+    "indicator": "demo_pjan",
+    "valoare": 562958
+  },
+  {
+    "tara": "LU",
+    "an": "2015",
+    "indicator": "demo_pjan",
+    "valoare": 9855571
+  },
+  {
+    "tara": "HU",
+    "an": "2015",
+    "indicator": "demo_pjan",
+    "valoare": 439691
+  },
+  {
+    "tara": "MT",
+    "an": "2015",
+    "indicator": "demo_pjan",
+    "valoare": 16900726
+  },
+  {
+    "tara": "NL",
+    "an": "2015",
+    "indicator": "demo_pjan",
+    "valoare": 8584926
+  },
+  {
+    "tara": "AT",
+    "an": "2015",
+    "indicator": "demo_pjan",
+    "valoare": 38005614
+  },
+  {
+    "tara": "PL",
+    "an": "2015",
+    "indicator": "demo_pjan",
+    "valoare": 10374822
+  },
+  {
+    "tara": "PT",
+    "an": "2015",
+    "indicator": "demo_pjan",
+    "valoare": 19870647
+  },
+  {
+    "tara": "RO",
+    "an": "2015",
+    "indicator": "demo_pjan",
+    "valoare": 2062874
+  },
+  {
+    "tara": "SI",
+    "an": "2015",
+    "indicator": "demo_pjan",
+    "valoare": 5421349
+  },
+  {
+    "tara": "SK",
+    "an": "2015",
+    "indicator": "demo_pjan",
+    "valoare": 5471753
+  },
+  {
+    "tara": "FI",
+    "an": "2015",
+    "indicator": "demo_pjan",
+    "valoare": 9747355
+  },
+  {
+    "tara": "SE",
+    "an": "2015",
+    "indicator": "demo_pjan",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2017",
+    "indicator": "demo_pjan",
+    "valoare": 7101859
+  },
+  {
+    "tara": "BG",
+    "an": "2017",
+    "indicator": "demo_pjan",
+    "valoare": 10578820
+  },
+  {
+    "tara": "CZ",
+    "an": "2017",
+    "indicator": "demo_pjan",
+    "valoare": 5748769
+  },
+  {
+    "tara": "DK",
+    "an": "2017",
+    "indicator": "demo_pjan",
+    "valoare": 82521653
+  },
+  {
+    "tara": "DE",
+    "an": "2017",
+    "indicator": "demo_pjan",
+    "valoare": 1315635
+  },
+  {
+    "tara": "EE",
+    "an": "2017",
+    "indicator": "demo_pjan",
+    "valoare": 4784383
+  },
+  {
+    "tara": "IE",
+    "an": "2017",
+    "indicator": "demo_pjan",
+    "valoare": 10768193
+  },
+  {
+    "tara": "EL",
+    "an": "2017",
+    "indicator": "demo_pjan",
+    "valoare": 46528024
+  },
+  {
+    "tara": "ES",
+    "an": "2017",
+    "indicator": "demo_pjan",
+    "valoare": 66809816
+  },
+  {
+    "tara": "FR",
+    "an": "2017",
+    "indicator": "demo_pjan",
+    "valoare": 4154213
+  },
+  {
+    "tara": "HR",
+    "an": "2017",
+    "indicator": "demo_pjan",
+    "valoare": 60589445
+  },
+  {
+    "tara": "IT",
+    "an": "2017",
+    "indicator": "demo_pjan",
+    "valoare": 854802
+  },
+  {
+    "tara": "CY",
+    "an": "2017",
+    "indicator": "demo_pjan",
+    "valoare": 1950116
+  },
+  {
+    "tara": "LV",
+    "an": "2017",
+    "indicator": "demo_pjan",
+    "valoare": 2847904
+  },
+  {
+    "tara": "LT",
+    "an": "2017",
+    "indicator": "demo_pjan",
+    "valoare": 590667
+  },
+  {
+    "tara": "LU",
+    "an": "2017",
+    "indicator": "demo_pjan",
+    "valoare": 9797561
+  },
+  {
+    "tara": "HU",
+    "an": "2017",
+    "indicator": "demo_pjan",
+    "valoare": 460297
+  },
+  {
+    "tara": "MT",
+    "an": "2017",
+    "indicator": "demo_pjan",
+    "valoare": 17081507
+  },
+  {
+    "tara": "NL",
+    "an": "2017",
+    "indicator": "demo_pjan",
+    "valoare": 8772865
+  },
+  {
+    "tara": "AT",
+    "an": "2017",
+    "indicator": "demo_pjan",
+    "valoare": 37972964
+  },
+  {
+    "tara": "PL",
+    "an": "2017",
+    "indicator": "demo_pjan",
+    "valoare": 10309573
+  },
+  {
+    "tara": "PT",
+    "an": "2017",
+    "indicator": "demo_pjan",
+    "valoare": 19643949
+  },
+  {
+    "tara": "RO",
+    "an": "2017",
+    "indicator": "demo_pjan",
+    "valoare": 2065895
+  },
+  {
+    "tara": "SI",
+    "an": "2017",
+    "indicator": "demo_pjan",
+    "valoare": 5435343
+  },
+  {
+    "tara": "SK",
+    "an": "2017",
+    "indicator": "demo_pjan",
+    "valoare": 5503297
+  },
+  {
+    "tara": "FI",
+    "an": "2017",
+    "indicator": "demo_pjan",
+    "valoare": 9995153
+  },
+  {
+    "tara": "SE",
+    "an": "2017",
+    "indicator": "demo_pjan",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2001",
+    "indicator": "sdg_08_10",
+    "valoare": 3210
+  },
+  {
+    "tara": "BG",
+    "an": "2001",
+    "indicator": "sdg_08_10",
+    "valoare": 11620
+  },
+  {
+    "tara": "CZ",
+    "an": "2001",
+    "indicator": "sdg_08_10",
+    "valoare": 42390
+  },
+  {
+    "tara": "DK",
+    "an": "2001",
+    "indicator": "sdg_08_10",
+    "valoare": 29370
+  },
+  {
+    "tara": "DE",
+    "an": "2001",
+    "indicator": "sdg_08_10",
+    "valoare": 8040
+  },
+  {
+    "tara": "EE",
+    "an": "2001",
+    "indicator": "sdg_08_10",
+    "valoare": 34510
+  },
+  {
+    "tara": "IE",
+    "an": "2001",
+    "indicator": "sdg_08_10",
+    "valoare": 18050
+  },
+  {
+    "tara": "EL",
+    "an": "2001",
+    "indicator": "sdg_08_10",
+    "valoare": 22190
+  },
+  {
+    "tara": "ES",
+    "an": "2001",
+    "indicator": "sdg_08_10",
+    "valoare": 29290
+  },
+  {
+    "tara": "FR",
+    "an": "2001",
+    "indicator": "sdg_08_10",
+    "valoare": 8510
+  },
+  {
+    "tara": "HR",
+    "an": "2001",
+    "indicator": "sdg_08_10",
+    "valoare": 27950
+  },
+  {
+    "tara": "IT",
+    "an": "2001",
+    "indicator": "sdg_08_10",
+    "valoare": 20700
+  },
+  {
+    "tara": "CY",
+    "an": "2001",
+    "indicator": "sdg_08_10",
+    "valoare": 5650
+  },
+  {
+    "tara": "LV",
+    "an": "2001",
+    "indicator": "sdg_08_10",
+    "valoare": 5620
+  },
+  {
+    "tara": "LT",
+    "an": "2001",
+    "indicator": "sdg_08_10",
+    "valoare": 73990
+  },
+  {
+    "tara": "LU",
+    "an": "2001",
+    "indicator": "sdg_08_10",
+    "valoare": 8250
+  },
+  {
+    "tara": "HU",
+    "an": "2001",
+    "indicator": "sdg_08_10",
+    "valoare": 13480
+  },
+  {
+    "tara": "MT",
+    "an": "2001",
+    "indicator": "sdg_08_10",
+    "valoare": 35610
+  },
+  {
+    "tara": "NL",
+    "an": "2001",
+    "indicator": "sdg_08_10",
+    "valoare": 31990
+  },
+  {
+    "tara": "AT",
+    "an": "2001",
+    "indicator": "sdg_08_10",
+    "valoare": 6530
+  },
+  {
+    "tara": "PL",
+    "an": "2001",
+    "indicator": "sdg_08_10",
+    "valoare": 16430
+  },
+  {
+    "tara": "PT",
+    "an": "2001",
+    "indicator": "sdg_08_10",
+    "valoare": 3980
+  },
+  {
+    "tara": "RO",
+    "an": "2001",
+    "indicator": "sdg_08_10",
+    "valoare": 14410
+  },
+  {
+    "tara": "SI",
+    "an": "2001",
+    "indicator": "sdg_08_10",
+    "valoare": 8060
+  },
+  {
+    "tara": "SK",
+    "an": "2001",
+    "indicator": "sdg_08_10",
+    "valoare": 31230
+  },
+  {
+    "tara": "FI",
+    "an": "2001",
+    "indicator": "sdg_08_10",
+    "valoare": 34360
+  },
+  {
+    "tara": "SE",
+    "an": "2001",
+    "indicator": "sdg_08_10",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2000",
+    "indicator": "sdg_08_10",
+    "valoare": 2990
+  },
+  {
+    "tara": "BG",
+    "an": "2000",
+    "indicator": "sdg_08_10",
+    "valoare": 11230
+  },
+  {
+    "tara": "CZ",
+    "an": "2000",
+    "indicator": "sdg_08_10",
+    "valoare": 42190
+  },
+  {
+    "tara": "DK",
+    "an": "2000",
+    "indicator": "sdg_08_10",
+    "valoare": 28910
+  },
+  {
+    "tara": "DE",
+    "an": "2000",
+    "indicator": "sdg_08_10",
+    "valoare": 7540
+  },
+  {
+    "tara": "EE",
+    "an": "2000",
+    "indicator": "sdg_08_10",
+    "valoare": 33280
+  },
+  {
+    "tara": "IE",
+    "an": "2000",
+    "indicator": "sdg_08_10",
+    "valoare": 17430
+  },
+  {
+    "tara": "EL",
+    "an": "2000",
+    "indicator": "sdg_08_10",
+    "valoare": 21460
+  },
+  {
+    "tara": "ES",
+    "an": "2000",
+    "indicator": "sdg_08_10",
+    "valoare": 28930
+  },
+  {
+    "tara": "FR",
+    "an": "2000",
+    "indicator": "sdg_08_10",
+    "valoare": 7940
+  },
+  {
+    "tara": "HR",
+    "an": "2000",
+    "indicator": "sdg_08_10",
+    "valoare": 27430
+  },
+  {
+    "tara": "IT",
+    "an": "2000",
+    "indicator": "sdg_08_10",
+    "valoare": 20130
+  },
+  {
+    "tara": "CY",
+    "an": "2000",
+    "indicator": "sdg_08_10",
+    "valoare": 5250
+  },
+  {
+    "tara": "LV",
+    "an": "2000",
+    "indicator": "sdg_08_10",
+    "valoare": 5230
+  },
+  {
+    "tara": "LT",
+    "an": "2000",
+    "indicator": "sdg_08_10",
+    "valoare": 72640
+  },
+  {
+    "tara": "LU",
+    "an": "2000",
+    "indicator": "sdg_08_10",
+    "valoare": 7910
+  },
+  {
+    "tara": "HU",
+    "an": "2000",
+    "indicator": "sdg_08_10",
+    "valoare": 13750
+  },
+  {
+    "tara": "MT",
+    "an": "2000",
+    "indicator": "sdg_08_10",
+    "valoare": 35060
+  },
+  {
+    "tara": "NL",
+    "an": "2000",
+    "indicator": "sdg_08_10",
+    "valoare": 31710
+  },
+  {
+    "tara": "AT",
+    "an": "2000",
+    "indicator": "sdg_08_10",
+    "valoare": 6450
+  },
+  {
+    "tara": "PL",
+    "an": "2000",
+    "indicator": "sdg_08_10",
+    "valoare": 16230
+  },
+  {
+    "tara": "PT",
+    "an": "2000",
+    "indicator": "sdg_08_10",
+    "valoare": 3780
+  },
+  {
+    "tara": "RO",
+    "an": "2000",
+    "indicator": "sdg_08_10",
+    "valoare": 13980
+  },
+  {
+    "tara": "SI",
+    "an": "2000",
+    "indicator": "sdg_08_10",
+    "valoare": 7780
+  },
+  {
+    "tara": "SK",
+    "an": "2000",
+    "indicator": "sdg_08_10",
+    "valoare": 30510
+  },
+  {
+    "tara": "FI",
+    "an": "2000",
+    "indicator": "sdg_08_10",
+    "valoare": 33960
+  },
+  {
+    "tara": "SE",
+    "an": "2000",
+    "indicator": "sdg_08_10",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2018",
+    "indicator": "demo_pjan",
+    "valoare": 7050034
+  },
+  {
+    "tara": "BG",
+    "an": "2018",
+    "indicator": "demo_pjan",
+    "valoare": 10610055
+  },
+  {
+    "tara": "CZ",
+    "an": "2018",
+    "indicator": "demo_pjan",
+    "valoare": 5781190
+  },
+  {
+    "tara": "DK",
+    "an": "2018",
+    "indicator": "demo_pjan",
+    "valoare": 82792351
+  },
+  {
+    "tara": "DE",
+    "an": "2018",
+    "indicator": "demo_pjan",
+    "valoare": 1319133
+  },
+  {
+    "tara": "EE",
+    "an": "2018",
+    "indicator": "demo_pjan",
+    "valoare": 4830392
+  },
+  {
+    "tara": "IE",
+    "an": "2018",
+    "indicator": "demo_pjan",
+    "valoare": 10741165
+  },
+  {
+    "tara": "EL",
+    "an": "2018",
+    "indicator": "demo_pjan",
+    "valoare": 46658447
+  },
+  {
+    "tara": "ES",
+    "an": "2018",
+    "indicator": "demo_pjan",
+    "valoare": 67026224
+  },
+  {
+    "tara": "FR",
+    "an": "2018",
+    "indicator": "demo_pjan",
+    "valoare": 4105493
+  },
+  {
+    "tara": "HR",
+    "an": "2018",
+    "indicator": "demo_pjan",
+    "valoare": 60483973
+  },
+  {
+    "tara": "IT",
+    "an": "2018",
+    "indicator": "demo_pjan",
+    "valoare": 864236
+  },
+  {
+    "tara": "CY",
+    "an": "2018",
+    "indicator": "demo_pjan",
+    "valoare": 1934379
+  },
+  {
+    "tara": "LV",
+    "an": "2018",
+    "indicator": "demo_pjan",
+    "valoare": 2808901
+  },
+  {
+    "tara": "LT",
+    "an": "2018",
+    "indicator": "demo_pjan",
+    "valoare": 602005
+  },
+  {
+    "tara": "LU",
+    "an": "2018",
+    "indicator": "demo_pjan",
+    "valoare": 9778371
+  },
+  {
+    "tara": "HU",
+    "an": "2018",
+    "indicator": "demo_pjan",
+    "valoare": 475701
+  },
+  {
+    "tara": "MT",
+    "an": "2018",
+    "indicator": "demo_pjan",
+    "valoare": 17181084
+  },
+  {
+    "tara": "NL",
+    "an": "2018",
+    "indicator": "demo_pjan",
+    "valoare": 8822267
+  },
+  {
+    "tara": "AT",
+    "an": "2018",
+    "indicator": "demo_pjan",
+    "valoare": 37976687
+  },
+  {
+    "tara": "PL",
+    "an": "2018",
+    "indicator": "demo_pjan",
+    "valoare": 10291027
+  },
+  {
+    "tara": "PT",
+    "an": "2018",
+    "indicator": "demo_pjan",
+    "valoare": 19533481
+  },
+  {
+    "tara": "RO",
+    "an": "2018",
+    "indicator": "demo_pjan",
+    "valoare": 2066880
+  },
+  {
+    "tara": "SI",
+    "an": "2018",
+    "indicator": "demo_pjan",
+    "valoare": 5443120
+  },
+  {
+    "tara": "SK",
+    "an": "2018",
+    "indicator": "demo_pjan",
+    "valoare": 5513130
+  },
+  {
+    "tara": "FI",
+    "an": "2018",
+    "indicator": "demo_pjan",
+    "valoare": 10120242
+  },
+  {
+    "tara": "SE",
+    "an": "2018",
+    "indicator": "demo_pjan",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2002",
+    "indicator": "sdg_08_10",
+    "valoare": 3420
+  },
+  {
+    "tara": "BG",
+    "an": "2002",
+    "indicator": "sdg_08_10",
+    "valoare": 11830
+  },
+  {
+    "tara": "CZ",
+    "an": "2002",
+    "indicator": "sdg_08_10",
+    "valoare": 42430
+  },
+  {
+    "tara": "DK",
+    "an": "2002",
+    "indicator": "sdg_08_10",
+    "valoare": 29290
+  },
+  {
+    "tara": "DE",
+    "an": "2002",
+    "indicator": "sdg_08_10",
+    "valoare": 8640
+  },
+  {
+    "tara": "EE",
+    "an": "2002",
+    "indicator": "sdg_08_10",
+    "valoare": 35910
+  },
+  {
+    "tara": "IE",
+    "an": "2002",
+    "indicator": "sdg_08_10",
+    "valoare": 18690
+  },
+  {
+    "tara": "EL",
+    "an": "2002",
+    "indicator": "sdg_08_10",
+    "valoare": 22430
+  },
+  {
+    "tara": "ES",
+    "an": "2002",
+    "indicator": "sdg_08_10",
+    "valoare": 29410
+  },
+  {
+    "tara": "FR",
+    "an": "2002",
+    "indicator": "sdg_08_10",
+    "valoare": 8990
+  },
+  {
+    "tara": "HR",
+    "an": "2002",
+    "indicator": "sdg_08_10",
+    "valoare": 27960
+  },
+  {
+    "tara": "IT",
+    "an": "2002",
+    "indicator": "sdg_08_10",
+    "valoare": 21230
+  },
+  {
+    "tara": "CY",
+    "an": "2002",
+    "indicator": "sdg_08_10",
+    "valoare": 6120
+  },
+  {
+    "tara": "LV",
+    "an": "2002",
+    "indicator": "sdg_08_10",
+    "valoare": 6050
+  },
+  {
+    "tara": "LT",
+    "an": "2002",
+    "indicator": "sdg_08_10",
+    "valoare": 75580
+  },
+  {
+    "tara": "LU",
+    "an": "2002",
+    "indicator": "sdg_08_10",
+    "valoare": 8670
+  },
+  {
+    "tara": "HU",
+    "an": "2002",
+    "indicator": "sdg_08_10",
+    "valoare": 13730
+  },
+  {
+    "tara": "MT",
+    "an": "2002",
+    "indicator": "sdg_08_10",
+    "valoare": 35460
+  },
+  {
+    "tara": "NL",
+    "an": "2002",
+    "indicator": "sdg_08_10",
+    "valoare": 32360
+  },
+  {
+    "tara": "AT",
+    "an": "2002",
+    "indicator": "sdg_08_10",
+    "valoare": 6660
+  },
+  {
+    "tara": "PL",
+    "an": "2002",
+    "indicator": "sdg_08_10",
+    "valoare": 16470
+  },
+  {
+    "tara": "PT",
+    "an": "2002",
+    "indicator": "sdg_08_10",
+    "valoare": 4350
+  },
+  {
+    "tara": "RO",
+    "an": "2002",
+    "indicator": "sdg_08_10",
+    "valoare": 14900
+  },
+  {
+    "tara": "SI",
+    "an": "2002",
+    "indicator": "sdg_08_10",
+    "valoare": 8430
+  },
+  {
+    "tara": "SK",
+    "an": "2002",
+    "indicator": "sdg_08_10",
+    "valoare": 31690
+  },
+  {
+    "tara": "FI",
+    "an": "2002",
+    "indicator": "sdg_08_10",
+    "valoare": 35000
+  },
+  {
+    "tara": "SE",
+    "an": "2002",
+    "indicator": "sdg_08_10",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2003",
+    "indicator": "sdg_08_10",
+    "valoare": 3620
+  },
+  {
+    "tara": "BG",
+    "an": "2003",
+    "indicator": "sdg_08_10",
+    "valoare": 12260
+  },
+  {
+    "tara": "CZ",
+    "an": "2003",
+    "indicator": "sdg_08_10",
+    "valoare": 42490
+  },
+  {
+    "tara": "DK",
+    "an": "2003",
+    "indicator": "sdg_08_10",
+    "valoare": 29100
+  },
+  {
+    "tara": "DE",
+    "an": "2003",
+    "indicator": "sdg_08_10",
+    "valoare": 9350
+  },
+  {
+    "tara": "EE",
+    "an": "2003",
+    "indicator": "sdg_08_10",
+    "valoare": 36390
+  },
+  {
+    "tara": "IE",
+    "an": "2003",
+    "indicator": "sdg_08_10",
+    "valoare": 19730
+  },
+  {
+    "tara": "EL",
+    "an": "2003",
+    "indicator": "sdg_08_10",
+    "valoare": 22680
+  },
+  {
+    "tara": "ES",
+    "an": "2003",
+    "indicator": "sdg_08_10",
+    "valoare": 29440
+  },
+  {
+    "tara": "FR",
+    "an": "2003",
+    "indicator": "sdg_08_10",
+    "valoare": 9500
+  },
+  {
+    "tara": "HR",
+    "an": "2003",
+    "indicator": "sdg_08_10",
+    "valoare": 27850
+  },
+  {
+    "tara": "IT",
+    "an": "2003",
+    "indicator": "sdg_08_10",
+    "valoare": 21520
+  },
+  {
+    "tara": "CY",
+    "an": "2003",
+    "indicator": "sdg_08_10",
+    "valoare": 6700
+  },
+  {
+    "tara": "LV",
+    "an": "2003",
+    "indicator": "sdg_08_10",
+    "valoare": 6740
+  },
+  {
+    "tara": "LT",
+    "an": "2003",
+    "indicator": "sdg_08_10",
+    "valoare": 76620
+  },
+  {
+    "tara": "LU",
+    "an": "2003",
+    "indicator": "sdg_08_10",
+    "valoare": 9050
+  },
+  {
+    "tara": "HU",
+    "an": "2003",
+    "indicator": "sdg_08_10",
+    "valoare": 14200
+  },
+  {
+    "tara": "MT",
+    "an": "2003",
+    "indicator": "sdg_08_10",
+    "valoare": 35350
+  },
+  {
+    "tara": "NL",
+    "an": "2003",
+    "indicator": "sdg_08_10",
+    "valoare": 32520
+  },
+  {
+    "tara": "AT",
+    "an": "2003",
+    "indicator": "sdg_08_10",
+    "valoare": 6900
+  },
+  {
+    "tara": "PL",
+    "an": "2003",
+    "indicator": "sdg_08_10",
+    "valoare": 16250
+  },
+  {
+    "tara": "PT",
+    "an": "2003",
+    "indicator": "sdg_08_10",
+    "valoare": 4470
+  },
+  {
+    "tara": "RO",
+    "an": "2003",
+    "indicator": "sdg_08_10",
+    "valoare": 15330
+  },
+  {
+    "tara": "SI",
+    "an": "2003",
+    "indicator": "sdg_08_10",
+    "valoare": 8890
+  },
+  {
+    "tara": "SK",
+    "an": "2003",
+    "indicator": "sdg_08_10",
+    "valoare": 32250
+  },
+  {
+    "tara": "FI",
+    "an": "2003",
+    "indicator": "sdg_08_10",
+    "valoare": 35680
+  },
+  {
+    "tara": "SE",
+    "an": "2003",
+    "indicator": "sdg_08_10",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2004",
+    "indicator": "sdg_08_10",
+    "valoare": 3870
+  },
+  {
+    "tara": "BG",
+    "an": "2004",
+    "indicator": "sdg_08_10",
+    "valoare": 12840
+  },
+  {
+    "tara": "CZ",
+    "an": "2004",
+    "indicator": "sdg_08_10",
+    "valoare": 43520
+  },
+  {
+    "tara": "DK",
+    "an": "2004",
+    "indicator": "sdg_08_10",
+    "valoare": 29470
+  },
+  {
+    "tara": "DE",
+    "an": "2004",
+    "indicator": "sdg_08_10",
+    "valoare": 10050
+  },
+  {
+    "tara": "EE",
+    "an": "2004",
+    "indicator": "sdg_08_10",
+    "valoare": 38190
+  },
+  {
+    "tara": "IE",
+    "an": "2004",
+    "indicator": "sdg_08_10",
+    "valoare": 20670
+  },
+  {
+    "tara": "EL",
+    "an": "2004",
+    "indicator": "sdg_08_10",
+    "valoare": 23020
+  },
+  {
+    "tara": "ES",
+    "an": "2004",
+    "indicator": "sdg_08_10",
+    "valoare": 30050
+  },
+  {
+    "tara": "FR",
+    "an": "2004",
+    "indicator": "sdg_08_10",
+    "valoare": 9890
+  },
+  {
+    "tara": "HR",
+    "an": "2004",
+    "indicator": "sdg_08_10",
+    "valoare": 28040
+  },
+  {
+    "tara": "IT",
+    "an": "2004",
+    "indicator": "sdg_08_10",
+    "valoare": 22300
+  },
+  {
+    "tara": "CY",
+    "an": "2004",
+    "indicator": "sdg_08_10",
+    "valoare": 7340
+  },
+  {
+    "tara": "LV",
+    "an": "2004",
+    "indicator": "sdg_08_10",
+    "valoare": 7270
+  },
+  {
+    "tara": "LT",
+    "an": "2004",
+    "indicator": "sdg_08_10",
+    "valoare": 78730
+  },
+  {
+    "tara": "LU",
+    "an": "2004",
+    "indicator": "sdg_08_10",
+    "valoare": 9520
+  },
+  {
+    "tara": "HU",
+    "an": "2004",
+    "indicator": "sdg_08_10",
+    "valoare": 14120
+  },
+  {
+    "tara": "MT",
+    "an": "2004",
+    "indicator": "sdg_08_10",
+    "valoare": 35920
+  },
+  {
+    "tara": "NL",
+    "an": "2004",
+    "indicator": "sdg_08_10",
+    "valoare": 33200
+  },
+  {
+    "tara": "AT",
+    "an": "2004",
+    "indicator": "sdg_08_10",
+    "valoare": 7250
+  },
+  {
+    "tara": "PL",
+    "an": "2004",
+    "indicator": "sdg_08_10",
+    "valoare": 16500
+  },
+  {
+    "tara": "PT",
+    "an": "2004",
+    "indicator": "sdg_08_10",
+    "valoare": 4970
+  },
+  {
+    "tara": "RO",
+    "an": "2004",
+    "indicator": "sdg_08_10",
+    "valoare": 15990
+  },
+  {
+    "tara": "SI",
+    "an": "2004",
+    "indicator": "sdg_08_10",
+    "valoare": 9360
+  },
+  {
+    "tara": "SK",
+    "an": "2004",
+    "indicator": "sdg_08_10",
+    "valoare": 33440
+  },
+  {
+    "tara": "FI",
+    "an": "2004",
+    "indicator": "sdg_08_10",
+    "valoare": 37080
+  },
+  {
+    "tara": "SE",
+    "an": "2004",
+    "indicator": "sdg_08_10",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2005",
+    "indicator": "sdg_08_10",
+    "valoare": 4170
+  },
+  {
+    "tara": "BG",
+    "an": "2005",
+    "indicator": "sdg_08_10",
+    "valoare": 13650
+  },
+  {
+    "tara": "CZ",
+    "an": "2005",
+    "indicator": "sdg_08_10",
+    "valoare": 44400
+  },
+  {
+    "tara": "DK",
+    "an": "2005",
+    "indicator": "sdg_08_10",
+    "valoare": 29730
+  },
+  {
+    "tara": "DE",
+    "an": "2005",
+    "indicator": "sdg_08_10",
+    "valoare": 11070
+  },
+  {
+    "tara": "EE",
+    "an": "2005",
+    "indicator": "sdg_08_10",
+    "valoare": 39480
+  },
+  {
+    "tara": "IE",
+    "an": "2005",
+    "indicator": "sdg_08_10",
+    "valoare": 20740
+  },
+  {
+    "tara": "EL",
+    "an": "2005",
+    "indicator": "sdg_08_10",
+    "valoare": 23420
+  },
+  {
+    "tara": "ES",
+    "an": "2005",
+    "indicator": "sdg_08_10",
+    "valoare": 30320
+  },
+  {
+    "tara": "FR",
+    "an": "2005",
+    "indicator": "sdg_08_10",
+    "valoare": 10310
+  },
+  {
+    "tara": "HR",
+    "an": "2005",
+    "indicator": "sdg_08_10",
+    "valoare": 28100
+  },
+  {
+    "tara": "IT",
+    "an": "2005",
+    "indicator": "sdg_08_10",
+    "valoare": 23050
+  },
+  {
+    "tara": "CY",
+    "an": "2005",
+    "indicator": "sdg_08_10",
+    "valoare": 8210
+  },
+  {
+    "tara": "LV",
+    "an": "2005",
+    "indicator": "sdg_08_10",
+    "valoare": 7960
+  },
+  {
+    "tara": "LT",
+    "an": "2005",
+    "indicator": "sdg_08_10",
+    "valoare": 79460
+  },
+  {
+    "tara": "LU",
+    "an": "2005",
+    "indicator": "sdg_08_10",
+    "valoare": 9950
+  },
+  {
+    "tara": "HU",
+    "an": "2005",
+    "indicator": "sdg_08_10",
+    "valoare": 14510
+  },
+  {
+    "tara": "MT",
+    "an": "2005",
+    "indicator": "sdg_08_10",
+    "valoare": 36570
+  },
+  {
+    "tara": "NL",
+    "an": "2005",
+    "indicator": "sdg_08_10",
+    "valoare": 33710
+  },
+  {
+    "tara": "AT",
+    "an": "2005",
+    "indicator": "sdg_08_10",
+    "valoare": 7510
+  },
+  {
+    "tara": "PL",
+    "an": "2005",
+    "indicator": "sdg_08_10",
+    "valoare": 16600
+  },
+  {
+    "tara": "PT",
+    "an": "2005",
+    "indicator": "sdg_08_10",
+    "valoare": 5230
+  },
+  {
+    "tara": "RO",
+    "an": "2005",
+    "indicator": "sdg_08_10",
+    "valoare": 16570
+  },
+  {
+    "tara": "SI",
+    "an": "2005",
+    "indicator": "sdg_08_10",
+    "valoare": 9970
+  },
+  {
+    "tara": "SK",
+    "an": "2005",
+    "indicator": "sdg_08_10",
+    "valoare": 34250
+  },
+  {
+    "tara": "FI",
+    "an": "2005",
+    "indicator": "sdg_08_10",
+    "valoare": 37990
+  },
+  {
+    "tara": "SE",
+    "an": "2005",
+    "indicator": "sdg_08_10",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2006",
+    "indicator": "sdg_08_10",
+    "valoare": 4480
+  },
+  {
+    "tara": "BG",
+    "an": "2006",
+    "indicator": "sdg_08_10",
+    "valoare": 14530
+  },
+  {
+    "tara": "CZ",
+    "an": "2006",
+    "indicator": "sdg_08_10",
+    "valoare": 45990
+  },
+  {
+    "tara": "DK",
+    "an": "2006",
+    "indicator": "sdg_08_10",
+    "valoare": 30930
+  },
+  {
+    "tara": "DE",
+    "an": "2006",
+    "indicator": "sdg_08_10",
+    "valoare": 12230
+  },
+  {
+    "tara": "EE",
+    "an": "2006",
+    "indicator": "sdg_08_10",
+    "valoare": 40390
+  },
+  {
+    "tara": "IE",
+    "an": "2006",
+    "indicator": "sdg_08_10",
+    "valoare": 21840
+  },
+  {
+    "tara": "EL",
+    "an": "2006",
+    "indicator": "sdg_08_10",
+    "valoare": 24000
+  },
+  {
+    "tara": "ES",
+    "an": "2006",
+    "indicator": "sdg_08_10",
+    "valoare": 30850
+  },
+  {
+    "tara": "FR",
+    "an": "2006",
+    "indicator": "sdg_08_10",
+    "valoare": 10830
+  },
+  {
+    "tara": "HR",
+    "an": "2006",
+    "indicator": "sdg_08_10",
+    "valoare": 28490
+  },
+  {
+    "tara": "IT",
+    "an": "2006",
+    "indicator": "sdg_08_10",
+    "valoare": 23740
+  },
+  {
+    "tara": "CY",
+    "an": "2006",
+    "indicator": "sdg_08_10",
+    "valoare": 9280
+  },
+  {
+    "tara": "LV",
+    "an": "2006",
+    "indicator": "sdg_08_10",
+    "valoare": 8690
+  },
+  {
+    "tara": "LT",
+    "an": "2006",
+    "indicator": "sdg_08_10",
+    "valoare": 82910
+  },
+  {
+    "tara": "LU",
+    "an": "2006",
+    "indicator": "sdg_08_10",
+    "valoare": 10360
+  },
+  {
+    "tara": "HU",
+    "an": "2006",
+    "indicator": "sdg_08_10",
+    "valoare": 14820
+  },
+  {
+    "tara": "MT",
+    "an": "2006",
+    "indicator": "sdg_08_10",
+    "valoare": 37780
+  },
+  {
+    "tara": "NL",
+    "an": "2006",
+    "indicator": "sdg_08_10",
+    "valoare": 34700
+  },
+  {
+    "tara": "AT",
+    "an": "2006",
+    "indicator": "sdg_08_10",
+    "valoare": 7970
+  },
+  {
+    "tara": "PL",
+    "an": "2006",
+    "indicator": "sdg_08_10",
+    "valoare": 16840
+  },
+  {
+    "tara": "PT",
+    "an": "2006",
+    "indicator": "sdg_08_10",
+    "valoare": 5690
+  },
+  {
+    "tara": "RO",
+    "an": "2006",
+    "indicator": "sdg_08_10",
+    "valoare": 17460
+  },
+  {
+    "tara": "SI",
+    "an": "2006",
+    "indicator": "sdg_08_10",
+    "valoare": 10800
+  },
+  {
+    "tara": "SK",
+    "an": "2006",
+    "indicator": "sdg_08_10",
+    "valoare": 35490
+  },
+  {
+    "tara": "FI",
+    "an": "2006",
+    "indicator": "sdg_08_10",
+    "valoare": 39540
+  },
+  {
+    "tara": "SE",
+    "an": "2006",
+    "indicator": "sdg_08_10",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2007",
+    "indicator": "sdg_08_10",
+    "valoare": 4800
+  },
+  {
+    "tara": "BG",
+    "an": "2007",
+    "indicator": "sdg_08_10",
+    "valoare": 15250
+  },
+  {
+    "tara": "CZ",
+    "an": "2007",
+    "indicator": "sdg_08_10",
+    "valoare": 46210
+  },
+  {
+    "tara": "DK",
+    "an": "2007",
+    "indicator": "sdg_08_10",
+    "valoare": 31920
+  },
+  {
+    "tara": "DE",
+    "an": "2007",
+    "indicator": "sdg_08_10",
+    "valoare": 13230
+  },
+  {
+    "tara": "EE",
+    "an": "2007",
+    "indicator": "sdg_08_10",
+    "valoare": 41270
+  },
+  {
+    "tara": "IE",
+    "an": "2007",
+    "indicator": "sdg_08_10",
+    "valoare": 22500
+  },
+  {
+    "tara": "EL",
+    "an": "2007",
+    "indicator": "sdg_08_10",
+    "valoare": 24380
+  },
+  {
+    "tara": "ES",
+    "an": "2007",
+    "indicator": "sdg_08_10",
+    "valoare": 31400
+  },
+  {
+    "tara": "FR",
+    "an": "2007",
+    "indicator": "sdg_08_10",
+    "valoare": 11380
+  },
+  {
+    "tara": "HR",
+    "an": "2007",
+    "indicator": "sdg_08_10",
+    "valoare": 28740
+  },
+  {
+    "tara": "IT",
+    "an": "2007",
+    "indicator": "sdg_08_10",
+    "valoare": 24420
+  },
+  {
+    "tara": "CY",
+    "an": "2007",
+    "indicator": "sdg_08_10",
+    "valoare": 10280
+  },
+  {
+    "tara": "LV",
+    "an": "2007",
+    "indicator": "sdg_08_10",
+    "valoare": 9770
+  },
+  {
+    "tara": "LT",
+    "an": "2007",
+    "indicator": "sdg_08_10",
+    "valoare": 88250
+  },
+  {
+    "tara": "LU",
+    "an": "2007",
+    "indicator": "sdg_08_10",
+    "valoare": 10410
+  },
+  {
+    "tara": "HU",
+    "an": "2007",
+    "indicator": "sdg_08_10",
+    "valoare": 15470
+  },
+  {
+    "tara": "MT",
+    "an": "2007",
+    "indicator": "sdg_08_10",
+    "valoare": 39120
+  },
+  {
+    "tara": "NL",
+    "an": "2007",
+    "indicator": "sdg_08_10",
+    "valoare": 35870
+  },
+  {
+    "tara": "AT",
+    "an": "2007",
+    "indicator": "sdg_08_10",
+    "valoare": 8540
+  },
+  {
+    "tara": "PL",
+    "an": "2007",
+    "indicator": "sdg_08_10",
+    "valoare": 17230
+  },
+  {
+    "tara": "PT",
+    "an": "2007",
+    "indicator": "sdg_08_10",
+    "valoare": 6190
+  },
+  {
+    "tara": "RO",
+    "an": "2007",
+    "indicator": "sdg_08_10",
+    "valoare": 18570
+  },
+  {
+    "tara": "SI",
+    "an": "2007",
+    "indicator": "sdg_08_10",
+    "valoare": 11960
+  },
+  {
+    "tara": "SK",
+    "an": "2007",
+    "indicator": "sdg_08_10",
+    "valoare": 37210
+  },
+  {
+    "tara": "FI",
+    "an": "2007",
+    "indicator": "sdg_08_10",
+    "valoare": 40590
+  },
+  {
+    "tara": "SE",
+    "an": "2007",
+    "indicator": "sdg_08_10",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2008",
+    "indicator": "sdg_08_10",
+    "valoare": 5120
+  },
+  {
+    "tara": "BG",
+    "an": "2008",
+    "indicator": "sdg_08_10",
+    "valoare": 15500
+  },
+  {
+    "tara": "CZ",
+    "an": "2008",
+    "indicator": "sdg_08_10",
+    "valoare": 45700
+  },
+  {
+    "tara": "DK",
+    "an": "2008",
+    "indicator": "sdg_08_10",
+    "valoare": 32320
+  },
+  {
+    "tara": "DE",
+    "an": "2008",
+    "indicator": "sdg_08_10",
+    "valoare": 12590
+  },
+  {
+    "tara": "EE",
+    "an": "2008",
+    "indicator": "sdg_08_10",
+    "valoare": 38580
+  },
+  {
+    "tara": "IE",
+    "an": "2008",
+    "indicator": "sdg_08_10",
+    "valoare": 22370
+  },
+  {
+    "tara": "EL",
+    "an": "2008",
+    "indicator": "sdg_08_10",
+    "valoare": 24200
+  },
+  {
+    "tara": "ES",
+    "an": "2008",
+    "indicator": "sdg_08_10",
+    "valoare": 31310
+  },
+  {
+    "tara": "FR",
+    "an": "2008",
+    "indicator": "sdg_08_10",
+    "valoare": 11610
+  },
+  {
+    "tara": "HR",
+    "an": "2008",
+    "indicator": "sdg_08_10",
+    "valoare": 28250
+  },
+  {
+    "tara": "IT",
+    "an": "2008",
+    "indicator": "sdg_08_10",
+    "valoare": 24680
+  },
+  {
+    "tara": "CY",
+    "an": "2008",
+    "indicator": "sdg_08_10",
+    "valoare": 10050
+  },
+  {
+    "tara": "LV",
+    "an": "2008",
+    "indicator": "sdg_08_10",
+    "valoare": 10130
+  },
+  {
+    "tara": "LT",
+    "an": "2008",
+    "indicator": "sdg_08_10",
+    "valoare": 86430
+  },
+  {
+    "tara": "LU",
+    "an": "2008",
+    "indicator": "sdg_08_10",
+    "valoare": 10530
+  },
+  {
+    "tara": "HU",
+    "an": "2008",
+    "indicator": "sdg_08_10",
+    "valoare": 15960
+  },
+  {
+    "tara": "MT",
+    "an": "2008",
+    "indicator": "sdg_08_10",
+    "valoare": 39810
+  },
+  {
+    "tara": "NL",
+    "an": "2008",
+    "indicator": "sdg_08_10",
+    "valoare": 36280
+  },
+  {
+    "tara": "AT",
+    "an": "2008",
+    "indicator": "sdg_08_10",
+    "valoare": 8900
+  },
+  {
+    "tara": "PL",
+    "an": "2008",
+    "indicator": "sdg_08_10",
+    "valoare": 17260
+  },
+  {
+    "tara": "PT",
+    "an": "2008",
+    "indicator": "sdg_08_10",
+    "valoare": 6880
+  },
+  {
+    "tara": "RO",
+    "an": "2008",
+    "indicator": "sdg_08_10",
+    "valoare": 19190
+  },
+  {
+    "tara": "SI",
+    "an": "2008",
+    "indicator": "sdg_08_10",
+    "valoare": 12610
+  },
+  {
+    "tara": "SK",
+    "an": "2008",
+    "indicator": "sdg_08_10",
+    "valoare": 37330
+  },
+  {
+    "tara": "FI",
+    "an": "2008",
+    "indicator": "sdg_08_10",
+    "valoare": 40100
+  },
+  {
+    "tara": "SE",
+    "an": "2008",
+    "indicator": "sdg_08_10",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2010",
+    "indicator": "sdg_08_10",
+    "valoare": 5080
+  },
+  {
+    "tara": "BG",
+    "an": "2010",
+    "indicator": "sdg_08_10",
+    "valoare": 15020
+  },
+  {
+    "tara": "CZ",
+    "an": "2010",
+    "indicator": "sdg_08_10",
+    "valoare": 43840
+  },
+  {
+    "tara": "DK",
+    "an": "2010",
+    "indicator": "sdg_08_10",
+    "valoare": 31940
+  },
+  {
+    "tara": "DE",
+    "an": "2010",
+    "indicator": "sdg_08_10",
+    "valoare": 11060
+  },
+  {
+    "tara": "EE",
+    "an": "2010",
+    "indicator": "sdg_08_10",
+    "valoare": 36710
+  },
+  {
+    "tara": "IE",
+    "an": "2010",
+    "indicator": "sdg_08_10",
+    "valoare": 20150
+  },
+  {
+    "tara": "EL",
+    "an": "2010",
+    "indicator": "sdg_08_10",
+    "valoare": 23040
+  },
+  {
+    "tara": "ES",
+    "an": "2010",
+    "indicator": "sdg_08_10",
+    "valoare": 30690
+  },
+  {
+    "tara": "FR",
+    "an": "2010",
+    "indicator": "sdg_08_10",
+    "valoare": 10670
+  },
+  {
+    "tara": "HR",
+    "an": "2010",
+    "indicator": "sdg_08_10",
+    "valoare": 26940
+  },
+  {
+    "tara": "IT",
+    "an": "2010",
+    "indicator": "sdg_08_10",
+    "valoare": 23460
+  },
+  {
+    "tara": "CY",
+    "an": "2010",
+    "indicator": "sdg_08_10",
+    "valoare": 8550
+  },
+  {
+    "tara": "LV",
+    "an": "2010",
+    "indicator": "sdg_08_10",
+    "valoare": 9050
+  },
+  {
+    "tara": "LT",
+    "an": "2010",
+    "indicator": "sdg_08_10",
+    "valoare": 83650
+  },
+  {
+    "tara": "LU",
+    "an": "2010",
+    "indicator": "sdg_08_10",
+    "valoare": 9980
+  },
+  {
+    "tara": "HU",
+    "an": "2010",
+    "indicator": "sdg_08_10",
+    "valoare": 16440
+  },
+  {
+    "tara": "MT",
+    "an": "2010",
+    "indicator": "sdg_08_10",
+    "valoare": 38470
+  },
+  {
+    "tara": "NL",
+    "an": "2010",
+    "indicator": "sdg_08_10",
+    "valoare": 35390
+  },
+  {
+    "tara": "AT",
+    "an": "2010",
+    "indicator": "sdg_08_10",
+    "valoare": 9320
+  },
+  {
+    "tara": "PL",
+    "an": "2010",
+    "indicator": "sdg_08_10",
+    "valoare": 16990
+  },
+  {
+    "tara": "PT",
+    "an": "2010",
+    "indicator": "sdg_08_10",
+    "valoare": 6340
+  },
+  {
+    "tara": "RO",
+    "an": "2010",
+    "indicator": "sdg_08_10",
+    "valoare": 17750
+  },
+  {
+    "tara": "SI",
+    "an": "2010",
+    "indicator": "sdg_08_10",
+    "valoare": 12660
+  },
+  {
+    "tara": "SK",
+    "an": "2010",
+    "indicator": "sdg_08_10",
+    "valoare": 35080
+  },
+  {
+    "tara": "FI",
+    "an": "2010",
+    "indicator": "sdg_08_10",
+    "valoare": 39950
+  },
+  {
+    "tara": "SE",
+    "an": "2010",
+    "indicator": "sdg_08_10",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2011",
+    "indicator": "sdg_08_10",
+    "valoare": 5320
+  },
+  {
+    "tara": "BG",
+    "an": "2011",
+    "indicator": "sdg_08_10",
+    "valoare": 15310
+  },
+  {
+    "tara": "CZ",
+    "an": "2011",
+    "indicator": "sdg_08_10",
+    "valoare": 44240
+  },
+  {
+    "tara": "DK",
+    "an": "2011",
+    "indicator": "sdg_08_10",
+    "valoare": 33200
+  },
+  {
+    "tara": "DE",
+    "an": "2011",
+    "indicator": "sdg_08_10",
+    "valoare": 11890
+  },
+  {
+    "tara": "EE",
+    "an": "2011",
+    "indicator": "sdg_08_10",
+    "valoare": 37030
+  },
+  {
+    "tara": "IE",
+    "an": "2011",
+    "indicator": "sdg_08_10",
+    "valoare": 18130
+  },
+  {
+    "tara": "EL",
+    "an": "2011",
+    "indicator": "sdg_08_10",
+    "valoare": 22770
+  },
+  {
+    "tara": "ES",
+    "an": "2011",
+    "indicator": "sdg_08_10",
+    "valoare": 31210
+  },
+  {
+    "tara": "FR",
+    "an": "2011",
+    "indicator": "sdg_08_10",
+    "valoare": 10700
+  },
+  {
+    "tara": "HR",
+    "an": "2011",
+    "indicator": "sdg_08_10",
+    "valoare": 27030
+  },
+  {
+    "tara": "IT",
+    "an": "2011",
+    "indicator": "sdg_08_10",
+    "valoare": 22970
+  },
+  {
+    "tara": "CY",
+    "an": "2011",
+    "indicator": "sdg_08_10",
+    "valoare": 8940
+  },
+  {
+    "tara": "LV",
+    "an": "2011",
+    "indicator": "sdg_08_10",
+    "valoare": 9820
+  },
+  {
+    "tara": "LT",
+    "an": "2011",
+    "indicator": "sdg_08_10",
+    "valoare": 82660
+  },
+  {
+    "tara": "LU",
+    "an": "2011",
+    "indicator": "sdg_08_10",
+    "valoare": 10190
+  },
+  {
+    "tara": "HU",
+    "an": "2011",
+    "indicator": "sdg_08_10",
+    "valoare": 16450
+  },
+  {
+    "tara": "MT",
+    "an": "2011",
+    "indicator": "sdg_08_10",
+    "valoare": 38880
+  },
+  {
+    "tara": "NL",
+    "an": "2011",
+    "indicator": "sdg_08_10",
+    "valoare": 36300
+  },
+  {
+    "tara": "AT",
+    "an": "2011",
+    "indicator": "sdg_08_10",
+    "valoare": 9790
+  },
+  {
+    "tara": "PL",
+    "an": "2011",
+    "indicator": "sdg_08_10",
+    "valoare": 16720
+  },
+  {
+    "tara": "PT",
+    "an": "2011",
+    "indicator": "sdg_08_10",
+    "valoare": 6650
+  },
+  {
+    "tara": "RO",
+    "an": "2011",
+    "indicator": "sdg_08_10",
+    "valoare": 17870
+  },
+  {
+    "tara": "SI",
+    "an": "2011",
+    "indicator": "sdg_08_10",
+    "valoare": 13080
+  },
+  {
+    "tara": "SK",
+    "an": "2011",
+    "indicator": "sdg_08_10",
+    "valoare": 35810
+  },
+  {
+    "tara": "FI",
+    "an": "2011",
+    "indicator": "sdg_08_10",
+    "valoare": 40920
+  },
+  {
+    "tara": "SE",
+    "an": "2011",
+    "indicator": "sdg_08_10",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2009",
+    "indicator": "sdg_08_10",
+    "valoare": 4970
+  },
+  {
+    "tara": "BG",
+    "an": "2009",
+    "indicator": "sdg_08_10",
+    "valoare": 14690
+  },
+  {
+    "tara": "CZ",
+    "an": "2009",
+    "indicator": "sdg_08_10",
+    "valoare": 43220
+  },
+  {
+    "tara": "DK",
+    "an": "2009",
+    "indicator": "sdg_08_10",
+    "valoare": 30580
+  },
+  {
+    "tara": "DE",
+    "an": "2009",
+    "indicator": "sdg_08_10",
+    "valoare": 10770
+  },
+  {
+    "tara": "EE",
+    "an": "2009",
+    "indicator": "sdg_08_10",
+    "valoare": 36270
+  },
+  {
+    "tara": "IE",
+    "an": "2009",
+    "indicator": "sdg_08_10",
+    "valoare": 21350
+  },
+  {
+    "tara": "EL",
+    "an": "2009",
+    "indicator": "sdg_08_10",
+    "valoare": 23100
+  },
+  {
+    "tara": "ES",
+    "an": "2009",
+    "indicator": "sdg_08_10",
+    "valoare": 30250
+  },
+  {
+    "tara": "FR",
+    "an": "2009",
+    "indicator": "sdg_08_10",
+    "valoare": 10780
+  },
+  {
+    "tara": "HR",
+    "an": "2009",
+    "indicator": "sdg_08_10",
+    "valoare": 26600
+  },
+  {
+    "tara": "IT",
+    "an": "2009",
+    "indicator": "sdg_08_10",
+    "valoare": 23550
+  },
+  {
+    "tara": "CY",
+    "an": "2009",
+    "indicator": "sdg_08_10",
+    "valoare": 8760
+  },
+  {
+    "tara": "LV",
+    "an": "2009",
+    "indicator": "sdg_08_10",
+    "valoare": 8720
+  },
+  {
+    "tara": "LT",
+    "an": "2009",
+    "indicator": "sdg_08_10",
+    "valoare": 82100
+  },
+  {
+    "tara": "LU",
+    "an": "2009",
+    "indicator": "sdg_08_10",
+    "valoare": 9850
+  },
+  {
+    "tara": "HU",
+    "an": "2009",
+    "indicator": "sdg_08_10",
+    "valoare": 15660
+  },
+  {
+    "tara": "MT",
+    "an": "2009",
+    "indicator": "sdg_08_10",
+    "valoare": 38160
+  },
+  {
+    "tara": "NL",
+    "an": "2009",
+    "indicator": "sdg_08_10",
+    "valoare": 34830
+  },
+  {
+    "tara": "AT",
+    "an": "2009",
+    "indicator": "sdg_08_10",
+    "valoare": 9060
+  },
+  {
+    "tara": "PL",
+    "an": "2009",
+    "indicator": "sdg_08_10",
+    "valoare": 16710
+  },
+  {
+    "tara": "PT",
+    "an": "2009",
+    "indicator": "sdg_08_10",
+    "valoare": 6550
+  },
+  {
+    "tara": "RO",
+    "an": "2009",
+    "indicator": "sdg_08_10",
+    "valoare": 17570
+  },
+  {
+    "tara": "SI",
+    "an": "2009",
+    "indicator": "sdg_08_10",
+    "valoare": 11890
+  },
+  {
+    "tara": "SK",
+    "an": "2009",
+    "indicator": "sdg_08_10",
+    "valoare": 34150
+  },
+  {
+    "tara": "FI",
+    "an": "2009",
+    "indicator": "sdg_08_10",
+    "valoare": 38030
+  },
+  {
+    "tara": "SE",
+    "an": "2009",
+    "indicator": "sdg_08_10",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2014",
+    "indicator": "sdg_08_10",
+    "valoare": 5470
+  },
+  {
+    "tara": "BG",
+    "an": "2014",
+    "indicator": "sdg_08_10",
+    "valoare": 15480
+  },
+  {
+    "tara": "CZ",
+    "an": "2014",
+    "indicator": "sdg_08_10",
+    "valoare": 44890
+  },
+  {
+    "tara": "DK",
+    "an": "2014",
+    "indicator": "sdg_08_10",
+    "valoare": 33920
+  },
+  {
+    "tara": "DE",
+    "an": "2014",
+    "indicator": "sdg_08_10",
+    "valoare": 12960
+  },
+  {
+    "tara": "EE",
+    "an": "2014",
+    "indicator": "sdg_08_10",
+    "valoare": 40070
+  },
+  {
+    "tara": "IE",
+    "an": "2014",
+    "indicator": "sdg_08_10",
+    "valoare": 16830
+  },
+  {
+    "tara": "EL",
+    "an": "2014",
+    "indicator": "sdg_08_10",
+    "valoare": 22220
+  },
+  {
+    "tara": "ES",
+    "an": "2014",
+    "indicator": "sdg_08_10",
+    "valoare": 31320
+  },
+  {
+    "tara": "FR",
+    "an": "2014",
+    "indicator": "sdg_08_10",
+    "valoare": 10480
+  },
+  {
+    "tara": "HR",
+    "an": "2014",
+    "indicator": "sdg_08_10",
+    "valoare": 25620
+  },
+  {
+    "tara": "IT",
+    "an": "2014",
+    "indicator": "sdg_08_10",
+    "valoare": 20310
+  },
+  {
+    "tara": "CY",
+    "an": "2014",
+    "indicator": "sdg_08_10",
+    "valoare": 10270
+  },
+  {
+    "tara": "LV",
+    "an": "2014",
+    "indicator": "sdg_08_10",
+    "valoare": 11290
+  },
+  {
+    "tara": "LT",
+    "an": "2014",
+    "indicator": "sdg_08_10",
+    "valoare": 82880
+  },
+  {
+    "tara": "LU",
+    "an": "2014",
+    "indicator": "sdg_08_10",
+    "valoare": 10790
+  },
+  {
+    "tara": "HU",
+    "an": "2014",
+    "indicator": "sdg_08_10",
+    "valoare": 18610
+  },
+  {
+    "tara": "MT",
+    "an": "2014",
+    "indicator": "sdg_08_10",
+    "valoare": 38580
+  },
+  {
+    "tara": "NL",
+    "an": "2014",
+    "indicator": "sdg_08_10",
+    "valoare": 36130
+  },
+  {
+    "tara": "AT",
+    "an": "2014",
+    "indicator": "sdg_08_10",
+    "valoare": 10420
+  },
+  {
+    "tara": "PL",
+    "an": "2014",
+    "indicator": "sdg_08_10",
+    "valoare": 16260
+  },
+  {
+    "tara": "PT",
+    "an": "2014",
+    "indicator": "sdg_08_10",
+    "valoare": 7160
+  },
+  {
+    "tara": "RO",
+    "an": "2014",
+    "indicator": "sdg_08_10",
+    "valoare": 17620
+  },
+  {
+    "tara": "SI",
+    "an": "2014",
+    "indicator": "sdg_08_10",
+    "valoare": 13640
+  },
+  {
+    "tara": "SK",
+    "an": "2014",
+    "indicator": "sdg_08_10",
+    "valoare": 34390
+  },
+  {
+    "tara": "FI",
+    "an": "2014",
+    "indicator": "sdg_08_10",
+    "valoare": 41180
+  },
+  {
+    "tara": "SE",
+    "an": "2014",
+    "indicator": "sdg_08_10",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2016",
+    "indicator": "sdg_08_10",
+    "valoare": 5910
+  },
+  {
+    "tara": "BG",
+    "an": "2016",
+    "indicator": "sdg_08_10",
+    "valoare": 16670
+  },
+  {
+    "tara": "CZ",
+    "an": "2016",
+    "indicator": "sdg_08_10",
+    "valoare": 46720
+  },
+  {
+    "tara": "DK",
+    "an": "2016",
+    "indicator": "sdg_08_10",
+    "valoare": 34610
+  },
+  {
+    "tara": "DE",
+    "an": "2016",
+    "indicator": "sdg_08_10",
+    "valoare": 13620
+  },
+  {
+    "tara": "EE",
+    "an": "2016",
+    "indicator": "sdg_08_10",
+    "valoare": 49730
+  },
+  {
+    "tara": "IE",
+    "an": "2016",
+    "indicator": "sdg_08_10",
+    "valoare": 16890
+  },
+  {
+    "tara": "EL",
+    "an": "2016",
+    "indicator": "sdg_08_10",
+    "valoare": 23780
+  },
+  {
+    "tara": "ES",
+    "an": "2016",
+    "indicator": "sdg_08_10",
+    "valoare": 31770
+  },
+  {
+    "tara": "FR",
+    "an": "2016",
+    "indicator": "sdg_08_10",
+    "valoare": 11290
+  },
+  {
+    "tara": "HR",
+    "an": "2016",
+    "indicator": "sdg_08_10",
+    "valoare": 26240
+  },
+  {
+    "tara": "IT",
+    "an": "2016",
+    "indicator": "sdg_08_10",
+    "valoare": 22410
+  },
+  {
+    "tara": "CY",
+    "an": "2016",
+    "indicator": "sdg_08_10",
+    "valoare": 11110
+  },
+  {
+    "tara": "LV",
+    "an": "2016",
+    "indicator": "sdg_08_10",
+    "valoare": 12070
+  },
+  {
+    "tara": "LT",
+    "an": "2016",
+    "indicator": "sdg_08_10",
+    "valoare": 84840
+  },
+  {
+    "tara": "LU",
+    "an": "2016",
+    "indicator": "sdg_08_10",
+    "valoare": 11500
+  },
+  {
+    "tara": "HU",
+    "an": "2016",
+    "indicator": "sdg_08_10",
+    "valoare": 20130
+  },
+  {
+    "tara": "MT",
+    "an": "2016",
+    "indicator": "sdg_08_10",
+    "valoare": 39810
+  },
+  {
+    "tara": "NL",
+    "an": "2016",
+    "indicator": "sdg_08_10",
+    "valoare": 36390
+  },
+  {
+    "tara": "AT",
+    "an": "2016",
+    "indicator": "sdg_08_10",
+    "valoare": 11220
+  },
+  {
+    "tara": "PL",
+    "an": "2016",
+    "indicator": "sdg_08_10",
+    "valoare": 17010
+  },
+  {
+    "tara": "PT",
+    "an": "2016",
+    "indicator": "sdg_08_10",
+    "valoare": 7680
+  },
+  {
+    "tara": "RO",
+    "an": "2016",
+    "indicator": "sdg_08_10",
+    "valoare": 18550
+  },
+  {
+    "tara": "SI",
+    "an": "2016",
+    "indicator": "sdg_08_10",
+    "valoare": 14590
+  },
+  {
+    "tara": "SK",
+    "an": "2016",
+    "indicator": "sdg_08_10",
+    "valoare": 35330
+  },
+  {
+    "tara": "FI",
+    "an": "2016",
+    "indicator": "sdg_08_10",
+    "valoare": 42920
+  },
+  {
+    "tara": "SE",
+    "an": "2016",
+    "indicator": "sdg_08_10",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2015",
+    "indicator": "sdg_08_10",
+    "valoare": 5700
+  },
+  {
+    "tara": "BG",
+    "an": "2015",
+    "indicator": "sdg_08_10",
+    "valoare": 16290
+  },
+  {
+    "tara": "CZ",
+    "an": "2015",
+    "indicator": "sdg_08_10",
+    "valoare": 45630
+  },
+  {
+    "tara": "DK",
+    "an": "2015",
+    "indicator": "sdg_08_10",
+    "valoare": 34130
+  },
+  {
+    "tara": "DE",
+    "an": "2015",
+    "indicator": "sdg_08_10",
+    "valoare": 13230
+  },
+  {
+    "tara": "EE",
+    "an": "2015",
+    "indicator": "sdg_08_10",
+    "valoare": 49420
+  },
+  {
+    "tara": "IE",
+    "an": "2015",
+    "indicator": "sdg_08_10",
+    "valoare": 16900
+  },
+  {
+    "tara": "EL",
+    "an": "2015",
+    "indicator": "sdg_08_10",
+    "valoare": 23090
+  },
+  {
+    "tara": "ES",
+    "an": "2015",
+    "indicator": "sdg_08_10",
+    "valoare": 31540
+  },
+  {
+    "tara": "FR",
+    "an": "2015",
+    "indicator": "sdg_08_10",
+    "valoare": 10810
+  },
+  {
+    "tara": "HR",
+    "an": "2015",
+    "indicator": "sdg_08_10",
+    "valoare": 25860
+  },
+  {
+    "tara": "IT",
+    "an": "2015",
+    "indicator": "sdg_08_10",
+    "valoare": 21120
+  },
+  {
+    "tara": "CY",
+    "an": "2015",
+    "indicator": "sdg_08_10",
+    "valoare": 10760
+  },
+  {
+    "tara": "LV",
+    "an": "2015",
+    "indicator": "sdg_08_10",
+    "valoare": 11620
+  },
+  {
+    "tara": "LT",
+    "an": "2015",
+    "indicator": "sdg_08_10",
+    "valoare": 82810
+  },
+  {
+    "tara": "LU",
+    "an": "2015",
+    "indicator": "sdg_08_10",
+    "valoare": 11220
+  },
+  {
+    "tara": "HU",
+    "an": "2015",
+    "indicator": "sdg_08_10",
+    "valoare": 19920
+  },
+  {
+    "tara": "MT",
+    "an": "2015",
+    "indicator": "sdg_08_10",
+    "valoare": 39170
+  },
+  {
+    "tara": "NL",
+    "an": "2015",
+    "indicator": "sdg_08_10",
+    "valoare": 36140
+  },
+  {
+    "tara": "AT",
+    "an": "2015",
+    "indicator": "sdg_08_10",
+    "valoare": 10890
+  },
+  {
+    "tara": "PL",
+    "an": "2015",
+    "indicator": "sdg_08_10",
+    "valoare": 16620
+  },
+  {
+    "tara": "PT",
+    "an": "2015",
+    "indicator": "sdg_08_10",
+    "valoare": 7420
+  },
+  {
+    "tara": "RO",
+    "an": "2015",
+    "indicator": "sdg_08_10",
+    "valoare": 17990
+  },
+  {
+    "tara": "SI",
+    "an": "2015",
+    "indicator": "sdg_08_10",
+    "valoare": 14340
+  },
+  {
+    "tara": "SK",
+    "an": "2015",
+    "indicator": "sdg_08_10",
+    "valoare": 34460
+  },
+  {
+    "tara": "FI",
+    "an": "2015",
+    "indicator": "sdg_08_10",
+    "valoare": 42580
+  },
+  {
+    "tara": "SE",
+    "an": "2015",
+    "indicator": "sdg_08_10",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2012",
+    "indicator": "sdg_08_10",
+    "valoare": 5390
+  },
+  {
+    "tara": "BG",
+    "an": "2012",
+    "indicator": "sdg_08_10",
+    "valoare": 15170
+  },
+  {
+    "tara": "CZ",
+    "an": "2012",
+    "indicator": "sdg_08_10",
+    "valoare": 44170
+  },
+  {
+    "tara": "DK",
+    "an": "2012",
+    "indicator": "sdg_08_10",
+    "valoare": 33280
+  },
+  {
+    "tara": "DE",
+    "an": "2012",
+    "indicator": "sdg_08_10",
+    "valoare": 12320
+  },
+  {
+    "tara": "EE",
+    "an": "2012",
+    "indicator": "sdg_08_10",
+    "valoare": 36830
+  },
+  {
+    "tara": "IE",
+    "an": "2012",
+    "indicator": "sdg_08_10",
+    "valoare": 16940
+  },
+  {
+    "tara": "EL",
+    "an": "2012",
+    "indicator": "sdg_08_10",
+    "valoare": 22080
+  },
+  {
+    "tara": "ES",
+    "an": "2012",
+    "indicator": "sdg_08_10",
+    "valoare": 31160
+  },
+  {
+    "tara": "FR",
+    "an": "2012",
+    "indicator": "sdg_08_10",
+    "valoare": 10480
+  },
+  {
+    "tara": "HR",
+    "an": "2012",
+    "indicator": "sdg_08_10",
+    "valoare": 26160
+  },
+  {
+    "tara": "IT",
+    "an": "2012",
+    "indicator": "sdg_08_10",
+    "valoare": 21840
+  },
+  {
+    "tara": "CY",
+    "an": "2012",
+    "indicator": "sdg_08_10",
+    "valoare": 9680
+  },
+  {
+    "tara": "LV",
+    "an": "2012",
+    "indicator": "sdg_08_10",
+    "valoare": 10330
+  },
+  {
+    "tara": "LT",
+    "an": "2012",
+    "indicator": "sdg_08_10",
+    "valoare": 82030
+  },
+  {
+    "tara": "LU",
+    "an": "2012",
+    "indicator": "sdg_08_10",
+    "valoare": 10120
+  },
+  {
+    "tara": "HU",
+    "an": "2012",
+    "indicator": "sdg_08_10",
+    "valoare": 16970
+  },
+  {
+    "tara": "MT",
+    "an": "2012",
+    "indicator": "sdg_08_10",
+    "valoare": 38340
+  },
+  {
+    "tara": "NL",
+    "an": "2012",
+    "indicator": "sdg_08_10",
+    "valoare": 36390
+  },
+  {
+    "tara": "AT",
+    "an": "2012",
+    "indicator": "sdg_08_10",
+    "valoare": 9940
+  },
+  {
+    "tara": "PL",
+    "an": "2012",
+    "indicator": "sdg_08_10",
+    "valoare": 16110
+  },
+  {
+    "tara": "PT",
+    "an": "2012",
+    "indicator": "sdg_08_10",
+    "valoare": 6810
+  },
+  {
+    "tara": "RO",
+    "an": "2012",
+    "indicator": "sdg_08_10",
+    "valoare": 17360
+  },
+  {
+    "tara": "SI",
+    "an": "2012",
+    "indicator": "sdg_08_10",
+    "valoare": 13230
+  },
+  {
+    "tara": "SK",
+    "an": "2012",
+    "indicator": "sdg_08_10",
+    "valoare": 35140
+  },
+  {
+    "tara": "FI",
+    "an": "2012",
+    "indicator": "sdg_08_10",
+    "valoare": 40380
+  },
+  {
+    "tara": "SE",
+    "an": "2012",
+    "indicator": "sdg_08_10",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2017",
+    "indicator": "sdg_08_10",
+    "valoare": 6120
+  },
+  {
+    "tara": "BG",
+    "an": "2017",
+    "indicator": "sdg_08_10",
+    "valoare": 17490
+  },
+  {
+    "tara": "CZ",
+    "an": "2017",
+    "indicator": "sdg_08_10",
+    "valoare": 47740
+  },
+  {
+    "tara": "DK",
+    "an": "2017",
+    "indicator": "sdg_08_10",
+    "valoare": 35410
+  },
+  {
+    "tara": "DE",
+    "an": "2017",
+    "indicator": "sdg_08_10",
+    "valoare": 14410
+  },
+  {
+    "tara": "EE",
+    "an": "2017",
+    "indicator": "sdg_08_10",
+    "valoare": 53750
+  },
+  {
+    "tara": "IE",
+    "an": "2017",
+    "indicator": "sdg_08_10",
+    "valoare": 17110
+  },
+  {
+    "tara": "EL",
+    "an": "2017",
+    "indicator": "sdg_08_10",
+    "valoare": 24440
+  },
+  {
+    "tara": "ES",
+    "an": "2017",
+    "indicator": "sdg_08_10",
+    "valoare": 32360
+  },
+  {
+    "tara": "FR",
+    "an": "2017",
+    "indicator": "sdg_08_10",
+    "valoare": 11800
+  },
+  {
+    "tara": "HR",
+    "an": "2017",
+    "indicator": "sdg_08_10",
+    "valoare": 26730
+  },
+  {
+    "tara": "IT",
+    "an": "2017",
+    "indicator": "sdg_08_10",
+    "valoare": 23470
+  },
+  {
+    "tara": "CY",
+    "an": "2017",
+    "indicator": "sdg_08_10",
+    "valoare": 11590
+  },
+  {
+    "tara": "LV",
+    "an": "2017",
+    "indicator": "sdg_08_10",
+    "valoare": 12760
+  },
+  {
+    "tara": "LT",
+    "an": "2017",
+    "indicator": "sdg_08_10",
+    "valoare": 84090
+  },
+  {
+    "tara": "LU",
+    "an": "2017",
+    "indicator": "sdg_08_10",
+    "valoare": 12020
+  },
+  {
+    "tara": "HU",
+    "an": "2017",
+    "indicator": "sdg_08_10",
+    "valoare": 21700
+  },
+  {
+    "tara": "MT",
+    "an": "2017",
+    "indicator": "sdg_08_10",
+    "valoare": 40730
+  },
+  {
+    "tara": "NL",
+    "an": "2017",
+    "indicator": "sdg_08_10",
+    "valoare": 36980
+  },
+  {
+    "tara": "AT",
+    "an": "2017",
+    "indicator": "sdg_08_10",
+    "valoare": 11800
+  },
+  {
+    "tara": "PL",
+    "an": "2017",
+    "indicator": "sdg_08_10",
+    "valoare": 17650
+  },
+  {
+    "tara": "PT",
+    "an": "2017",
+    "indicator": "sdg_08_10",
+    "valoare": 8360
+  },
+  {
+    "tara": "RO",
+    "an": "2017",
+    "indicator": "sdg_08_10",
+    "valoare": 19440
+  },
+  {
+    "tara": "SI",
+    "an": "2017",
+    "indicator": "sdg_08_10",
+    "valoare": 15000
+  },
+  {
+    "tara": "SK",
+    "an": "2017",
+    "indicator": "sdg_08_10",
+    "valoare": 36380
+  },
+  {
+    "tara": "FI",
+    "an": "2017",
+    "indicator": "sdg_08_10",
+    "valoare": 43430
+  },
+  {
+    "tara": "SE",
+    "an": "2017",
+    "indicator": "sdg_08_10",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2013",
+    "indicator": "sdg_08_10",
+    "valoare": 5390
+  },
+  {
+    "tara": "BG",
+    "an": "2013",
+    "indicator": "sdg_08_10",
+    "valoare": 15160
+  },
+  {
+    "tara": "CZ",
+    "an": "2013",
+    "indicator": "sdg_08_10",
+    "valoare": 44410
+  },
+  {
+    "tara": "DK",
+    "an": "2013",
+    "indicator": "sdg_08_10",
+    "valoare": 33330
+  },
+  {
+    "tara": "DE",
+    "an": "2013",
+    "indicator": "sdg_08_10",
+    "valoare": 12540
+  },
+  {
+    "tara": "EE",
+    "an": "2013",
+    "indicator": "sdg_08_10",
+    "valoare": 37080
+  },
+  {
+    "tara": "IE",
+    "an": "2013",
+    "indicator": "sdg_08_10",
+    "valoare": 16630
+  },
+  {
+    "tara": "EL",
+    "an": "2013",
+    "indicator": "sdg_08_10",
+    "valoare": 21850
+  },
+  {
+    "tara": "ES",
+    "an": "2013",
+    "indicator": "sdg_08_10",
+    "valoare": 31170
+  },
+  {
+    "tara": "FR",
+    "an": "2013",
+    "indicator": "sdg_08_10",
+    "valoare": 10480
+  },
+  {
+    "tara": "HR",
+    "an": "2013",
+    "indicator": "sdg_08_10",
+    "valoare": 25620
+  },
+  {
+    "tara": "IT",
+    "an": "2013",
+    "indicator": "sdg_08_10",
+    "valoare": 20450
+  },
+  {
+    "tara": "CY",
+    "an": "2013",
+    "indicator": "sdg_08_10",
+    "valoare": 9980
+  },
+  {
+    "tara": "LV",
+    "an": "2013",
+    "indicator": "sdg_08_10",
+    "valoare": 10810
+  },
+  {
+    "tara": "LT",
+    "an": "2013",
+    "indicator": "sdg_08_10",
+    "valoare": 82700
+  },
+  {
+    "tara": "LU",
+    "an": "2013",
+    "indicator": "sdg_08_10",
+    "valoare": 10330
+  },
+  {
+    "tara": "HU",
+    "an": "2013",
+    "indicator": "sdg_08_10",
+    "valoare": 17650
+  },
+  {
+    "tara": "MT",
+    "an": "2013",
+    "indicator": "sdg_08_10",
+    "valoare": 38180
+  },
+  {
+    "tara": "NL",
+    "an": "2013",
+    "indicator": "sdg_08_10",
+    "valoare": 36180
+  },
+  {
+    "tara": "AT",
+    "an": "2013",
+    "indicator": "sdg_08_10",
+    "valoare": 10030
+  },
+  {
+    "tara": "PL",
+    "an": "2013",
+    "indicator": "sdg_08_10",
+    "valoare": 16050
+  },
+  {
+    "tara": "PT",
+    "an": "2013",
+    "indicator": "sdg_08_10",
+    "valoare": 6860
+  },
+  {
+    "tara": "RO",
+    "an": "2013",
+    "indicator": "sdg_08_10",
+    "valoare": 17160
+  },
+  {
+    "tara": "SI",
+    "an": "2013",
+    "indicator": "sdg_08_10",
+    "valoare": 13300
+  },
+  {
+    "tara": "SK",
+    "an": "2013",
+    "indicator": "sdg_08_10",
+    "valoare": 34660
+  },
+  {
+    "tara": "FI",
+    "an": "2013",
+    "indicator": "sdg_08_10",
+    "valoare": 40510
+  },
+  {
+    "tara": "SE",
+    "an": "2013",
+    "indicator": "sdg_08_10",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2000",
+    "indicator": "demo_mlexpec",
+    "valoare": 71.6
+  },
+  {
+    "tara": "BG",
+    "an": "2000",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.4
+  },
+  {
+    "tara": "CZ",
+    "an": "2000",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.3
+  },
+  {
+    "tara": "DK",
+    "an": "2000",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.6
+  },
+  {
+    "tara": "DE",
+    "an": "2000",
+    "indicator": "demo_mlexpec",
+    "valoare": 70.7
+  },
+  {
+    "tara": "EE",
+    "an": "2000",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.1
+  },
+  {
+    "tara": "IE",
+    "an": "2000",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.1
+  },
+  {
+    "tara": "EL",
+    "an": "2000",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.7
+  },
+  {
+    "tara": "ES",
+    "an": "2000",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.5
+  },
+  {
+    "tara": "FR",
+    "an": "2000",
+    "indicator": "demo_mlexpec",
+    "valoare": null
+  },
+  {
+    "tara": "HR",
+    "an": "2000",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.3
+  },
+  {
+    "tara": "IT",
+    "an": "2000",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.1
+  },
+  {
+    "tara": "CY",
+    "an": "2000",
+    "indicator": "demo_mlexpec",
+    "valoare": null
+  },
+  {
+    "tara": "LV",
+    "an": "2000",
+    "indicator": "demo_mlexpec",
+    "valoare": 71.7
+  },
+  {
+    "tara": "LT",
+    "an": "2000",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.4
+  },
+  {
+    "tara": "LU",
+    "an": "2000",
+    "indicator": "demo_mlexpec",
+    "valoare": 71.5
+  },
+  {
+    "tara": "HU",
+    "an": "2000",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.9
+  },
+  {
+    "tara": "MT",
+    "an": "2000",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.6
+  },
+  {
+    "tara": "NL",
+    "an": "2000",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.7
+  },
+  {
+    "tara": "AT",
+    "an": "2000",
+    "indicator": "demo_mlexpec",
+    "valoare": 73.4
+  },
+  {
+    "tara": "PL",
+    "an": "2000",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.3
+  },
+  {
+    "tara": "PT",
+    "an": "2000",
+    "indicator": "demo_mlexpec",
+    "valoare": 71.5
+  },
+  {
+    "tara": "RO",
+    "an": "2000",
+    "indicator": "demo_mlexpec",
+    "valoare": 75.5
+  },
+  {
+    "tara": "SI",
+    "an": "2000",
+    "indicator": "demo_mlexpec",
+    "valoare": 72.9
+  },
+  {
+    "tara": "SK",
+    "an": "2000",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.1
+  },
+  {
+    "tara": "FI",
+    "an": "2000",
+    "indicator": "demo_mlexpec",
+    "valoare": 79
+  },
+  {
+    "tara": "SE",
+    "an": "2000",
+    "indicator": "demo_mlexpec",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2001",
+    "indicator": "demo_mlexpec",
+    "valoare": 71.9
+  },
+  {
+    "tara": "BG",
+    "an": "2001",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.6
+  },
+  {
+    "tara": "CZ",
+    "an": "2001",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.4
+  },
+  {
+    "tara": "DK",
+    "an": "2001",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.9
+  },
+  {
+    "tara": "DE",
+    "an": "2001",
+    "indicator": "demo_mlexpec",
+    "valoare": 70.5
+  },
+  {
+    "tara": "EE",
+    "an": "2001",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.6
+  },
+  {
+    "tara": "IE",
+    "an": "2001",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.5
+  },
+  {
+    "tara": "EL",
+    "an": "2001",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.1
+  },
+  {
+    "tara": "ES",
+    "an": "2001",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.6
+  },
+  {
+    "tara": "FR",
+    "an": "2001",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.1
+  },
+  {
+    "tara": "HR",
+    "an": "2001",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.6
+  },
+  {
+    "tara": "IT",
+    "an": "2001",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.4
+  },
+  {
+    "tara": "CY",
+    "an": "2001",
+    "indicator": "demo_mlexpec",
+    "valoare": null
+  },
+  {
+    "tara": "LV",
+    "an": "2001",
+    "indicator": "demo_mlexpec",
+    "valoare": 71.2
+  },
+  {
+    "tara": "LT",
+    "an": "2001",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.5
+  },
+  {
+    "tara": "LU",
+    "an": "2001",
+    "indicator": "demo_mlexpec",
+    "valoare": 72.1
+  },
+  {
+    "tara": "HU",
+    "an": "2001",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.2
+  },
+  {
+    "tara": "MT",
+    "an": "2001",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.8
+  },
+  {
+    "tara": "NL",
+    "an": "2001",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.2
+  },
+  {
+    "tara": "AT",
+    "an": "2001",
+    "indicator": "demo_mlexpec",
+    "valoare": 73.8
+  },
+  {
+    "tara": "PL",
+    "an": "2001",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.6
+  },
+  {
+    "tara": "PT",
+    "an": "2001",
+    "indicator": "demo_mlexpec",
+    "valoare": 71.4
+  },
+  {
+    "tara": "RO",
+    "an": "2001",
+    "indicator": "demo_mlexpec",
+    "valoare": 75.7
+  },
+  {
+    "tara": "SI",
+    "an": "2001",
+    "indicator": "demo_mlexpec",
+    "valoare": 73.1
+  },
+  {
+    "tara": "SK",
+    "an": "2001",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.5
+  },
+  {
+    "tara": "FI",
+    "an": "2001",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.2
+  },
+  {
+    "tara": "SE",
+    "an": "2001",
+    "indicator": "demo_mlexpec",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2018",
+    "indicator": "sdg_08_10",
+    "valoare": 6330
+  },
+  {
+    "tara": "BG",
+    "an": "2018",
+    "indicator": "sdg_08_10",
+    "valoare": 17990
+  },
+  {
+    "tara": "CZ",
+    "an": "2018",
+    "indicator": "sdg_08_10",
+    "valoare": 48450
+  },
+  {
+    "tara": "DK",
+    "an": "2018",
+    "indicator": "sdg_08_10",
+    "valoare": 35650
+  },
+  {
+    "tara": "DE",
+    "an": "2018",
+    "indicator": "sdg_08_10",
+    "valoare": 14920
+  },
+  {
+    "tara": "EE",
+    "an": "2018",
+    "indicator": "sdg_08_10",
+    "valoare": 57610
+  },
+  {
+    "tara": "IE",
+    "an": "2018",
+    "indicator": "sdg_08_10",
+    "valoare": 17430
+  },
+  {
+    "tara": "EL",
+    "an": "2018",
+    "indicator": "sdg_08_10",
+    "valoare": 24890
+  },
+  {
+    "tara": "ES",
+    "an": "2018",
+    "indicator": "sdg_08_10",
+    "valoare": 32800
+  },
+  {
+    "tara": "FR",
+    "an": "2018",
+    "indicator": "sdg_08_10",
+    "valoare": 12250
+  },
+  {
+    "tara": "HR",
+    "an": "2018",
+    "indicator": "sdg_08_10",
+    "valoare": 27030
+  },
+  {
+    "tara": "IT",
+    "an": "2018",
+    "indicator": "sdg_08_10",
+    "valoare": 24500
+  },
+  {
+    "tara": "CY",
+    "an": "2018",
+    "indicator": "sdg_08_10",
+    "valoare": 12140
+  },
+  {
+    "tara": "LV",
+    "an": "2018",
+    "indicator": "sdg_08_10",
+    "valoare": 13400
+  },
+  {
+    "tara": "LT",
+    "an": "2018",
+    "indicator": "sdg_08_10",
+    "valoare": 83510
+  },
+  {
+    "tara": "LU",
+    "an": "2018",
+    "indicator": "sdg_08_10",
+    "valoare": 12690
+  },
+  {
+    "tara": "HU",
+    "an": "2018",
+    "indicator": "sdg_08_10",
+    "valoare": 22510
+  },
+  {
+    "tara": "MT",
+    "an": "2018",
+    "indicator": "sdg_08_10",
+    "valoare": 41450
+  },
+  {
+    "tara": "NL",
+    "an": "2018",
+    "indicator": "sdg_08_10",
+    "valoare": 37690
+  },
+  {
+    "tara": "AT",
+    "an": "2018",
+    "indicator": "sdg_08_10",
+    "valoare": 12500
+  },
+  {
+    "tara": "PL",
+    "an": "2018",
+    "indicator": "sdg_08_10",
+    "valoare": 18190
+  },
+  {
+    "tara": "PT",
+    "an": "2018",
+    "indicator": "sdg_08_10",
+    "valoare": 8910
+  },
+  {
+    "tara": "RO",
+    "an": "2018",
+    "indicator": "sdg_08_10",
+    "valoare": 20240
+  },
+  {
+    "tara": "SI",
+    "an": "2018",
+    "indicator": "sdg_08_10",
+    "valoare": 15580
+  },
+  {
+    "tara": "SK",
+    "an": "2018",
+    "indicator": "sdg_08_10",
+    "valoare": 36740
+  },
+  {
+    "tara": "FI",
+    "an": "2018",
+    "indicator": "sdg_08_10",
+    "valoare": 43760
+  },
+  {
+    "tara": "SE",
+    "an": "2018",
+    "indicator": "sdg_08_10",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2004",
+    "indicator": "demo_mlexpec",
+    "valoare": 72.4
+  },
+  {
+    "tara": "BG",
+    "an": "2004",
+    "indicator": "demo_mlexpec",
+    "valoare": 75.2
+  },
+  {
+    "tara": "CZ",
+    "an": "2004",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.2
+  },
+  {
+    "tara": "DK",
+    "an": "2004",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.6
+  },
+  {
+    "tara": "DE",
+    "an": "2004",
+    "indicator": "demo_mlexpec",
+    "valoare": 71.9
+  },
+  {
+    "tara": "EE",
+    "an": "2004",
+    "indicator": "demo_mlexpec",
+    "valoare": 78
+  },
+  {
+    "tara": "IE",
+    "an": "2004",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.7
+  },
+  {
+    "tara": "EL",
+    "an": "2004",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.7
+  },
+  {
+    "tara": "ES",
+    "an": "2004",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.7
+  },
+  {
+    "tara": "FR",
+    "an": "2004",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.9
+  },
+  {
+    "tara": "HR",
+    "an": "2004",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.2
+  },
+  {
+    "tara": "IT",
+    "an": "2004",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.4
+  },
+  {
+    "tara": "CY",
+    "an": "2004",
+    "indicator": "demo_mlexpec",
+    "valoare": 70.6
+  },
+  {
+    "tara": "LV",
+    "an": "2004",
+    "indicator": "demo_mlexpec",
+    "valoare": 71.5
+  },
+  {
+    "tara": "LT",
+    "an": "2004",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.6
+  },
+  {
+    "tara": "LU",
+    "an": "2004",
+    "indicator": "demo_mlexpec",
+    "valoare": 72.5
+  },
+  {
+    "tara": "HU",
+    "an": "2004",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.8
+  },
+  {
+    "tara": "MT",
+    "an": "2004",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.7
+  },
+  {
+    "tara": "NL",
+    "an": "2004",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.7
+  },
+  {
+    "tara": "AT",
+    "an": "2004",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.4
+  },
+  {
+    "tara": "PL",
+    "an": "2004",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.7
+  },
+  {
+    "tara": "PT",
+    "an": "2004",
+    "indicator": "demo_mlexpec",
+    "valoare": 71.6
+  },
+  {
+    "tara": "RO",
+    "an": "2004",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.5
+  },
+  {
+    "tara": "SI",
+    "an": "2004",
+    "indicator": "demo_mlexpec",
+    "valoare": 73.7
+  },
+  {
+    "tara": "SK",
+    "an": "2004",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.2
+  },
+  {
+    "tara": "FI",
+    "an": "2004",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.9
+  },
+  {
+    "tara": "SE",
+    "an": "2004",
+    "indicator": "demo_mlexpec",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2003",
+    "indicator": "demo_mlexpec",
+    "valoare": 72.2
+  },
+  {
+    "tara": "BG",
+    "an": "2003",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.6
+  },
+  {
+    "tara": "CZ",
+    "an": "2003",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.8
+  },
+  {
+    "tara": "DK",
+    "an": "2003",
+    "indicator": "demo_mlexpec",
+    "valoare": 78
+  },
+  {
+    "tara": "DE",
+    "an": "2003",
+    "indicator": "demo_mlexpec",
+    "valoare": 71.4
+  },
+  {
+    "tara": "EE",
+    "an": "2003",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.6
+  },
+  {
+    "tara": "IE",
+    "an": "2003",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.6
+  },
+  {
+    "tara": "EL",
+    "an": "2003",
+    "indicator": "demo_mlexpec",
+    "valoare": 79
+  },
+  {
+    "tara": "ES",
+    "an": "2003",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.6
+  },
+  {
+    "tara": "FR",
+    "an": "2003",
+    "indicator": "demo_mlexpec",
+    "valoare": 74
+  },
+  {
+    "tara": "HR",
+    "an": "2003",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.5
+  },
+  {
+    "tara": "IT",
+    "an": "2003",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.3
+  },
+  {
+    "tara": "CY",
+    "an": "2003",
+    "indicator": "demo_mlexpec",
+    "valoare": 70.3
+  },
+  {
+    "tara": "LV",
+    "an": "2003",
+    "indicator": "demo_mlexpec",
+    "valoare": 71.5
+  },
+  {
+    "tara": "LT",
+    "an": "2003",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.2
+  },
+  {
+    "tara": "LU",
+    "an": "2003",
+    "indicator": "demo_mlexpec",
+    "valoare": 72.1
+  },
+  {
+    "tara": "HU",
+    "an": "2003",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.1
+  },
+  {
+    "tara": "MT",
+    "an": "2003",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.1
+  },
+  {
+    "tara": "NL",
+    "an": "2003",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.1
+  },
+  {
+    "tara": "AT",
+    "an": "2003",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.2
+  },
+  {
+    "tara": "PL",
+    "an": "2003",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.8
+  },
+  {
+    "tara": "PT",
+    "an": "2003",
+    "indicator": "demo_mlexpec",
+    "valoare": 71.2
+  },
+  {
+    "tara": "RO",
+    "an": "2003",
+    "indicator": "demo_mlexpec",
+    "valoare": 75.7
+  },
+  {
+    "tara": "SI",
+    "an": "2003",
+    "indicator": "demo_mlexpec",
+    "valoare": 73.4
+  },
+  {
+    "tara": "SK",
+    "an": "2003",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.8
+  },
+  {
+    "tara": "FI",
+    "an": "2003",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.5
+  },
+  {
+    "tara": "SE",
+    "an": "2003",
+    "indicator": "demo_mlexpec",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2002",
+    "indicator": "demo_mlexpec",
+    "valoare": 72.1
+  },
+  {
+    "tara": "BG",
+    "an": "2002",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.7
+  },
+  {
+    "tara": "CZ",
+    "an": "2002",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.4
+  },
+  {
+    "tara": "DK",
+    "an": "2002",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.9
+  },
+  {
+    "tara": "DE",
+    "an": "2002",
+    "indicator": "demo_mlexpec",
+    "valoare": 70.8
+  },
+  {
+    "tara": "EE",
+    "an": "2002",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.1
+  },
+  {
+    "tara": "IE",
+    "an": "2002",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.6
+  },
+  {
+    "tara": "EL",
+    "an": "2002",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.2
+  },
+  {
+    "tara": "ES",
+    "an": "2002",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.7
+  },
+  {
+    "tara": "FR",
+    "an": "2002",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.2
+  },
+  {
+    "tara": "HR",
+    "an": "2002",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.7
+  },
+  {
+    "tara": "IT",
+    "an": "2002",
+    "indicator": "demo_mlexpec",
+    "valoare": 78
+  },
+  {
+    "tara": "CY",
+    "an": "2002",
+    "indicator": "demo_mlexpec",
+    "valoare": 69.9
+  },
+  {
+    "tara": "LV",
+    "an": "2002",
+    "indicator": "demo_mlexpec",
+    "valoare": 71.3
+  },
+  {
+    "tara": "LT",
+    "an": "2002",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.5
+  },
+  {
+    "tara": "LU",
+    "an": "2002",
+    "indicator": "demo_mlexpec",
+    "valoare": 72.1
+  },
+  {
+    "tara": "HU",
+    "an": "2002",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.3
+  },
+  {
+    "tara": "MT",
+    "an": "2002",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.8
+  },
+  {
+    "tara": "NL",
+    "an": "2002",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.2
+  },
+  {
+    "tara": "AT",
+    "an": "2002",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.1
+  },
+  {
+    "tara": "PL",
+    "an": "2002",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.8
+  },
+  {
+    "tara": "PT",
+    "an": "2002",
+    "indicator": "demo_mlexpec",
+    "valoare": 71.1
+  },
+  {
+    "tara": "RO",
+    "an": "2002",
+    "indicator": "demo_mlexpec",
+    "valoare": 75.9
+  },
+  {
+    "tara": "SI",
+    "an": "2002",
+    "indicator": "demo_mlexpec",
+    "valoare": 73.3
+  },
+  {
+    "tara": "SK",
+    "an": "2002",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.6
+  },
+  {
+    "tara": "FI",
+    "an": "2002",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.3
+  },
+  {
+    "tara": "SE",
+    "an": "2002",
+    "indicator": "demo_mlexpec",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2007",
+    "indicator": "demo_mlexpec",
+    "valoare": 72.7
+  },
+  {
+    "tara": "BG",
+    "an": "2007",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.3
+  },
+  {
+    "tara": "CZ",
+    "an": "2007",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.7
+  },
+  {
+    "tara": "DK",
+    "an": "2007",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.4
+  },
+  {
+    "tara": "DE",
+    "an": "2007",
+    "indicator": "demo_mlexpec",
+    "valoare": 72.6
+  },
+  {
+    "tara": "EE",
+    "an": "2007",
+    "indicator": "demo_mlexpec",
+    "valoare": 79
+  },
+  {
+    "tara": "IE",
+    "an": "2007",
+    "indicator": "demo_mlexpec",
+    "valoare": 79
+  },
+  {
+    "tara": "EL",
+    "an": "2007",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.4
+  },
+  {
+    "tara": "ES",
+    "an": "2007",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.6
+  },
+  {
+    "tara": "FR",
+    "an": "2007",
+    "indicator": "demo_mlexpec",
+    "valoare": 75.2
+  },
+  {
+    "tara": "HR",
+    "an": "2007",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.8
+  },
+  {
+    "tara": "IT",
+    "an": "2007",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.1
+  },
+  {
+    "tara": "CY",
+    "an": "2007",
+    "indicator": "demo_mlexpec",
+    "valoare": 70.4
+  },
+  {
+    "tara": "LV",
+    "an": "2007",
+    "indicator": "demo_mlexpec",
+    "valoare": 70.2
+  },
+  {
+    "tara": "LT",
+    "an": "2007",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.7
+  },
+  {
+    "tara": "LU",
+    "an": "2007",
+    "indicator": "demo_mlexpec",
+    "valoare": 73
+  },
+  {
+    "tara": "HU",
+    "an": "2007",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.5
+  },
+  {
+    "tara": "MT",
+    "an": "2007",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.7
+  },
+  {
+    "tara": "NL",
+    "an": "2007",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.6
+  },
+  {
+    "tara": "AT",
+    "an": "2007",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.8
+  },
+  {
+    "tara": "PL",
+    "an": "2007",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.5
+  },
+  {
+    "tara": "PT",
+    "an": "2007",
+    "indicator": "demo_mlexpec",
+    "valoare": 73
+  },
+  {
+    "tara": "RO",
+    "an": "2007",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.6
+  },
+  {
+    "tara": "SI",
+    "an": "2007",
+    "indicator": "demo_mlexpec",
+    "valoare": 74
+  },
+  {
+    "tara": "SK",
+    "an": "2007",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.8
+  },
+  {
+    "tara": "FI",
+    "an": "2007",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.3
+  },
+  {
+    "tara": "SE",
+    "an": "2007",
+    "indicator": "demo_mlexpec",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2006",
+    "indicator": "demo_mlexpec",
+    "valoare": 72.5
+  },
+  {
+    "tara": "BG",
+    "an": "2006",
+    "indicator": "demo_mlexpec",
+    "valoare": 76
+  },
+  {
+    "tara": "CZ",
+    "an": "2006",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.7
+  },
+  {
+    "tara": "DK",
+    "an": "2006",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.2
+  },
+  {
+    "tara": "DE",
+    "an": "2006",
+    "indicator": "demo_mlexpec",
+    "valoare": 72.5
+  },
+  {
+    "tara": "EE",
+    "an": "2006",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.6
+  },
+  {
+    "tara": "IE",
+    "an": "2006",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.2
+  },
+  {
+    "tara": "EL",
+    "an": "2006",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.4
+  },
+  {
+    "tara": "ES",
+    "an": "2006",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.3
+  },
+  {
+    "tara": "FR",
+    "an": "2006",
+    "indicator": "demo_mlexpec",
+    "valoare": 75.3
+  },
+  {
+    "tara": "HR",
+    "an": "2006",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.7
+  },
+  {
+    "tara": "IT",
+    "an": "2006",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.4
+  },
+  {
+    "tara": "CY",
+    "an": "2006",
+    "indicator": "demo_mlexpec",
+    "valoare": 70.1
+  },
+  {
+    "tara": "LV",
+    "an": "2006",
+    "indicator": "demo_mlexpec",
+    "valoare": 70.5
+  },
+  {
+    "tara": "LT",
+    "an": "2006",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.6
+  },
+  {
+    "tara": "LU",
+    "an": "2006",
+    "indicator": "demo_mlexpec",
+    "valoare": 72.9
+  },
+  {
+    "tara": "HU",
+    "an": "2006",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.8
+  },
+  {
+    "tara": "MT",
+    "an": "2006",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.3
+  },
+  {
+    "tara": "NL",
+    "an": "2006",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.4
+  },
+  {
+    "tara": "AT",
+    "an": "2006",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.8
+  },
+  {
+    "tara": "PL",
+    "an": "2006",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.3
+  },
+  {
+    "tara": "PT",
+    "an": "2006",
+    "indicator": "demo_mlexpec",
+    "valoare": 72.5
+  },
+  {
+    "tara": "RO",
+    "an": "2006",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.5
+  },
+  {
+    "tara": "SI",
+    "an": "2006",
+    "indicator": "demo_mlexpec",
+    "valoare": 73.9
+  },
+  {
+    "tara": "SK",
+    "an": "2006",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.8
+  },
+  {
+    "tara": "FI",
+    "an": "2006",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.2
+  },
+  {
+    "tara": "SE",
+    "an": "2006",
+    "indicator": "demo_mlexpec",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2008",
+    "indicator": "demo_mlexpec",
+    "valoare": 73
+  },
+  {
+    "tara": "BG",
+    "an": "2008",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.5
+  },
+  {
+    "tara": "CZ",
+    "an": "2008",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.1
+  },
+  {
+    "tara": "DK",
+    "an": "2008",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.5
+  },
+  {
+    "tara": "DE",
+    "an": "2008",
+    "indicator": "demo_mlexpec",
+    "valoare": 73.7
+  },
+  {
+    "tara": "EE",
+    "an": "2008",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.5
+  },
+  {
+    "tara": "IE",
+    "an": "2008",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.5
+  },
+  {
+    "tara": "EL",
+    "an": "2008",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.8
+  },
+  {
+    "tara": "ES",
+    "an": "2008",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.7
+  },
+  {
+    "tara": "FR",
+    "an": "2008",
+    "indicator": "demo_mlexpec",
+    "valoare": 75.3
+  },
+  {
+    "tara": "HR",
+    "an": "2008",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.9
+  },
+  {
+    "tara": "IT",
+    "an": "2008",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.9
+  },
+  {
+    "tara": "CY",
+    "an": "2008",
+    "indicator": "demo_mlexpec",
+    "valoare": 71.6
+  },
+  {
+    "tara": "LV",
+    "an": "2008",
+    "indicator": "demo_mlexpec",
+    "valoare": 71.1
+  },
+  {
+    "tara": "LT",
+    "an": "2008",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.8
+  },
+  {
+    "tara": "LU",
+    "an": "2008",
+    "indicator": "demo_mlexpec",
+    "valoare": 73.6
+  },
+  {
+    "tara": "HU",
+    "an": "2008",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.4
+  },
+  {
+    "tara": "MT",
+    "an": "2008",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.8
+  },
+  {
+    "tara": "NL",
+    "an": "2008",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.9
+  },
+  {
+    "tara": "AT",
+    "an": "2008",
+    "indicator": "demo_mlexpec",
+    "valoare": 75.1
+  },
+  {
+    "tara": "PL",
+    "an": "2008",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.8
+  },
+  {
+    "tara": "PT",
+    "an": "2008",
+    "indicator": "demo_mlexpec",
+    "valoare": 73.4
+  },
+  {
+    "tara": "RO",
+    "an": "2008",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.3
+  },
+  {
+    "tara": "SI",
+    "an": "2008",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.4
+  },
+  {
+    "tara": "SK",
+    "an": "2008",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.1
+  },
+  {
+    "tara": "FI",
+    "an": "2008",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.5
+  },
+  {
+    "tara": "SE",
+    "an": "2008",
+    "indicator": "demo_mlexpec",
+    "valoare": null
+  },
+  {
+    "tara": "BE",
+    "an": "2005",
+    "indicator": "demo_mlexpec",
+    "valoare": 72.3
+  },
+  {
+    "tara": "BG",
+    "an": "2005",
+    "indicator": "demo_mlexpec",
+    "valoare": 75.4
+  },
+  {
+    "tara": "CZ",
+    "an": "2005",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.6
+  },
+  {
+    "tara": "DK",
+    "an": "2005",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.7
+  },
+  {
+    "tara": "DE",
+    "an": "2005",
+    "indicator": "demo_mlexpec",
+    "valoare": 72.4
+  },
+  {
+    "tara": "EE",
+    "an": "2005",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.3
+  },
+  {
+    "tara": "IE",
+    "an": "2005",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.9
+  },
+  {
+    "tara": "EL",
+    "an": "2005",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.6
+  },
+  {
+    "tara": "ES",
+    "an": "2005",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.7
+  },
+  {
+    "tara": "FR",
+    "an": "2005",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.7
+  },
+  {
+    "tara": "HR",
+    "an": "2005",
+    "indicator": "demo_mlexpec",
+    "valoare": 80.2
+  },
+  {
+    "tara": "IT",
+    "an": "2005",
+    "indicator": "demo_mlexpec",
+    "valoare": 78
+  },
+  {
+    "tara": "CY",
+    "an": "2005",
+    "indicator": "demo_mlexpec",
+    "valoare": 70.2
+  },
+  {
+    "tara": "LV",
+    "an": "2005",
+    "indicator": "demo_mlexpec",
+    "valoare": 70.7
+  },
+  {
+    "tara": "LT",
+    "an": "2005",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.8
+  },
+  {
+    "tara": "LU",
+    "an": "2005",
+    "indicator": "demo_mlexpec",
+    "valoare": 72.4
+  },
+  {
+    "tara": "HU",
+    "an": "2005",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.9
+  },
+  {
+    "tara": "MT",
+    "an": "2005",
+    "indicator": "demo_mlexpec",
+    "valoare": 79
+  },
+  {
+    "tara": "NL",
+    "an": "2005",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.9
+  },
+  {
+    "tara": "AT",
+    "an": "2005",
+    "indicator": "demo_mlexpec",
+    "valoare": 74.5
+  },
+  {
+    "tara": "PL",
+    "an": "2005",
+    "indicator": "demo_mlexpec",
+    "valoare": 77.5
+  },
+  {
+    "tara": "PT",
+    "an": "2005",
+    "indicator": "demo_mlexpec",
+    "valoare": 72
+  },
+  {
+    "tara": "RO",
+    "an": "2005",
+    "indicator": "demo_mlexpec",
+    "valoare": 76.8
+  },
+  {
+    "tara": "SI",
+    "an": "2005",
+    "indicator": "demo_mlexpec",
+    "valoare": 73.7
+  },
+  {
+    "tara": "SK",
+    "an": "2005",
+    "indicator": "demo_mlexpec",
+    "valoare": 78.4
+  },
+  {
+    "tara": "FI",
+    "an": "2005",
+    "indicator": "demo_mlexpec",
+    "valoare": 79.9
+  },
+  {
+    "tara": "SE",
+    "an": "2005",
+    "indicator": "demo_mlexpec",
+    "valoare": null
+  }
+]

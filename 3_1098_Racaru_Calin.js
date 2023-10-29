@@ -12,7 +12,7 @@ let variabila = 12;
 const dataResult = [];
 
 // Define an array of years (from 2000 to 2018)
-const years = Array.from({ length: 19 }, (_, index) => 2000 + index);
+const years = Array.from({ length: 16 }, (_, index) => 2007 + index);
 
 // Create an array of promises for each combination of dataset, year, and country
 const promises = datasets.flatMap(dataset =>
@@ -57,14 +57,18 @@ console.log('dataResult:', dataResult);
 
   // Iterate through countries
   countries.forEach((country,index) => {
-    console.log('country:!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!', country);
-    const valoare = parseFloat(datasetData.value[index]);
-const valoareNonNull = valoare !== null ? parseFloat(valoare) : 0;
+   // console.log('country:!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!', country);
+//     const valoare = parseFloat(datasetData.value[index+1]);
+// const valoareNonNull = valoare !== null ? parseFloat(valoare) : 0;
+
+
+const valoare = parseFloat(datasetData.value[index]);
+    const valoareNonNull = valoare !== null ? parseFloat(valoare) : 0;
     const dataPoint = {
       tara: country,
       an: year.toString(),
       indicator: indicator,
-      valoare: valoare,
+      valoare: valoareNonNull,
       
     };
 
