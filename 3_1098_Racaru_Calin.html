@@ -4,17 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Data view</title>
+    <link rel="stylesheet" href="./3_1098_Racaru_Calin.css">
 </head>
 <body>
     <div class="container">
      <div class="alert " id="alert">
         <strong class="alert-message" id="message">
-            The data has been donloaded successfully!
+           The json file was downloaded!
         </strong>
             <script>
+
                 var message = document.getElementById("message");
                 message.style.display = "block";
-                setTimeout(function(){ message.style.display = "none"; }, 3000);
+
+                setTimeout(function(){
+                    message.innerHTML = "The data was downloaded!";
+                    message.style.display = "none"; }, 3000);
+               
             </script>
      </div>
      
