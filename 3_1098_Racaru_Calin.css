@@ -19,3 +19,7 @@
     padding: 0;
     margin: 10px;
 }
+#table {
+    border: 2px solid rgb(55, 39, 8);
+    visibility: hidden;
+}

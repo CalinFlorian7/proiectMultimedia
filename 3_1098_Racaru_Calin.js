@@ -61,7 +61,10 @@ optionsIndex.forEach((option) => {
     element.textContent = option
     combomoxIndex.appendChild(element)
 })
-// // import fs from 'fs'
+const button1 = document.getElementById('button1')
+button1.addEventListener('click', function () {
+    fetchDataYear(combomoxYear.value)
+})
 
 // async function fetchData() {
 //     const Url =
@@ -159,9 +162,6 @@ optionsIndex.forEach((option) => {
 
 //                 jsonData = JSON.stringify(dataFormatted, null, 2)
 //                 console.log(jsonData)
-//                 // fs.writeFile('data.json', jsonData, (err) => {
-//                 //     console.log(err || 'Data written to file')
-//                 // })
 //             })
 //         })
 //         .catch((error) => {
@@ -171,7 +171,7 @@ optionsIndex.forEach((option) => {
 
 // fetchData()
 
-async function fetchData(inputYear) {
+async function fetchDataYear(inputYear) {
     const Url =
         'https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data'
     const datasets = [
@@ -230,7 +230,7 @@ async function fetchData(inputYear) {
             console.log(error)
         }
     }
-
+    let count = 0
     dataResult.forEach((result) => {
         const dataFormatted = []
         const datasetInfo = result.dataset
@@ -249,9 +249,45 @@ async function fetchData(inputYear) {
             }
             dataFormatted.push(dataPoint)
         })
+        if (count == 0) {
+            count++
+            let table = document.getElementById('table')
+            table.style.visibility = 'visible'
+            const tableRow = document.createElement('tr')
 
-        const jsonData = JSON.stringify(dataFormatted, null, 2)
-        console.log(jsonData)
+            const headerCountry = document.createElement('th')
+            headerCountry.textContent = 'Country'
+            headerCountry.style.border = '1px solid black'
+            tableRow.appendChild(headerCountry)
+            optionsIndex.forEach((option) => {
+                const header = document.createElement('th')
+                header.textContent = option
+                header.style.border = '1px solid black'
+                tableRow.appendChild(header)
+            })
+
+            table.appendChild(tableRow)
+            const sortedCountries = optionsCountry.sort((a, b) =>
+                a.localeCompare(b)
+            )
+            sortedCountries.forEach((country) => {
+                const tableRow = document.createElement('tr')
+                const tableHeader = document.createElement('th')
+                tableHeader.textContent = country
+                tableHeader.style.border = '1px solid black'
+                tableRow.appendChild(tableHeader)
+                optionsIndex.forEach((option) => {
+                    const tableData = document.createElement('td')
+                    tableData.textContent = '0'
+                    tableData.style.border = '1px solid black'
+                    tableRow.appendChild(tableData)
+                })
+                table.appendChild(tableRow)
+            })
+        }
+        // const jsonData = JSON.stringify(dataFormatted, null, 2)
+        // console.log(jsonData)
+
         // You can save the data to a file here if needed.
         // fs.writeFile('data.json', jsonData, (err) => {
         //     console.log(err || 'Data written to file');
@@ -259,4 +295,99 @@ async function fetchData(inputYear) {
     })
 }
 
-fetchData(2019)
+// fetchDataYear(2019)
+async function fetchData() {
+    const Url =
+        'https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data'
+    const datasets = [
+        'sdg_08_10?na_item=B1GQ&unit=CLV10_EUR_HAB',
+        'demo_mlexpec?sex=T&age=Y1',
+        'demo_pjan?sex=T&age=TOTAL',
+    ]
+    const format = 'JSON'
+    const lang = 'EN'
+    const countries = [
+        'BE',
+        'BG',
+        'CZ',
+        'DK',
+        'DE',
+        'EE',
+        'IE',
+        'EL',
+        'ES',
+        'FR',
+        'HR',
+        'IT',
+        'CY',
+        'LV',
+        'LT',
+        'LU',
+        'HU',
+        'MT',
+        'NL',
+        'AT',
+        'PL',
+        'PT',
+        'RO',
+        'SI',
+        'SK',
+        'FI',
+        'SE',
+    ]
+    let variabila = 12
+    const dataResult = []
+
+    const years = Array.from({ length: 16 }, (_, index) => 2007 + index)
+
+    for (const dataset of datasets) {
+        for (const year of years) {
+            const apiRequestUrl = `${Url}/${dataset}&format=${format}&lang=${lang}&time=${year}&geo=${countries.join(
+                '&geo='
+            )}`
+            try {
+                const response = await fetch(apiRequestUrl)
+                if (!response.ok) {
+                    throw new Error('API request failed')
+                }
+                const data = await response.json()
+                dataResult.push({ dataset, year, data })
+            } catch (error) {
+                console.log(error)
+            }
+        }
+    }
+
+    try {
+        variabila = 10
+        const dataFormatted = []
+        dataResult.forEach((result) => {
+            const datasetInfo = result.dataset
+            const year = result.year
+            const datasetData = result.data
+            const indicator = datasetInfo.split('?')[0]
+            countries.forEach((country, index) => {
+                const valoare = parseFloat(datasetData.value[index])
+                const valoareNonNull =
+                    valoare !== null ? parseFloat(valoare) : 0
+                const dataPoint = {
+                    tara: country,
+                    an: year.toString(),
+                    indicator: indicator,
+                    valoare: valoareNonNull,
+                }
+                dataFormatted.push(dataPoint)
+            })
+        })
+        console.log(dataFormatted)
+        // const jsonData = JSON.stringify(dataFormatted, null, 2)
+        // console.log(jsonData)
+        // fs.writeFile('data.json', jsonData, (err) => {
+        //     console.log(err || 'Data written to file');
+        // });
+    } catch (error) {
+        console.log(error)
+    }
+}
+
+// fetchData()
