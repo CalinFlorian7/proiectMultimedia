@@ -52,8 +52,18 @@ optionsIndex.set(
     'sdg_08_10?na_item=B1GQ&unit=CLV10_EUR_HAB',
     'GDP per capita in PPS'
 )
+
 optionsIndex.set('demo_mlexpec?sex=T&age=Y1', 'Life expectancy at birth')
 optionsIndex.set('demo_pjan?sex=T&age=TOTAL', 'Population')
+const indexNames = new Map()
+indexNames.set('sdg_08_10', 'GDP per capita in PPS')
+indexNames.set('demo_mlexpec', 'Life expectancy at birth')
+indexNames.set('demo_pjan', 'Population')
+const keysArray = Array.from(indexNames.keys())
+keysArray.forEach((key) => {
+    console.log(key)
+})
+const sortedCountries = optionsCountry.sort((a, b) => a.localeCompare(b))
 combomoxIndex = document.getElementById('combobox3')
 optionsIndex.forEach((option) => {
     const element = document.createElement('option')
@@ -231,6 +241,7 @@ async function fetchDataYear(inputYear) {
         }
     }
     let count = 0
+    let sum = 0
     dataResult.forEach((result) => {
         const dataFormatted = []
         const datasetInfo = result.dataset
@@ -247,11 +258,14 @@ async function fetchDataYear(inputYear) {
                 indicator: indicator,
                 valoare: valoareNonNull,
             }
+            sum += valoareNonNull
+
             dataFormatted.push(dataPoint)
         })
-        if (count == 0) {
+        let table = document.getElementById('table')
+        if (count == 0 && table.children.length == 0) {
             count++
-            let table = document.getElementById('table')
+            // let table = document.getElementById('table')
             table.style.visibility = 'visible'
             const tableRow = document.createElement('tr')
 
@@ -267,17 +281,17 @@ async function fetchDataYear(inputYear) {
             })
 
             table.appendChild(tableRow)
-            const sortedCountries = optionsCountry.sort((a, b) =>
-                a.localeCompare(b)
-            )
+
             sortedCountries.forEach((country) => {
                 const tableRow = document.createElement('tr')
+                tableRow.id = country
                 const tableHeader = document.createElement('th')
                 tableHeader.textContent = country
                 tableHeader.style.border = '1px solid black'
                 tableRow.appendChild(tableHeader)
                 optionsIndex.forEach((option) => {
                     const tableData = document.createElement('td')
+                    tableData.className = 'td'
                     tableData.textContent = '0'
                     tableData.style.border = '1px solid black'
                     tableRow.appendChild(tableData)
@@ -285,8 +299,25 @@ async function fetchDataYear(inputYear) {
                 table.appendChild(tableRow)
             })
         }
-        // const jsonData = JSON.stringify(dataFormatted, null, 2)
-        // console.log(jsonData)
+
+        // const table = document.getElementById('table')
+        const rows = table.getElementsByTagName('tr')
+        dataFormatted.forEach((dataPoint) => {
+            const row = rows.namedItem(dataPoint.tara)
+            const cells = row.getElementsByClassName('td')
+            const index = keysArray.indexOf(dataPoint.indicator)
+            console.log('valoare index: ', index)
+            //map indexi pt nume
+            // const cell = cells.namedItem(dataPoint.indicator)
+            const cell = cells[index]
+
+            // cell.textContent = dataPoint.valoare
+            cell.textContent = dataPoint.valoare === 0 ? '-' : dataPoint.valoare
+            // cell.style.backgroundColor = 'red'
+            colorCell(cell, dataPoint.valoare, sum)
+        })
+        const jsonData = JSON.stringify(dataFormatted, null, 2)
+        console.log(jsonData)
 
         // You can save the data to a file here if needed.
         // fs.writeFile('data.json', jsonData, (err) => {
@@ -296,6 +327,16 @@ async function fetchDataYear(inputYear) {
 }
 
 // fetchDataYear(2019)
+function colorCell(cell, value, sum) {
+    sum = sum / optionsCountry.length
+    const distance = Math.abs(value - sum)
+    const normalizedDistance = distance / (sum * 2)
+    const red = 255 * (1 - normalizedDistance)
+    const green = 255 * normalizedDistance
+    const color = `rgb(${red},${green},0)`
+    if (value !== 0) cell.style.backgroundColor = color
+    else cell.style.backgroundColor = 'white'
+}
 async function fetchData() {
     const Url =
         'https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data'
