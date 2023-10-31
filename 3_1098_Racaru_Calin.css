@@ -1,8 +1,21 @@
-#message{
+#message {
     background-color: beige;
     color: rgb(55, 39, 8);
     padding: 10px;
     font-size: 20px;
     text-align: center;
     display: none;
+}
+.col-md-4 {
+    padding: 10px;
+}
+.hr-break {
+    border: 1px solid rgb(55, 39, 8);
+    height: 3px;
+    background-color: orangered;
+    border-radius: 5px;
+    /* margin-left: 0%;
+    margin-right: 0%; */
+    padding: 0;
+    margin: 10px;
 }

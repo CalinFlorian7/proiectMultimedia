@@ -1,31 +1,97 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Data view</title>
-    <link rel="stylesheet" href="./3_1098_Racaru_Calin.css">
-</head>
-<body>
-    <div class="container">
-     <div class="alert " id="alert">
-        <strong class="alert-message" id="message">
-           The json file was downloaded!
-        </strong>
-            <script>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Data view</title>
+        <link rel="stylesheet" href="./3_1098_Racaru_Calin.css" />
+    </head>
+    <body>
+        <div class="container">
+            <div class="alert" id="alert">
+                <strong class="alert-message" id="message">
+                    The json file was downloaded!
+                </strong>
+                <script>
+                    var message = document.getElementById('message')
+                    message.style.display = 'block'
 
-                var message = document.getElementById("message");
-                message.style.display = "block";
-
-                setTimeout(function(){
-                    message.innerHTML = "The data was downloaded!";
-                    message.style.display = "none"; }, 3000);
-               
-            </script>
-     </div>
-     
-
-     </div>
-     <script src="./3_1098_Racaru_Calin.js"></script>
-</body>
+                    setTimeout(function () {
+                        message.innerHTML = 'The data was downloaded!'
+                        message.style.display = 'none'
+                    }, 3000)
+                </script>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <label for="combobox1">Select the country</label>
+                    <select
+                        name="combobox1"
+                        class="form-control mb-3"
+                        id="combobox1"
+                    >
+                        <!-- <option value="option1">Optiunea1</option> -->
+                    </select>
+                </div>
+                <div>
+                    <div class="col-md-4">
+                        <label for="combobox2">Select the year</label>
+                        <select
+                            name="combobox2"
+                            class="form-control mb-3"
+                            id="combobox2"
+                        >
+                            <!-- <option value="option1">Optiunea1</option> -->
+                        </select>
+                    </div>
+                </div>
+                <div>
+                    <div class="col-md-4">
+                        <label for="combobox3">Select the index</label>
+                        <select
+                            name="combobox3"
+                            class="form-control mb-3"
+                            id="combobox3"
+                        >
+                            <!-- <option value="option1">Optiunea1</option> -->
+                        </select>
+                    </div>
+                </div>
+                <div>
+                    <div class="buttons" id="buttons"></div>
+                    <div class="buttons-br" id="btn-table">
+                        <hr class="hr-break" />
+                        <button
+                            type="button"
+                            class="btn btn-primary"
+                            id="button1"
+                        >
+                            See all the data
+                        </button>
+                    </div>
+                    <div class="buttons-br" id="btn-ind-country">
+                        <hr class="hr-break" />
+                        <button
+                            type="button"
+                            class="btn btn-primary"
+                            id="button2"
+                        >
+                            See the index for the selected country
+                        </button>
+                    </div>
+                    <div class="buttons-br" id="btn-bubble-chart">
+                        <hr class="hr-break" />
+                        <button
+                            type="button"
+                            class="btn btn-primary"
+                            id="button3"
+                        >
+                            the the bubble chart for the selected year
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="./3_1098_Racaru_Calin.js"></script>
+    </body>
 </html>
