@@ -61,21 +61,40 @@ indexNames.set('demo_mlexpec', 'Life expectancy at birth')
 indexNames.set('demo_pjan', 'Population')
 const keysArray = Array.from(indexNames.keys())
 keysArray.forEach((key) => {
-    console.log(key)
+    // console.log(key)
 })
 const sortedCountries = optionsCountry.sort((a, b) => a.localeCompare(b))
-combomoxIndex = document.getElementById('combobox3')
+comboboxIndex = document.getElementById('combobox3')
 optionsIndex.forEach((option) => {
     const element = document.createElement('option')
     element.value = option
     element.textContent = option
-    combomoxIndex.appendChild(element)
+    comboboxIndex.appendChild(element)
 })
 const button1 = document.getElementById('button1')
 button1.addEventListener('click', function () {
     fetchDataYear(combomoxYear.value)
 })
+const button2 = document.getElementById('button2')
+button2.addEventListener('click', function () {
+    // const key = Array.from(optionsIndex.entries()).find(
+    //     ([key, value]) => value === comboboxIndex.value
+    // )
+    const key = getMapKeyByValue(indexNames, comboboxIndex.value)
+    console.log('cheia', key)
+    console.log('tara:', combomoxCountry.value, 'cheia:', '|', key, '|')
 
+    fetchDataCountryIndex(combomoxCountry.value, key)
+
+    // if (key) fetchDataCountryIndex(combomoxCountry.value, key[0])
+})
+function getMapKeyByValue(map, valueMap) {
+    let keyrez
+    for (const [key, value] of map.entries()) {
+        if (value === valueMap) keyrez = key
+    }
+    return keyrez
+}
 // async function fetchData() {
 //     const Url =
 //         'https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data'
@@ -420,7 +439,7 @@ async function fetchData() {
                 dataFormatted.push(dataPoint)
             })
         })
-        console.log(dataFormatted)
+        // console.log(dataFormatted)
         // const jsonData = JSON.stringify(dataFormatted, null, 2)
         // console.log(jsonData)
         // fs.writeFile('data.json', jsonData, (err) => {
@@ -432,3 +451,99 @@ async function fetchData() {
 }
 
 // fetchData()
+async function fetchDataCountryIndex(country, index) {
+    const Url =
+        'https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data'
+    const datasets = [
+        'sdg_08_10?na_item=B1GQ&unit=CLV10_EUR_HAB',
+        'demo_mlexpec?sex=T&age=Y1',
+        'demo_pjan?sex=T&age=TOTAL',
+    ]
+    const format = 'JSON'
+    const lang = 'EN'
+    const countries = [
+        'BE',
+        'BG',
+        'CZ',
+        'DK',
+        'DE',
+        'EE',
+        'IE',
+        'EL',
+        'ES',
+        'FR',
+        'HR',
+        'IT',
+        'CY',
+        'LV',
+        'LT',
+        'LU',
+        'HU',
+        'MT',
+        'NL',
+        'AT',
+        'PL',
+        'PT',
+        'RO',
+        'SI',
+        'SK',
+        'FI',
+        'SE',
+    ]
+    let variabila = 12
+    const dataResult = []
+
+    const years = Array.from({ length: 16 }, (_, index) => 2007 + index)
+
+    for (const dataset of datasets) {
+        for (const year of years) {
+            const apiRequestUrl = `${Url}/${dataset}&format=${format}&lang=${lang}&time=${year}&geo=${countries.join(
+                '&geo='
+            )}`
+            try {
+                const response = await fetch(apiRequestUrl)
+                if (!response.ok) {
+                    throw new Error('API request failed')
+                }
+                const data = await response.json()
+                dataResult.push({ dataset, year, data })
+            } catch (error) {
+                console.log(error)
+            }
+        }
+    }
+
+    try {
+        variabila = 10
+        const dataFormatted = []
+        dataResult.forEach((result) => {
+            const datasetInfo = result.dataset
+            const year = result.year
+            const datasetData = result.data
+            const indicator = datasetInfo.split('?')[0]
+            countries.forEach((country, index) => {
+                const valoare = parseFloat(datasetData.value[index])
+                // const valoareNonNull =
+                //     valoare !== null ? parseFloat(valoare) : 0
+                const valoareNonNull = !isNaN(valoare) ? valoare : 0
+                const dataPoint = {
+                    tara: country,
+                    an: year.toString(),
+                    indicator: indicator,
+                    valoare: valoareNonNull,
+                }
+                dataFormatted.push(dataPoint)
+            })
+        })
+        // console.log(dataFormatted)
+        const filteredData = dataFormatted.filter(
+            (data) => data.tara === country && data.indicator === index
+        )
+        console.log(filteredData)
+
+        // const jsonData = JSON.stringify(dataFormatted, null, 2)
+        // console.log(jsonData)
+    } catch (error) {
+        console.log(error)
+    }
+}
