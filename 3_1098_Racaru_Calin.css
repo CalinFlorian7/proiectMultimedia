@@ -24,7 +24,11 @@
     visibility: hidden;
 }
 #histogram {
-    width: 600px;
-    height: 400px;
     background-color: coral;
+    border: 5px solid black;
+}
+#diV {
+    background-color: aqua;
+    height: 999px;
+    width: 500px;
 }

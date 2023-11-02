@@ -27,6 +27,7 @@ const optionsCountry = [
     'FI',
     'SE',
 ]
+let svg = document.getElementById('histogram')
 const combomoxCountry = document.getElementById('combobox1')
 optionsCountry.sort((a, b) => a.localeCompare(b))
 optionsCountry.forEach((option) => {
@@ -532,17 +533,102 @@ async function fetchDataCountryIndex(country, index) {
                     indicator: indicator,
                     valoare: valoareNonNull,
                 }
+
                 dataFormatted.push(dataPoint)
             })
         })
-        // console.log(dataFormatted)
         const filteredData = dataFormatted.filter(
             (data) => data.tara === country && data.indicator === index
         )
-        console.log(filteredData)
+        console.log('date filtrate: ', filteredData)
+        const years = filteredData.map((data) => data.an)
+        const values = filteredData.map((data) => data.valoare)
+        while (svg.firstChild) {
+            svg.removeChild(svg.firstChild)
+        }
+        // Dimensions
+        const svgWidth = 1400
+        const svgHeight = 400
+        const margin = { top: 20, right: 30, bottom: 40, left: 120 }
+        const chartWidth = svgWidth - margin.left - margin.right
+        const chartHeight = svgHeight - margin.top - margin.bottom
 
-        // const jsonData = JSON.stringify(dataFormatted, null, 2)
-        // console.log(jsonData)
+        // Calculate the maximum value in the dataset
+        const maxValue = Math.max(...values)
+
+        // Create bars
+        for (let i = 0; i < years.length; i++) {
+            const bar = document.createElementNS(
+                'http://www.w3.org/2000/svg',
+                'rect'
+            )
+            bar.setAttribute('class', 'bar')
+            bar.setAttribute('x', (i * chartWidth) / years.length + margin.left)
+            bar.setAttribute(
+                'y',
+                chartHeight - (values[i] * chartHeight) / maxValue + margin.top
+            )
+            bar.setAttribute('width', chartWidth / years.length - 10) // Adjust the width as needed
+            bar.setAttribute('height', (values[i] * chartHeight) / maxValue)
+            svg.appendChild(bar)
+        }
+
+        // Create x-axis
+        for (let i = 0; i < years.length; i++) {
+            const text = document.createElementNS(
+                'http://www.w3.org/2000/svg',
+                'text'
+            )
+            text.setAttribute(
+                'x',
+                (i * chartWidth) / years.length +
+                    margin.left +
+                    chartWidth / years.length / 2
+            )
+            text.setAttribute('y', chartHeight + margin.top + 20)
+            text.setAttribute('text-anchor', 'middle')
+            text.textContent = years[i]
+            svg.appendChild(text)
+        }
+
+        // Create y-axis
+        for (let i = 0; i <= 5; i++) {
+            const text = document.createElementNS(
+                'http://www.w3.org/2000/svg',
+                'text'
+            )
+            text.setAttribute('x', margin.left - 10)
+            text.setAttribute(
+                'y',
+                chartHeight - (chartHeight * i) / 5 + margin.top
+            )
+            text.setAttribute('text-anchor', 'end')
+            text.textContent = Math.round((maxValue * i) / 5)
+            svg.appendChild(text)
+        }
+
+        // Add labels
+        const xLabel = document.createElementNS(
+            'http://www.w3.org/2000/svg',
+            'text'
+        )
+        xLabel.setAttribute('x', svgWidth / 2)
+        xLabel.setAttribute('y', svgHeight - 10)
+        xLabel.setAttribute('text-anchor', 'middle')
+        xLabel.textContent = 'Years'
+        svg.appendChild(xLabel)
+
+        const yLabel = document.createElementNS(
+            'http://www.w3.org/2000/svg',
+            'text'
+        )
+        yLabel.setAttribute('x', 60)
+        yLabel.setAttribute('y', svgHeight / 2)
+        yLabel.setAttribute('text-anchor', 'middle')
+        yLabel.setAttribute('transform', 'rotate(-90 10,200)')
+        yLabel.textContent = 'Values'
+        svg.appendChild(yLabel)
+        // if (svg) console.log('svg: exista ')
     } catch (error) {
         console.log(error)
     }
