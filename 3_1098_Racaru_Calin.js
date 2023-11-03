@@ -76,6 +76,32 @@ const button1 = document.getElementById('button1')
 button1.addEventListener('click', function () {
     fetchDataYear(combomoxYear.value)
 })
+// button1.addEventListener('onmouseover', function () {
+//     console.log('esti peste butonul 1')
+//     var tool = document.createElement('div')
+//     var text = document.createElement('span')
+//     text.innerHTML = 'buton!!!!!!!'
+//     tool.appendChild(text)
+//     btn = document.getElementById('btn-table')
+//     btn.appendChild(tool)
+// })
+button1.onmousemove = function (event) {
+    console.log('esti peste butonul 1')
+    var tool = document.createElement('div')
+    var text = document.createElement('span')
+    text.innerHTML = 'buton!!!!!!!'
+    let pozX = event.pageX
+    let pozY = event.pageY
+    tool.style.position = 'absolute'
+    tool.style.left = pozX + 'px'
+    tool.style.top = pozY + 'px'
+    console.log('poz span: ', pozX, pozY)
+    console.log('pozX: ', event.pageX)
+    console.log('pozY: ', event.pageY)
+    tool.appendChild(text)
+    btn = document.getElementById('btn-table')
+    btn.appendChild(tool)
+}
 const button2 = document.getElementById('button2')
 button2.addEventListener('click', function () {
     // const key = Array.from(optionsIndex.entries()).find(
@@ -570,6 +596,25 @@ async function fetchDataCountryIndex(country, index) {
             )
             bar.setAttribute('width', chartWidth / years.length - 10) // Adjust the width as needed
             bar.setAttribute('height', (values[i] * chartHeight) / maxValue)
+            bar.onmousemove = function (event) {
+                let toolTipDiv = document.getElementById('tooltipDiv')
+                // let toolTipSpan = document.getElementById('tooltipSpan')
+                console.log('esti deasuupra graficului')
+                toolTipDiv.style.visibility = 'visible'
+                toolTipDiv.style.left = event.pageX + 20 + 'px'
+                toolTipDiv.style.top = event.pageY + 10 + 'px'
+                console.log('mouse: ', event.pageX, event.pageY)
+                console.log(
+                    'toolTip: ',
+                    toolTipDiv.style.left,
+                    toolTipDiv.style.top
+                )
+                // document.body.appendChild(toolTipDiv)
+            }
+            bar.onmouseleave = function (event) {
+                let toolTipDiv = document.getElementById('tooltipDiv')
+                toolTipDiv.style.visibility = 'hidden'
+            }
             svg.appendChild(bar)
         }
 
