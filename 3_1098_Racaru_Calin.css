@@ -30,9 +30,11 @@
 #diV {
     background-color: aqua;
     height: 999px;
+    visibility: hidden;
     width: 500px;
 }
 #tooltipDiv {
-    background-color: red;
+    background-color: beige;
     position: absolute;
+    visibility: hidden;
 }

@@ -85,23 +85,23 @@ button1.addEventListener('click', function () {
 //     btn = document.getElementById('btn-table')
 //     btn.appendChild(tool)
 // })
-button1.onmousemove = function (event) {
-    console.log('esti peste butonul 1')
-    var tool = document.createElement('div')
-    var text = document.createElement('span')
-    text.innerHTML = 'buton!!!!!!!'
-    let pozX = event.pageX
-    let pozY = event.pageY
-    tool.style.position = 'absolute'
-    tool.style.left = pozX + 'px'
-    tool.style.top = pozY + 'px'
-    console.log('poz span: ', pozX, pozY)
-    console.log('pozX: ', event.pageX)
-    console.log('pozY: ', event.pageY)
-    tool.appendChild(text)
-    btn = document.getElementById('btn-table')
-    btn.appendChild(tool)
-}
+// button1.onmousemove = function (event) {
+//     console.log('esti peste butonul 1')
+//     var tool = document.createElement('div')
+//     var text = document.createElement('span')
+//     text.innerHTML = 'buton!!!!!!!'
+//     let pozX = event.pageX
+//     let pozY = event.pageY
+//     tool.style.position = 'absolute'
+//     tool.style.left = pozX + 'px'
+//     tool.style.top = pozY + 'px'
+//     console.log('poz span: ', pozX, pozY)
+//     console.log('pozX: ', event.pageX)
+//     console.log('pozY: ', event.pageY)
+//     tool.appendChild(text)
+//     btn = document.getElementById('btn-table')
+//     btn.appendChild(tool)
+// }
 const button2 = document.getElementById('button2')
 button2.addEventListener('click', function () {
     // const key = Array.from(optionsIndex.entries()).find(
@@ -114,6 +114,11 @@ button2.addEventListener('click', function () {
     fetchDataCountryIndex(combomoxCountry.value, key)
 
     // if (key) fetchDataCountryIndex(combomoxCountry.value, key[0])
+})
+const button3 = document.getElementById('button3')
+button3.addEventListener('click', function () {
+    console.log('buton 3 apasat')
+    fetchDataBubbleChart()
 })
 function getMapKeyByValue(map, valueMap) {
     let keyrez
@@ -455,8 +460,9 @@ async function fetchData() {
             const indicator = datasetInfo.split('?')[0]
             countries.forEach((country, index) => {
                 const valoare = parseFloat(datasetData.value[index])
-                const valoareNonNull =
-                    valoare !== null ? parseFloat(valoare) : 0
+                // const valoareNonNull =
+                const valoareNonNull = !isNaN(valoare) ? valoare : 0
+                //     valoare !== null ? parseFloat(valoare) : 0
                 const dataPoint = {
                     tara: country,
                     an: year.toString(),
@@ -467,8 +473,8 @@ async function fetchData() {
             })
         })
         // console.log(dataFormatted)
-        // const jsonData = JSON.stringify(dataFormatted, null, 2)
-        // console.log(jsonData)
+        const jsonData = JSON.stringify(dataFormatted, null, 2)
+        console.log(jsonData)
         // fs.writeFile('data.json', jsonData, (err) => {
         //     console.log(err || 'Data written to file');
         // });
@@ -598,8 +604,10 @@ async function fetchDataCountryIndex(country, index) {
             bar.setAttribute('height', (values[i] * chartHeight) / maxValue)
             bar.onmousemove = function (event) {
                 let toolTipDiv = document.getElementById('tooltipDiv')
-                // let toolTipSpan = document.getElementById('tooltipSpan')
+                let toolTipSpan = document.getElementById('tooltipSpan')
                 console.log('esti deasuupra graficului')
+                toolTipSpan.innerHTML =
+                    'Year: ' + years[i] + '; Value: ' + values[i]
                 toolTipDiv.style.visibility = 'visible'
                 toolTipDiv.style.left = event.pageX + 20 + 'px'
                 toolTipDiv.style.top = event.pageY + 10 + 'px'
@@ -674,6 +682,193 @@ async function fetchDataCountryIndex(country, index) {
         yLabel.textContent = 'Values'
         svg.appendChild(yLabel)
         // if (svg) console.log('svg: exista ')
+    } catch (error) {
+        console.log(error)
+    }
+}
+///////
+async function fetchDataBubbleChart() {
+    const Url =
+        'https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data'
+    const datasets = [
+        'sdg_08_10?na_item=B1GQ&unit=CLV10_EUR_HAB',
+        'demo_mlexpec?sex=T&age=Y1',
+        'demo_pjan?sex=T&age=TOTAL',
+    ]
+    const format = 'JSON'
+    const lang = 'EN'
+    const countries = [
+        'BE',
+        'BG',
+        'CZ',
+        'DK',
+        'DE',
+        'EE',
+        'IE',
+        'EL',
+        'ES',
+        'FR',
+        'HR',
+        'IT',
+        'CY',
+        'LV',
+        'LT',
+        'LU',
+        'HU',
+        'MT',
+        'NL',
+        'AT',
+        'PL',
+        'PT',
+        'RO',
+        'SI',
+        'SK',
+        'FI',
+        'SE',
+    ]
+    let variabila = 12
+    const dataResult = []
+
+    const years = Array.from({ length: 16 }, (_, index) => 2007 + index)
+
+    for (const dataset of datasets) {
+        for (const year of years) {
+            const apiRequestUrl = `${Url}/${dataset}&format=${format}&lang=${lang}&time=${year}&geo=${countries.join(
+                '&geo='
+            )}`
+            try {
+                const response = await fetch(apiRequestUrl)
+                if (!response.ok) {
+                    throw new Error('API request failed')
+                }
+                const data = await response.json()
+                dataResult.push({ dataset, year, data })
+            } catch (error) {
+                console.log(error)
+            }
+        }
+    }
+
+    try {
+        variabila = 10
+        const dataFormatted = []
+        dataResult.forEach((result) => {
+            const datasetInfo = result.dataset
+            const year = result.year
+            const datasetData = result.data
+            const indicator = datasetInfo.split('?')[0]
+            countries.forEach((country, index) => {
+                const valoare = parseFloat(datasetData.value[index])
+                // const valoareNonNull =
+                const valoareNonNull = !isNaN(valoare) ? valoare : 0
+                //     valoare !== null ? parseFloat(valoare) : 0
+                const dataPoint = {
+                    tara: country,
+                    an: year.toString(),
+                    indicator: indicator,
+                    valoare: valoareNonNull,
+                }
+                dataFormatted.push(dataPoint)
+            })
+        })
+        // console.log(dataFormatted)
+        dataFormatted.sort((a, b) => {
+            if (a.an > b.an) return 1
+            else if (a.an < b.an) return -1
+            if (a.indicator > b.indicator) return 1
+            else if (a.indicator < b.indicator) return -1
+            return 0
+        })
+        // const jsonData = JSON.stringify(dataFormatted, null, 2)
+        // console.log(jsonData)
+        const canvas = document.getElementById('canvas')
+        const context = canvas.getContext('2d')
+        let xAxisLabel = 'GDP per capita'
+        let yAxisLabel = 'Life expectancy'
+        let xMin = 0
+        let xMax = Math.max(
+            ...dataFormatted
+                .filter((data) => data.indicator === 'sdg_08_10')
+                .map((data) => data.valoare)
+        )
+
+        let yMin = 0
+        let yMax = Math.max(
+            ...dataFormatted
+                .filter((data) => data.indicator === 'demo_mlexpec')
+                .map((data) => data.valoare)
+        )
+        console.log('xMax: ', xMax)
+        console.log('yMax: ', yMax)
+        function dataToCanvasX(x, y) {
+            let xScale = (canvas.width - 100) / (xMax - xMin)
+            let yScale = (canvas.height - 100) / (yMax - yMin)
+            let canvasX = Math.floor((x - xMin) * xScale) + 50
+            let canvasY = canvas.height - (Math.floor((y - yMin) * yScale) + 50)
+            console.log('canvasX: ', canvasX)
+            console.log('canvasY: ', canvasY)
+            return { x: canvasX, y: canvasY }
+        }
+        context.fillStyle = 'black'
+        context.fillRect(50, canvas.height - 50, canvas.width - 100, 2)
+        context.fillText(xAxisLabel, canvas.width / 2 - 40, canvas.height - 10)
+        context.fillRect(50, 50, 2, canvas.height - 100)
+        context.fillText(yAxisLabel, 10, canvas.height / 2)
+        for (let i = xMin; i <= xMax; i += 10000) {
+            let canvasCoords = dataToCanvasX(i, 0)
+            context.fillRect(canvasCoords.x, canvasCoords.y, 2, 10)
+            context.fillText(i, canvasCoords.x - 20, canvasCoords.y + 20)
+        }
+        for (let i = yMin; i <= yMax; i += 5) {
+            let canvasCoords = dataToCanvasX(0, i)
+            context.fillRect(canvasCoords.x, canvasCoords.y, 10, 2)
+            context.fillText(i, canvasCoords.x - 30, canvasCoords.y + 5)
+        }
+        // context.beginPath()
+        // context.arc(933, 650, 10, 0, 2 * Math.PI)
+        // console.log('canvas width: ', canvas.width)
+        // console.log('canvas height: ', canvas.height)
+        // context.fill()
+        // context.closePath()
+        console.log('ani: ', years)
+        console.log(optionsCountry)
+        years.forEach((year, index) => {
+            // context.clearRect(0, 0, canvas.width, canvas.height)
+
+            setTimeout(() => {
+                console.log('an: ', year)
+                optionsCountry.forEach((country) => {
+                    console.log('tara: ', country)
+                    let x = dataFormatted.find(
+                        (data) =>
+                            data.tara === country &&
+                            data.an === year.toString() &&
+                            data.indicator === 'sdg_08_10'
+                    )
+                    let y = dataFormatted.find(
+                        (data) =>
+                            data.tara === country &&
+                            data.an === year.toString() &&
+                            data.indicator === 'demo_mlexpec'
+                    )
+                    console.log('x: ', x)
+                    console.log('y: ', y)
+                    if (x && y) {
+                        let canvasCoords = dataToCanvasX(x.valoare, y.valoare)
+                        context.beginPath()
+                        context.arc(
+                            canvasCoords.x,
+                            canvasCoords.y,
+                            5,
+                            0,
+                            2 * Math.PI
+                        )
+                        context.fill()
+                        context.closePath()
+                    }
+                })
+            }, index * 3000) // 3 seconds = 3000 milliseconds
+        })
     } catch (error) {
         console.log(error)
     }
