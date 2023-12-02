@@ -27,6 +27,8 @@ const optionsCountry = [
     'FI',
     'SE',
 ]
+let globalData = []
+console.log('globalDataaaaa: ', globalData)
 let svg = document.getElementById('histogram')
 const combomoxCountry = document.getElementById('combobox1')
 optionsCountry.sort((a, b) => a.localeCompare(b))
@@ -74,7 +76,10 @@ optionsIndex.forEach((option) => {
 })
 const button1 = document.getElementById('button1')
 button1.addEventListener('click', function () {
-    fetchDataYear(combomoxYear.value)
+    // fetchDataYear(combomoxYear.value)
+    fetchData().then(() => {
+        createTableForYear(combomoxYear.value)
+    })
 })
 // button1.addEventListener('onmouseover', function () {
 //     console.log('esti peste butonul 1')
@@ -231,6 +236,88 @@ function getMapKeyByValue(map, valueMap) {
 // }
 
 // fetchData()
+
+async function createTableForYear(inputYear) {
+    // fetchData().then(() => {
+    const year = inputYear // Set the year you want to fetch
+    let count = 0
+    let sum = 0
+    let dataFormatted = globalData.concat()
+    // dataFormatted = dataFormatted.filter(
+    //     (data) => data.an === year.toString()
+    // )
+    console.log('dataFormatted: ', dataFormatted)
+
+    // console.log('dataFormatted: ', dataFormatted)
+    // let filteredData = dataFormatted.filter((data) => data.an === year.toString())
+    // console.log('dataformatttedfiltered', filteredData)
+    let table = document.getElementById('table')
+    if (count == 0 && table.children.length == 0) {
+        count++
+        console.log('count: ', count)
+        // let table = document.getElementById('table')
+        table.style.visibility = 'visible'
+        const tableRow = document.createElement('tr')
+
+        const headerCountry = document.createElement('th')
+        headerCountry.textContent = 'Country'
+        headerCountry.style.border = '1px solid black'
+        tableRow.appendChild(headerCountry)
+        optionsIndex.forEach((option) => {
+            const header = document.createElement('th')
+            header.textContent = option
+            header.style.border = '1px solid black'
+            tableRow.appendChild(header)
+        })
+
+        table.appendChild(tableRow)
+
+        sortedCountries.forEach((country) => {
+            const tableRow = document.createElement('tr')
+            tableRow.id = country
+            const tableHeader = document.createElement('th')
+            tableHeader.textContent = country
+            tableHeader.style.border = '1px solid black'
+            tableRow.appendChild(tableHeader)
+            optionsIndex.forEach((option) => {
+                const tableData = document.createElement('td')
+                tableData.className = 'td'
+                tableData.textContent = '0'
+                tableData.style.border = '1px solid black'
+                tableRow.appendChild(tableData)
+            })
+            table.appendChild(tableRow)
+        })
+    }
+    console.log('s-a creat tabelu!')
+    // const table = document.getElementById('table')
+    const rows = table.getElementsByTagName('tr')
+
+    console.log('lungime data', dataFormatted.length)
+    dataFormatted.forEach((dataPoint) => {
+        // console.log('an :', dataPoint.an, 'type :', typeof dataPoint.an)
+        // console.log('inputYear :', inputYear, 'type :', typeof inputYear)
+        // console.log('asta e anul: ' + dataPoint.an)
+        // console.log('an: ', dataPoint.an)
+        if (dataPoint.an === year.toString()) {
+            const row = rows.namedItem(dataPoint.tara)
+            const cells = row.getElementsByClassName('td')
+            const index = keysArray.indexOf(dataPoint.indicator)
+            console.log('valoare index: ', index)
+            //map indexi pt nume
+            // const cell = cells.namedItem(dataPoint.indicator)
+            const cell = cells[index]
+
+            // cell.textContent = dataPoint.valoare
+            cell.textContent = dataPoint.valoare === 0 ? '-' : dataPoint.valoare
+
+            // cell.style.backgroundColor = 'red'
+            colorCell(cell, dataPoint.valoare, sum)
+        }
+        // } else console.log('nu e anul: ')
+    })
+    // })
+}
 
 async function fetchDataYear(inputYear) {
     const Url =
@@ -469,12 +556,13 @@ async function fetchData() {
                     indicator: indicator,
                     valoare: valoareNonNull,
                 }
+                globalData.push(dataPoint)
                 dataFormatted.push(dataPoint)
             })
         })
         // console.log(dataFormatted)
-        const jsonData = JSON.stringify(dataFormatted, null, 2)
-        console.log(jsonData)
+        // const jsonData = JSON.stringify(dataFormatted, null, 2)
+        // console.log(jsonData)
         // fs.writeFile('data.json', jsonData, (err) => {
         //     console.log(err || 'Data written to file');
         // });
@@ -483,7 +571,9 @@ async function fetchData() {
     }
 }
 
-// fetchData()
+fetchData()
+console.log('globalDataAfterFetch: ', globalData)
+
 async function fetchDataCountryIndex(country, index) {
     const Url =
         'https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data'
@@ -783,6 +873,8 @@ async function fetchDataBubbleChart() {
         // console.log(jsonData)
         const canvas = document.getElementById('canvas')
         const context = canvas.getContext('2d')
+        const contextCircles = canvas.getContext('2d')
+
         let xAxisLabel = 'GDP per capita'
         let yAxisLabel = 'Life expectancy'
         let xMin = 0
@@ -809,6 +901,7 @@ async function fetchDataBubbleChart() {
             console.log('canvasY: ', canvasY)
             return { x: canvasX, y: canvasY }
         }
+        contextCircles.fillStyle = 'blue'
         context.fillStyle = 'black'
         context.fillRect(50, canvas.height - 50, canvas.width - 100, 2)
         context.fillText(xAxisLabel, canvas.width / 2 - 40, canvas.height - 10)
@@ -832,9 +925,44 @@ async function fetchDataBubbleChart() {
         // context.closePath()
         console.log('ani: ', years)
         console.log(optionsCountry)
-        years.forEach((year, index) => {
-            // context.clearRect(0, 0, canvas.width, canvas.height)
 
+        function Drawcircles(year) {
+            console.log('an: ', year)
+            optionsCountry.forEach((country) => {
+                console.log('tara: ', country)
+                let x = dataFormatted.find(
+                    (data) =>
+                        data.tara === country &&
+                        data.an === year.toString() &&
+                        data.indicator === 'sdg_08_10'
+                )
+                let y = dataFormatted.find(
+                    (data) =>
+                        data.tara === country &&
+                        data.an === year.toString() &&
+                        data.indicator === 'demo_mlexpec'
+                )
+                console.log('x: ', x)
+                console.log('y: ', y)
+                if (x && y) {
+                    let canvasCoords = dataToCanvasX(x.valoare, y.valoare)
+                    contextCircles.beginPath()
+                    contextCircles.arc(
+                        canvasCoords.x,
+                        canvasCoords.y,
+                        5,
+                        0,
+                        2 * Math.PI
+                    )
+                    contextCircles.fill()
+                    contextCircles.closePath()
+                }
+            })
+        }
+        years.forEach((year, index) => {
+            // setTimeout(() => {}, bind(this, year), index * 1000)
+            context.clearRect(55, 0, canvas.width, canvas.height - 55)
+            // context.clearRect(50, 50, 100, 100)
             setTimeout(() => {
                 console.log('an: ', year)
                 optionsCountry.forEach((country) => {
@@ -855,21 +983,37 @@ async function fetchDataBubbleChart() {
                     console.log('y: ', y)
                     if (x && y) {
                         let canvasCoords = dataToCanvasX(x.valoare, y.valoare)
-                        context.beginPath()
-                        context.arc(
+                        contextCircles.beginPath()
+                        contextCircles.arc(
                             canvasCoords.x,
                             canvasCoords.y,
-                            5,
+                            20,
                             0,
                             2 * Math.PI
                         )
-                        context.fill()
-                        context.closePath()
+                        contextCircles.fill()
+                        contextCircles.closePath()
                     }
                 })
-            }, index * 3000) // 3 seconds = 3000 milliseconds
+            }, index * 1000) // 3 seconds = 3000 milliseconds
         })
     } catch (error) {
         console.log(error)
     }
 }
+function iter() {
+    console.log('iter')
+    console.log('globalData len: ', globalData.length)
+    globalData.forEach((data) => {
+        if (
+            data.tara === 'BE' &&
+            data.an === '2007' &&
+            data.indicator === 'sdg_08_10'
+        )
+            console.log('an: ', data.an)
+    })
+}
+iter()
+fetchData().then(() => {
+    iter(globalData)
+})
