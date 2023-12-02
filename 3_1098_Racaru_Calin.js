@@ -1055,6 +1055,8 @@ async function fetchDataBubbleChart() {
                             canvasCoords.x - 10,
                             canvasCoords.y - 30
                         )
+                        contextCircles.font = '20px Arial'
+                        contextCircles.fillText(year, 700, 50)
                         // canvas.remove()
                         // chart.remove()
                     }
