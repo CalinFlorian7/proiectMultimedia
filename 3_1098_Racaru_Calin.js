@@ -1,3 +1,5 @@
+// const { doc } = require('prettier')
+
 const optionsCountry = [
     'BE',
     'BG',
@@ -871,10 +873,14 @@ async function fetchDataBubbleChart() {
         })
         // const jsonData = JSON.stringify(dataFormatted, null, 2)
         // console.log(jsonData)
-        const canvas = document.getElementById('canvas')
-        const context = canvas.getContext('2d')
-        const contextCircles = canvas.getContext('2d')
-
+        // const canvas = document.getElementById('canvas')
+        // let context = canvas.getContext('2d')
+        // let contextCircles = canvas.getContext('2d')
+        const chartContainer = document.getElementById('bubbleChart-container')
+        if (chartContainer.hasChildNodes) {
+            console.log(' are copii')
+            chartContainer.removeChild(chartContainer.firstChild)
+        }
         let xAxisLabel = 'GDP per capita'
         let yAxisLabel = 'Life expectancy'
         let xMin = 0
@@ -885,38 +891,39 @@ async function fetchDataBubbleChart() {
         )
 
         let yMin = 0
-        let yMax = Math.max(
-            ...dataFormatted
-                .filter((data) => data.indicator === 'demo_mlexpec')
-                .map((data) => data.valoare)
-        )
+        let yMax =
+            Math.max(
+                ...dataFormatted
+                    .filter((data) => data.indicator === 'demo_mlexpec')
+                    .map((data) => data.valoare)
+            ) + 20
         console.log('xMax: ', xMax)
         console.log('yMax: ', yMax)
-        function dataToCanvasX(x, y) {
-            let xScale = (canvas.width - 100) / (xMax - xMin)
-            let yScale = (canvas.height - 100) / (yMax - yMin)
+        function dataToCanvasX(x, y, canvas) {
+            let xScale = (1400 - 100) / (xMax - xMin)
+            let yScale = (700 - 100) / (yMax - yMin)
             let canvasX = Math.floor((x - xMin) * xScale) + 50
-            let canvasY = canvas.height - (Math.floor((y - yMin) * yScale) + 50)
+            let canvasY = 700 - (Math.floor((y - yMin) * yScale) + 50)
             console.log('canvasX: ', canvasX)
             console.log('canvasY: ', canvasY)
             return { x: canvasX, y: canvasY }
         }
-        contextCircles.fillStyle = 'blue'
-        context.fillStyle = 'black'
-        context.fillRect(50, canvas.height - 50, canvas.width - 100, 2)
-        context.fillText(xAxisLabel, canvas.width / 2 - 40, canvas.height - 10)
-        context.fillRect(50, 50, 2, canvas.height - 100)
-        context.fillText(yAxisLabel, 10, canvas.height / 2)
-        for (let i = xMin; i <= xMax; i += 10000) {
-            let canvasCoords = dataToCanvasX(i, 0)
-            context.fillRect(canvasCoords.x, canvasCoords.y, 2, 10)
-            context.fillText(i, canvasCoords.x - 20, canvasCoords.y + 20)
-        }
-        for (let i = yMin; i <= yMax; i += 5) {
-            let canvasCoords = dataToCanvasX(0, i)
-            context.fillRect(canvasCoords.x, canvasCoords.y, 10, 2)
-            context.fillText(i, canvasCoords.x - 30, canvasCoords.y + 5)
-        }
+        // contextCircles.fillStyle = 'blue'
+        // context.fillStyle = 'black'
+        // context.fillRect(50, canvas.height - 50, canvas.width - 100, 2)
+        // context.fillText(xAxisLabel, canvas.width / 2 - 40, canvas.height - 10)
+        // context.fillRect(50, 50, 2, canvas.height - 100)
+        // context.fillText(yAxisLabel, 10, canvas.height / 2)
+        // for (let i = xMin; i <= xMax; i += 10000) {
+        //     let canvasCoords = dataToCanvasX(i, 0)
+        //     context.fillRect(canvasCoords.x, canvasCoords.y, 2, 10)
+        //     context.fillText(i, canvasCoords.x - 20, canvasCoords.y + 20)
+        // }
+        // for (let i = yMin; i <= yMax; i += 5) {
+        //     let canvasCoords = dataToCanvasX(0, i)
+        //     context.fillRect(canvasCoords.x, canvasCoords.y, 10, 2)
+        //     context.fillText(i, canvasCoords.x - 30, canvasCoords.y + 5)
+        // }
         // context.beginPath()
         // context.arc(933, 650, 10, 0, 2 * Math.PI)
         // console.log('canvas width: ', canvas.width)
@@ -945,7 +952,11 @@ async function fetchDataBubbleChart() {
                 console.log('x: ', x)
                 console.log('y: ', y)
                 if (x && y) {
-                    let canvasCoords = dataToCanvasX(x.valoare, y.valoare)
+                    let canvasCoords = dataToCanvasX(
+                        x.valoare,
+                        y.valoare,
+                        canvas
+                    )
                     contextCircles.beginPath()
                     contextCircles.arc(
                         canvasCoords.x,
@@ -959,12 +970,45 @@ async function fetchDataBubbleChart() {
                 }
             })
         }
+        let divChart = document.getElementById('bubbleChart')
         years.forEach((year, index) => {
             // setTimeout(() => {}, bind(this, year), index * 1000)
-            context.clearRect(55, 0, canvas.width, canvas.height - 55)
+            // context.clearRect(55, 0, canvas.width, canvas.height - 55)
             // context.clearRect(50, 50, 100, 100)
             setTimeout(() => {
+                let canvas = document.createElement('canvas')
+                canvas.setAttribute('id', 'canvas' + index)
+                canvas.width = 1400
+                canvas.height = 700
+                let context = canvas.getContext('2d')
+                let contextCircles = canvas.getContext('2d')
+                divChart.appendChild(canvas)
+                console.log('se deseneaza un nou canvas')
                 console.log('an: ', year)
+                contextCircles.fillStyle = 'blue'
+                context.fillStyle = 'black'
+                context.fillRect(50, canvas.height - 50, canvas.width - 100, 2)
+                context.fillText(
+                    xAxisLabel,
+                    canvas.width / 2 - 40,
+                    canvas.height - 10
+                )
+                context.fillRect(50, 50, 2, canvas.height - 100)
+                context.fillText(yAxisLabel, 10, canvas.height / 2)
+                for (let i = xMin; i <= xMax; i += 10000) {
+                    let canvasCoords = dataToCanvasX(i, 0)
+                    context.fillRect(canvasCoords.x, canvasCoords.y, 2, 10)
+                    context.fillText(
+                        i,
+                        canvasCoords.x - 20,
+                        canvasCoords.y + 20
+                    )
+                }
+                for (let i = yMin; i <= yMax; i += 5) {
+                    let canvasCoords = dataToCanvasX(0, i)
+                    context.fillRect(canvasCoords.x, canvasCoords.y, 10, 2)
+                    context.fillText(i, canvasCoords.x - 30, canvasCoords.y + 5)
+                }
                 optionsCountry.forEach((country) => {
                     console.log('tara: ', country)
                     let x = dataFormatted.find(
@@ -993,8 +1037,12 @@ async function fetchDataBubbleChart() {
                         )
                         contextCircles.fill()
                         contextCircles.closePath()
+                        // canvas.remove()
+                        // chart.remove()
                     }
                 })
+                // canvas.remove()
+                // chart.remove()
             }, index * 1000) // 3 seconds = 3000 milliseconds
         })
     } catch (error) {
