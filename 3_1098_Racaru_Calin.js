@@ -879,7 +879,8 @@ async function fetchDataBubbleChart() {
         const chartContainer = document.getElementById('bubbleChart-container')
         if (chartContainer.hasChildNodes) {
             console.log(' are copii')
-            chartContainer.removeChild(chartContainer.firstChild)
+            // chartContainer.removeChild(chartContainer.firstChild)
+            chartContainer.replaceChildren()
         }
         let xAxisLabel = 'GDP per capita'
         let yAxisLabel = 'Life expectancy'
@@ -970,20 +971,25 @@ async function fetchDataBubbleChart() {
                 }
             })
         }
-        let divChart = document.getElementById('bubbleChart')
+
+        let divChart = document.createElement('div')
+        divChart.setAttribute('id', 'divChart')
+        chartContainer.appendChild(divChart)
         years.forEach((year, index) => {
             // setTimeout(() => {}, bind(this, year), index * 1000)
             // context.clearRect(55, 0, canvas.width, canvas.height - 55)
             // context.clearRect(50, 50, 100, 100)
             setTimeout(() => {
-                if (divChart.hasChildNodes) divChart.replaceChildren()
+                if (divChart != null) divChart.innerHTML = ''
+
                 let canvas = document.createElement('canvas')
                 canvas.setAttribute('id', 'canvas' + index)
                 canvas.width = 1400
                 canvas.height = 700
                 let context = canvas.getContext('2d')
                 let contextCircles = canvas.getContext('2d')
-                divChart.appendChild(canvas)
+                if (divChart != null) divChart.appendChild(canvas)
+                else console.log('divChartul este nulll: ')
                 console.log('se deseneaza un nou canvas')
                 console.log('an: ', year)
                 contextCircles.fillStyle = 'blue'
@@ -1039,8 +1045,16 @@ async function fetchDataBubbleChart() {
                             0,
                             2 * Math.PI
                         )
+
                         contextCircles.fill()
                         contextCircles.closePath()
+                        contextCircles.fillStyle = 'black'
+                        contextCircles.font = '12px Arial'
+                        contextCircles.fillText(
+                            country,
+                            canvasCoords.x - 10,
+                            canvasCoords.y - 30
+                        )
                         // canvas.remove()
                         // chart.remove()
                     }
@@ -1053,6 +1067,7 @@ async function fetchDataBubbleChart() {
         console.log(error)
     }
 }
+
 function iter() {
     console.log('iter')
     console.log('globalData len: ', globalData.length)
