@@ -1029,6 +1029,9 @@ async function fetchDataBubbleChart() {
                     if (x && y) {
                         let canvasCoords = dataToCanvasX(x.valoare, y.valoare)
                         contextCircles.beginPath()
+                        // contextCircles.fillStyle = 'blue'
+                        // contextCircles.fillStyle = 'rgb(255, 0, 0)' // Red color
+                        contextCircles.fillStyle = getRandomColor()
                         contextCircles.arc(
                             canvasCoords.x,
                             canvasCoords.y,
@@ -1062,6 +1065,15 @@ function iter() {
             console.log('an: ', data.an)
     })
 }
+function getRandomColor() {
+    var r = Math.floor(Math.random() * 256)
+    var g = Math.floor(Math.random() * 256)
+    var b = Math.floor(Math.random() * 256)
+    var rgbColor = 'rgb(' + r + ',' + g + ',' + b + ')'
+
+    return rgbColor
+}
+console.log('culoare: ', getRandomColor())
 iter()
 fetchData().then(() => {
     iter(globalData)
