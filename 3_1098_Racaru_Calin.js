@@ -976,6 +976,7 @@ async function fetchDataBubbleChart() {
             // context.clearRect(55, 0, canvas.width, canvas.height - 55)
             // context.clearRect(50, 50, 100, 100)
             setTimeout(() => {
+                if (divChart.hasChildNodes) divChart.replaceChildren()
                 let canvas = document.createElement('canvas')
                 canvas.setAttribute('id', 'canvas' + index)
                 canvas.width = 1400
