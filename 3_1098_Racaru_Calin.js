@@ -893,7 +893,7 @@ async function fetchDataBubbleChart() {
                 ...dataFormatted
                     .filter((data) => data.indicator === 'demo_mlexpec')
                     .map((data) => data.valoare)
-            ) + 20
+            ) + 10
         console.log('xMax: ', xMax)
         console.log('yMax: ', yMax)
         function dataToCanvasX(x, y, canvas) {
