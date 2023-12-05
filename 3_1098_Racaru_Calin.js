@@ -40,7 +40,6 @@ optionsCountry.forEach((option) => {
     element.textContent = option
     combomoxCountry.appendChild(element)
 })
-
 const optionsYear = Array.from(
     { length: 2022 - 2000 + 1 },
     (_, index) => 2000 + index
@@ -78,10 +77,10 @@ optionsIndex.forEach((option) => {
 })
 const button1 = document.getElementById('button1')
 button1.addEventListener('click', function () {
-    // fetchDataYear(combomoxYear.value)
-    fetchData().then(() => {
-        createTableForYear(combomoxYear.value)
-    })
+    fetchDataYear(combomoxYear.value)
+    // fetchData().then(() => {
+    //     createTableForYear(combomoxYear.value)
+    // })
 })
 // button1.addEventListener('onmouseover', function () {
 //     console.log('esti peste butonul 1')
@@ -526,8 +525,10 @@ async function fetchData() {
             const apiRequestUrl = `${Url}/${dataset}&format=${format}&lang=${lang}&time=${year}&geo=${countries.join(
                 '&geo='
             )}`
+            // console.log('apiRequestUrl: ', apiRequestUrl)
             try {
                 const response = await fetch(apiRequestUrl)
+
                 if (!response.ok) {
                     throw new Error('API request failed')
                 }
@@ -562,12 +563,6 @@ async function fetchData() {
                 dataFormatted.push(dataPoint)
             })
         })
-        // console.log(dataFormatted)
-        // const jsonData = JSON.stringify(dataFormatted, null, 2)
-        // console.log(jsonData)
-        // fs.writeFile('data.json', jsonData, (err) => {
-        //     console.log(err || 'Data written to file');
-        // });
     } catch (error) {
         console.log(error)
     }
@@ -625,6 +620,7 @@ async function fetchDataCountryIndex(country, index) {
             const apiRequestUrl = `${Url}/${dataset}&format=${format}&lang=${lang}&time=${year}&geo=${countries.join(
                 '&geo='
             )}`
+            // console.log('apiRequestUrl: ' + apiRequestUrl)
             try {
                 const response = await fetch(apiRequestUrl)
                 if (!response.ok) {
